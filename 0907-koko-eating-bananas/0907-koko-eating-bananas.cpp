@@ -3,7 +3,7 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int k=1;
         long long time=0;
-        for (k; k!=2147483646; k=k+10)
+        for (k; k!=2147483646; k=k+100)
         {
             time=0;
             for (int i=0; i!=piles.size(); i++)
@@ -13,7 +13,7 @@ public:
             }
             if (time<=h) break;
         }
-        for (k=max(k-10,1); k!=2147483646; k=k+1)
+        for (k=max(k-100,1); k!=2147483646; k=k+1)
         {
             time=0;
             for (int i=0; i!=piles.size(); i++)
