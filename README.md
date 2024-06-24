@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Nikitiwe/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Nikitiwe/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1310-watering-plants](https://github.com/Nikitiwe/Leetcode/tree/master/1310-watering-plants) |
+| [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 # Prefix Sum
 |  |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/Nikitiwe/Leetcode/tree/master/1310-watering-plants) |
+| [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
 # Depth-First Search
 |  |
 | ------- |
