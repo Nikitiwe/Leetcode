@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nikitiwe/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -42,11 +43,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 # Geometry
 |  |
 | ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 # Greedy
 |  |
