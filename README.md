@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-watering-plants](https://github.com/Nikitiwe/Leetcode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nikitiwe/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1310-watering-plants](https://github.com/Nikitiwe/Leetcode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nikitiwe/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nikitiwe/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Nikitiwe/Leetcode/tree/master/0739-daily-temperatures) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 # Monotonic Stack
 |  |
 | ------- |
