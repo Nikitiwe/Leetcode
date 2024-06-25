@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nikitiwe/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Stack
 |  |
 | ------- |
