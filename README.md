@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Nikitiwe/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Binary Search
 |  |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1752-arithmetic-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 # Combinatorics
 |  |
 | ------- |
