@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-arithmetic-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nikitiwe/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2103-find-all-groups-of-farmland](https://github.com/Nikitiwe/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nikitiwe/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nikitiwe/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -83,10 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nikitiwe/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [2103-find-all-groups-of-farmland](https://github.com/Nikitiwe/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 # Matrix
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Nikitiwe/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [2103-find-all-groups-of-farmland](https://github.com/Nikitiwe/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Stack
 |  |
@@ -117,3 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+# Breadth-First Search
+|  |
+| ------- |
+| [2103-find-all-groups-of-farmland](https://github.com/Nikitiwe/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
