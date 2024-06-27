@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Nikitiwe/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 # Geometry
 |  |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nikitiwe/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 # Prefix Sum
 |  |
 | ------- |
