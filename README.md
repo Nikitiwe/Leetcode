@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/Nikitiwe/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 # Geometry
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikitiwe/Leetcode/tree/master/0011-container-with-most-water) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 # String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/Nikitiwe/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nikitiwe/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Nikitiwe/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 # Prefix Sum
 |  |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 # Hash Table
 |  |
 | ------- |
