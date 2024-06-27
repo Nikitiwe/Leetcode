@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nikitiwe/Leetcode/tree/master/0012-integer-to-roman) |
 | [0537-complex-number-multiplication](https://github.com/Nikitiwe/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Nikitiwe/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nikitiwe/Leetcode/tree/master/0012-integer-to-roman) |
 | [0537-complex-number-multiplication](https://github.com/Nikitiwe/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1449-print-words-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/1449-print-words-vertically) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nikitiwe/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nikitiwe/Leetcode/tree/master/0012-integer-to-roman) |
 | [1752-arithmetic-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 # Combinatorics
