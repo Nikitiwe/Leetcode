@@ -161,9 +161,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Graph
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
