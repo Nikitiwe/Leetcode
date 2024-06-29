@@ -7,6 +7,7 @@ public:
         if (sum%3!=0) return b;
         if (sum==0) return c;
         sum=sum/3;
+        int sum2=2*sum, sum3=3*sum;
         i=0;
         for (i=0; i!=arr.size(); i++)
         {
@@ -14,8 +15,8 @@ public:
             {
                 count++;
                 if (count==sum) l=i;
-                if (count==2*sum) r=i;
-                if (count==3*sum) {e=i; break;}
+                if (count==sum2) r=i;
+                if (count==sum3) {e=i; break;}
             }
         }
         i=0; count=0;
