@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Combinatorics
 |  |
@@ -214,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
