@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
@@ -244,4 +246,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
