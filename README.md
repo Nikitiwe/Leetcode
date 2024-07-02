@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/Nikitiwe/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Nikitiwe/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
