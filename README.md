@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nikitiwe/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
 | [1205-defanging-an-ip-address](https://github.com/Nikitiwe/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Nikitiwe/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
