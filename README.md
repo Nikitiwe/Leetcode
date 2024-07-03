@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
 | ------- |
