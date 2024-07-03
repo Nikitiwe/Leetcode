@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Nikitiwe/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -332,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
