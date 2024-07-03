@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nikitiwe/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
