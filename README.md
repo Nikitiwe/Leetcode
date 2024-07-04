@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0796-reaching-points](https://github.com/Nikitiwe/Leetcode/tree/master/0796-reaching-points) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Brainteaser
