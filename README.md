@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
