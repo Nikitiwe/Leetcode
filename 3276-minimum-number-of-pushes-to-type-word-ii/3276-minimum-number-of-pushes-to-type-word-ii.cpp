@@ -12,6 +12,7 @@ public:
         for (int i=25; i>=0; i--)
         {
             if (w[i]!=0) {count++; ans=ans+w[i]*((count+7)/8);}
+            else break;
         }
         return ans;
     }
