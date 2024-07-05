@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nikitiwe/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
