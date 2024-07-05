@@ -3,11 +3,11 @@ public:
     vector<long long> findPrefixScore(vector<int>& nums) {
         vector<long long> ans;
         long long sum=0;
-        int max=0;
+        int m=0;
         for (int i=0; i!=nums.size(); i++)
         {
-            if (nums[i]>max) max=nums[i];
-            sum=sum+nums[i]+max;
+            m=max(nums[i], m);
+            sum=sum+nums[i]+m;
             ans.push_back(sum);
         }
         return ans;
