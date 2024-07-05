@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
