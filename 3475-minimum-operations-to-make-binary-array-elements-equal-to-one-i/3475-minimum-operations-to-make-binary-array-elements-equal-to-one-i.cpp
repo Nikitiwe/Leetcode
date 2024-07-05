@@ -8,8 +8,8 @@ public:
             {
                 ans++;
                 nums[i]++;
-                nums[i+1]=(nums[i+1]+1)%2;
-                nums[i+2]=(nums[i+2]+1)%2;
+                nums[i+1]=1-nums[i+1];
+                nums[i+2]=1-nums[i+2];
             }
         }
         if (nums[nums.size()-1]==0||nums[nums.size()-2]==0) return -1;
