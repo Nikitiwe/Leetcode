@@ -10,7 +10,7 @@ public:
         int ans=0, i=0;
         while (i<rocks.size())
         {
-            if (additionalRocks-delta[i]>=0)
+            if (additionalRocks>=delta[i])
             {
                 additionalRocks-=delta[i];
                 i++;
