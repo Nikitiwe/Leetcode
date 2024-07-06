@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nikitiwe/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
