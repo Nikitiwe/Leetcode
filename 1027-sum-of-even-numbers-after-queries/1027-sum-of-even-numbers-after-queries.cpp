@@ -9,7 +9,7 @@ public:
         }
         for (int i=0; i!=nums.size(); i++)
         {
-            if (abs(queries[i][0])%2==0&&abs(nums[queries[i][1]]%2)==0) 
+            if (queries[i][0]%2==0&&nums[queries[i][1]]%2==0) 
             {
                 sum+=queries[i][0];
             }
@@ -17,7 +17,7 @@ public:
             {
                 sum=sum+nums[queries[i][1]]+queries[i][0];
             }
-            else if (abs(queries[i][0])%2==1&&abs(nums[queries[i][1]]%2)==0)
+            else if (abs(queries[i][0])%2==1&&nums[queries[i][1]]%2==0)
             {
                 sum=sum-nums[queries[i][1]];
             }
