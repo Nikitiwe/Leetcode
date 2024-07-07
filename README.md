@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Nikitiwe/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Nikitiwe/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/Nikitiwe/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/Nikitiwe/Leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
