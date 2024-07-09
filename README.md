@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Combinatorics
 |  |
 | ------- |
