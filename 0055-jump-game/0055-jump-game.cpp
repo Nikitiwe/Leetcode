@@ -5,8 +5,9 @@ public:
         nums[nums.size()-1]=nums.size();
         for (int i=nums.size()-2; i>=0; i--)
         {
-            for (int j=0; j<=nums[i]; j++)
+            for (int j=nums[i]; j>=0; j--)
             {
+                if (i+j>nums.size()-1) j=nums.size()-1-i;
                 if (nums[i+j]==nums.size()) {nums[i]=nums.size(); break;}
             }
         }
