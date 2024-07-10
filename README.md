@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/Nikitiwe/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Nikitiwe/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
