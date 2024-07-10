@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-incremental-memory-leak](https://github.com/Nikitiwe/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
