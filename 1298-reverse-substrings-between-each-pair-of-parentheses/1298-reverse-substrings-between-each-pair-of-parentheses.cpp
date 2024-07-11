@@ -1,9 +1,9 @@
 class Solution {
 public:
     string reverseParentheses(string s) {
+        int i=0;
         while (find(s.begin(), s.end(),'(')!=s.end())
         {
-            int i=0;
             while (s[i]!=')') i++;
             int j=i;
             while (s[j]!='(') j--;
