@@ -20,6 +20,7 @@ public:
                     if (f==1) {f=0; s=r;}
                     ans++;
                 }
+                else if (sums[r]-sums[i]>goal) break;
                 r++;
             }
         }
