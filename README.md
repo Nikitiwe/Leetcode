@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Nikitiwe/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Nikitiwe/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3336-water-bottles-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
+| [3336-water-bottles-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Counting
 |  |
 | ------- |
