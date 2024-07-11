@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nikitiwe/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Nikitiwe/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -675,5 +679,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
