@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nikitiwe/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Nikitiwe/Leetcode/tree/master/1127-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -608,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Game Theory
 |  |
