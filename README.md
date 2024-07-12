@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Nikitiwe/Leetcode/tree/master/1127-last-stone-weight) |
+| [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/Nikitiwe/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
