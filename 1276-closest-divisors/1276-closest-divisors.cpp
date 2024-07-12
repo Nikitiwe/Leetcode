@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> closestDivisors(int num) {
-        int ans1, ans2, a, b;
+        int ans1, ans2, a;
         a=sqrt(num+1);
         while (1)
         {
