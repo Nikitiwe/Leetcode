@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0137-single-number-ii) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
