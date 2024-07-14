@@ -4,7 +4,7 @@ public:
         if (finalSum%2==1) return {};
         vector<long long> ans;
         long long i=2;
-        while (i+i+2<=finalSum)
+        while (2*i+2<=finalSum)
         {
             ans.push_back(i);
             finalSum-=i;
