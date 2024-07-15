@@ -19,8 +19,8 @@ public:
         sum=0;
         for (int i=left-1; i!=right; i++)
         {
-            sum=(sum+ans[i])%1000000007;
+            sum+=ans[i];
         }
-        return sum;
+        return sum%1000000007;
     }
 };
