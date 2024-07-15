@@ -13,8 +13,8 @@ public:
         {
             for(int j=0; j!=ans[i].size(); j++)
             {
-                if (ans[i][j]>1) ans[i+1][j]+=(ans[i][j]-1)/2;
-                if (ans[i][j]>1) {ans[i+1][j+1]+=(ans[i][j]-1)/2; ans[i][j]=1;}
+                if (ans[i][j]>1)
+                {ans[i+1][j]+=(ans[i][j]-1)/2; ans[i+1][j+1]+=(ans[i][j]-1)/2; ans[i][j]=1;}
             }
         }
         return ans[query_row][query_glass];
