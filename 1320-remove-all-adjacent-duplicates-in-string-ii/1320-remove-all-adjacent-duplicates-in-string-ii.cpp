@@ -22,7 +22,7 @@ public:
                     {
                         for (int j=0; j!=k; j++)
                         {
-                            ans.erase(ans.begin()+ans.size()-1);
+                            ans.pop_back();
                         }
                     }
                 }
