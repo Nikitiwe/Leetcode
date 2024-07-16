@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/Nikitiwe/Leetcode/tree/master/1212-sequential-digits) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Stack
 |  |
