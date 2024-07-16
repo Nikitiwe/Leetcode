@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0815-champagne-tower](https://github.com/Nikitiwe/Leetcode/tree/master/0815-champagne-tower) |
+| [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Nikitiwe/Leetcode/tree/master/0807-custom-sort-string) |
+| [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
