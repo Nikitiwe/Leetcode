@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Nikitiwe/Leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
