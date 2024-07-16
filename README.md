@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1304-longest-happy-string](https://github.com/Nikitiwe/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Nikitiwe/Leetcode/tree/master/1127-last-stone-weight) |
+| [1304-longest-happy-string](https://github.com/Nikitiwe/Leetcode/tree/master/1304-longest-happy-string) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/Nikitiwe/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/Nikitiwe/Leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
