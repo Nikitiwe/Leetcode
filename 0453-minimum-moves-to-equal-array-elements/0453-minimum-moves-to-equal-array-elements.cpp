@@ -2,10 +2,10 @@ class Solution {
 public:
     int minMoves(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int ans=0;
+        long long ans=0-nums[0]*nums.size();
         for (int i=0; i!=nums.size(); i++)
         {
-            ans+=nums[i]-nums[0];
+            ans+=nums[i];
         }
         return ans;
     }
