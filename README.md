@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikitiwe/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nikitiwe/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Nikitiwe/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1797-goal-parser-interpretation](https://github.com/Nikitiwe/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikitiwe/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
