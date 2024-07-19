@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Nikitiwe/Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nikitiwe/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
