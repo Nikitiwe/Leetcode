@@ -11,6 +11,7 @@ public:
                 for (int i=1; i<=100; i++)
                 {
                     temp=j-i*i;
+                    if(temp<0) break;
                     if(temp>=0&&ans[temp]!=999) ans[j]=min(ans[temp]+1, ans[j]);
                 }
             }
