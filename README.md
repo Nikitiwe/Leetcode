@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -825,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Nikitiwe/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
