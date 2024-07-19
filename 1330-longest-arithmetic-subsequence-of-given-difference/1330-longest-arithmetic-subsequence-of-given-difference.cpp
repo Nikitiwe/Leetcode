@@ -6,8 +6,8 @@ public:
         for (int i=0; i!=arr.size(); i++)
         {
             t=1;
-            if (m.count(arr[i]-difference) > 0) {t=m[arr[i]-difference]+1; ans=max(ans, t);}
-            if (m.count(arr[i]) == 0) m.insert(make_pair(arr[i], t));
+            if (m.contains(arr[i]-difference)) {t=m[arr[i]-difference]+1; ans=max(ans, t);}
+            if (!m.contains(arr[i])) m.insert(make_pair(arr[i], t));
             else m[arr[i]] = max(m[arr[i]], t);
         }
         return ans;
