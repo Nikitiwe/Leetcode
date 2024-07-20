@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Number Theory
 |  |
 | ------- |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Counting
 |  |
 | ------- |
@@ -784,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
 |  |
