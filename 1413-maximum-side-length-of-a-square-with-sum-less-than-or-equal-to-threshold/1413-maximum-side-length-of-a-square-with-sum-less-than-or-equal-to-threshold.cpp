@@ -23,6 +23,7 @@ public:
                 {
                     temp=sum[i+k][j+k]+sum[i-1][j-1]-sum[i+k][j-1]-sum[i-1][j+k];
                     if (temp<=threshold) ans=max(ans, k+1);
+                    else break;
                 }
             }
         }
