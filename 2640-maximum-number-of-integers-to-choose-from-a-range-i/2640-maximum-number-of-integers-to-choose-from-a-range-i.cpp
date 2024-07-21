@@ -4,7 +4,7 @@ public:
         unordered_set<int> m;
         for (int i=0; i!=banned.size(); i++)
         {
-            m.insert(banned[i]);
+            if (banned[i]<=n) m.insert(banned[i]);
         }
         int ans=0, sum=0;
         for (int i=1; i<=n; i++)
