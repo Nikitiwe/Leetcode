@@ -12,7 +12,7 @@ public:
                 if (arr[i]<m)
                 {
                     r=i;
-                    for (int j=tempm; j<r; j++)
+                    for (int j=tempm+1; j<r; j++)
                     {
                         if (arr[j]>m)
                         {
