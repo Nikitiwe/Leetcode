@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nikitiwe/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0552-student-attendance-record-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0552-student-attendance-record-ii) |
@@ -896,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
