@@ -6,7 +6,7 @@ public:
         {
             sum+=quantities[i];
         }
-        long long l=sum/n, ans=l, temp=n, r=2*ans+2*quantities.size();
+        long long l=sum/n, ans=l, temp=n, r=*max_element(quantities.begin(), quantities.end());
         if (ans==0) return 1;
         if (sum%n>0) ans++;
         while (l<r-1)
