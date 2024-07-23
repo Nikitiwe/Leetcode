@@ -1,7 +1,7 @@
 class Solution {
 public:
     int totalHammingDistance(vector<int>& nums) {
-        vector<int> zero(33, nums.size()), one(33, 0);
+        vector<int> zero(31, nums.size()), one(31, 0);
         int ans=0, temp;
         for (int i=0; i!=nums.size(); i++)
         {
@@ -17,7 +17,7 @@ public:
                 temp++;
             }
         }
-        for (int i=0; i!=33; i++)
+        for (int i=0; i!=31; i++)
         {
             ans+=zero[i]*one[i];
         }
