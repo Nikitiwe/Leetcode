@@ -14,15 +14,17 @@ public:
                     else temp++;
                 }
             }
-            if (f==1) m=min(m, temp);
-            f=1;
-            temp=0;
-            for (int j=0; j!=tops.size(); j++)
+            if (f==1)
             {
-                if (bottoms[j]!=i)
+                m=min(m, temp);
+                temp=0;
+                for (int j=0; j!=tops.size(); j++)
                 {
-                    if (tops[j]!=i) {f=0; break;}
-                    else temp++;
+                    if (bottoms[j]!=i)
+                    {
+                        if (tops[j]!=i) {f=0; break;}
+                        else temp++;
+                    }
                 }
             }
             if (f==1) m=min(m, temp);
