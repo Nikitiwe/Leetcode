@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -818,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
