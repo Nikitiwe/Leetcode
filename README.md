@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Nikitiwe/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nikitiwe/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nikitiwe/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
@@ -908,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nikitiwe/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Nikitiwe/Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Nikitiwe/Leetcode/tree/master/0735-asteroid-collision) |
