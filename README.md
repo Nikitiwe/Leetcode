@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nikitiwe/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Nikitiwe/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nikitiwe/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nikitiwe/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
