@@ -1,11 +1,7 @@
 class Solution {
 public:
     vector<int> relocateMarbles(vector<int>& nums, vector<int>& moveFrom, vector<int>& moveTo) {
-        unordered_set<int> m;
-        for (int i=0; i!=nums.size(); i++)
-        {
-            m.insert(nums[i]);
-        }
+        unordered_set<int> m(nums.begin(), nums.end());;
         for (int i=0; i!=moveFrom.size(); i++)
         {
             m.erase(moveFrom[i]);
