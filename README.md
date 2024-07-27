@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikitiwe/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -961,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
