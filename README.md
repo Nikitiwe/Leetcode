@@ -729,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikitiwe/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -827,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nikitiwe/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
