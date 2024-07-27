@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nikitiwe/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Nikitiwe/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nikitiwe/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2245-destroying-asteroids](https://github.com/Nikitiwe/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
