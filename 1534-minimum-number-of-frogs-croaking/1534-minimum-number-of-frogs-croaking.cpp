@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minNumberOfFrogs(string croakOfFrogs) {
-        vector<int> arr(5, 0);
+       /* vector<int> arr(5, 0);
         for (int i=0; i!=croakOfFrogs.size(); i++)
         {
             if (croakOfFrogs[i]=='c') arr[0]++;
@@ -10,7 +10,7 @@ public:
             else if (croakOfFrogs[i]=='a') arr[3]++;
             else arr[4]++;
         }
-        if (arr[0]!=arr[1]||arr[0]!=arr[2]||arr[0]!=arr[3]||arr[0]!=arr[4]) return -1;
+        if (arr[0]!=arr[1]||arr[0]!=arr[2]||arr[0]!=arr[3]||arr[0]!=arr[4]) return -1;*/
         int c=0, r=0, o=0, a=0, k=0, ans=0, f=0;
         for (int i=0; i!=croakOfFrogs.size(); i++)
         {
@@ -41,6 +41,7 @@ public:
                 f++;
             }
         }
-        return arr[0]-ans;
+        if (c!=r||c!=o||c!=a||c!=k) return -1;
+        return c-ans;
     }
 };
