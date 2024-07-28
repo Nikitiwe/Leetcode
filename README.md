@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -773,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1014,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Bit Manipulation
 |  |
 | ------- |
