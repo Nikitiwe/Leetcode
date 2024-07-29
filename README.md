@@ -661,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0552-student-attendance-record-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0650-2-keys-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0804-rotated-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0804-rotated-digits) |
+| [0806-domino-and-tromino-tiling](https://github.com/Nikitiwe/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/Nikitiwe/Leetcode/tree/master/0815-champagne-tower) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
