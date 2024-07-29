@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Nikitiwe/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nikitiwe/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Nikitiwe/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikitiwe/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
@@ -1009,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Nikitiwe/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
