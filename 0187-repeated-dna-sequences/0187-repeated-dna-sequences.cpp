@@ -7,11 +7,7 @@ public:
         if (s.size()<10) return ans;
         for (int i=0; i!=s.size()-9; i++)
         {
-            temp="";
-            for (int j=0; j!=10; j++)
-            {
-                temp+=s[i+j];
-            }
+            temp=s.substr(i,10);
             if (m.count(temp)==0) m.insert({temp, 1});
             else {if (m[temp]==1) ans.push_back(temp); m[temp]++;}
         }
