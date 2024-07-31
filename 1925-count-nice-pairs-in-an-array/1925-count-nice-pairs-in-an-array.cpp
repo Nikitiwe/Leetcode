@@ -10,15 +10,13 @@ public:
             reverse(s.begin(), s.end());
             temp=nums[i]-stoi(s);
             if (m.count(temp)==0) m.insert({temp, 1});
-            else {m[temp]++; ans+=m[temp]-1;}
-            //ans%=1000000007;
+            else m[temp]++;
         }
-        /*for (auto it=m.begin(); it!=m.end(); it++)
+        for (auto it=m.begin(); it!=m.end(); it++)
         {
             temp=it->second;
             ans+=temp*(temp-1)/2;
-            ans%=1000000007;
-        }*/
+        }
         return ans%1000000007;
     }
 };
