@@ -756,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Nikitiwe/Leetcode/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0858-masking-personal-information](https://github.com/Nikitiwe/Leetcode/tree/master/0858-masking-personal-information) |
 | [0862-find-and-replace-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
