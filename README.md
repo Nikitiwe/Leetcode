@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/Nikitiwe/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1332-count-vowels-permutation) |
+| [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
