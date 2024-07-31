@@ -760,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Nikitiwe/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Nikitiwe/Leetcode/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Nikitiwe/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/Nikitiwe/Leetcode/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -883,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/Nikitiwe/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
