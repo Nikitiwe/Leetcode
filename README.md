@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nikitiwe/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Nikitiwe/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -761,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Nikitiwe/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Nikitiwe/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Nikitiwe/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -884,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Nikitiwe/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
