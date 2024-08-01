@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/Nikitiwe/Leetcode/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0670-maximum-swap) |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
