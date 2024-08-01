@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Nikitiwe/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -889,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Nikitiwe/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1161,6 +1163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
