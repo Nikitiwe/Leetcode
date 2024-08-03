@@ -892,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Nikitiwe/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Nikitiwe/Leetcode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -1314,4 +1315,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Nikitiwe/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
