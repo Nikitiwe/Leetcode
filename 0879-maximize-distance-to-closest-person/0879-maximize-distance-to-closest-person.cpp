@@ -12,7 +12,7 @@ public:
             }
         }
         temp=0;
-        for (int i=0; i!=s.size(); i++)
+        for (int i=ans; i!=s.size(); i++)
         {
             if (s[i]==0) temp++;
             else
