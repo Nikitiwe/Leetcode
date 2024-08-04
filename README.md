@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nikitiwe/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikitiwe/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -982,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
