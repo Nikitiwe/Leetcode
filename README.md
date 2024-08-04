@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3374-count-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -779,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Combinatorics
 |  |
@@ -1108,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
