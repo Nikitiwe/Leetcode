@@ -695,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Nikitiwe/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/Nikitiwe/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -1167,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
 ## Stack
 |  |
