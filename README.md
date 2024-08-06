@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Nikitiwe/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nikitiwe/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
