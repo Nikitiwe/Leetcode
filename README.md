@@ -785,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -1014,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
