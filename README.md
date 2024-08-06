@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2228-watering-plants-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -889,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
