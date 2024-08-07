@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0454-4sum-ii) |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0552-student-attendance-record-ii) |
