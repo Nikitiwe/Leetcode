@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Nikitiwe/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2211-k-radius-subarray-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nikitiwe/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2228-watering-plants-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2228-watering-plants-ii) |
@@ -1340,6 +1341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikitiwe/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2211-k-radius-subarray-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
