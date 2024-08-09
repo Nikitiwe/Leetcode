@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -1088,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
