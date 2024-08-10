@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -1060,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -1369,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
