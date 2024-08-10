@@ -634,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-maximum-achievable-number](https://github.com/Nikitiwe/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nikitiwe/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3336-water-bottles-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -1279,6 +1281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Stack
 |  |
 | ------- |
