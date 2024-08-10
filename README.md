@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -1102,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1261,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
