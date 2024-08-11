@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1705-count-unhappy-friends](https://github.com/Nikitiwe/Leetcode/tree/master/1705-count-unhappy-friends) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Nikitiwe/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -1156,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1705-count-unhappy-friends](https://github.com/Nikitiwe/Leetcode/tree/master/1705-count-unhappy-friends) |
+| [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Nikitiwe/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nikitiwe/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
