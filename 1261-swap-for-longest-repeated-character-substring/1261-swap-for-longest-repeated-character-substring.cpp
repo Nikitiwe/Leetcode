@@ -8,7 +8,7 @@ public:
             for (int j=0; j!=text.size(); j++) if (text[j]==i) sum++;
             if (text[r]==i) temp++;
             else diff++;
-            if (sum>0) while (r<text.size())
+            if (sum>gans) while (r<text.size())
             {
                 if (diff<=1)
                 {
