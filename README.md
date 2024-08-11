@@ -935,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1252-break-a-palindrome](https://github.com/Nikitiwe/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Nikitiwe/Leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1091,6 +1092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1411,6 +1413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
