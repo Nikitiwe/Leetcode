@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -1244,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Brainteaser
 |  |
