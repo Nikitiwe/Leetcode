@@ -22,7 +22,6 @@ public:
         }
         for (int i=0; i<image.size(); i++) {arr[i][0]=-1; arr[i][image[0].size()-1]=-1;}
         for (int j=0; j<image[0].size(); j++) {arr[0][0]=-1; arr[image.size()-1][j]=-1;}
-        //vector<vector<int>> ans=image;
         for (int i=1; i<image.size()-1; i++)
         {
             for (int j=1; j<image[0].size()-1; j++)
@@ -37,10 +36,21 @@ public:
         }
         int temp, count;
         for (int i=0; i<image.size(); i++)
-        {
-            for (int j=0; j<image[0].size(); j++)
-            {
+        { // это левый столбец, то есть j==0
                 temp=0; count=0;
+                int j=0;
+                if (i>0&&arr[i-1][j]>=0) {temp+=arr[i-1][j]; count++;}
+                if (i>0&&j+1<image[0].size()&&arr[i-1][j+1]>=0) {temp+=arr[i-1][j+1]; count++;}
+                if (arr[i][j]>=0) {temp+=arr[i][j]; count++;}
+                if (j+1<image[0].size()&&arr[i][j+1]>=0) {temp+=arr[i][j+1]; count++;}
+                if (i+1<image.size()&&arr[i+1][j]>=0) {temp+=arr[i+1][j]; count++;}
+                if (i+1<image.size()&&j+1<image[0].size()&&arr[i+1][j+1]>=0) {temp+=arr[i+1][j+1]; count++;}
+                if (count>0) image[i][j]=temp/count;
+        }
+        for (int i=0; i<image.size(); i++)
+        { // это правый столбец, то есть j==image[0].size()-1
+                temp=0; count=0;
+                int j=image[0].size()-1;
                 if (i>0&&j>0&&arr[i-1][j-1]>=0) {temp+=arr[i-1][j-1]; count++;}
                 if (i>0&&arr[i-1][j]>=0) {temp+=arr[i-1][j]; count++;}
                 if (i>0&&j+1<image[0].size()&&arr[i-1][j+1]>=0) {temp+=arr[i-1][j+1]; count++;}
@@ -50,6 +60,52 @@ public:
                 if (i+1<image.size()&&j>0&&arr[i+1][j-1]>=0) {temp+=arr[i+1][j-1]; count++;}
                 if (i+1<image.size()&&arr[i+1][j]>=0) {temp+=arr[i+1][j]; count++;}
                 if (i+1<image.size()&&j+1<image[0].size()&&arr[i+1][j+1]>=0) {temp+=arr[i+1][j+1]; count++;}
+                if (count>0) image[i][j]=temp/count;
+        }
+        for (int j=0; j<image[0].size(); j++)
+        { // верхняя строка
+                temp=0; count=0;
+                int i=0;
+                if (i>0&&j>0&&arr[i-1][j-1]>=0) {temp+=arr[i-1][j-1]; count++;}
+                if (i>0&&arr[i-1][j]>=0) {temp+=arr[i-1][j]; count++;}
+                if (i>0&&j+1<image[0].size()&&arr[i-1][j+1]>=0) {temp+=arr[i-1][j+1]; count++;}
+                if (j>0&&arr[i][j-1]>=0) {temp+=arr[i][j-1]; count++;}
+                if (arr[i][j]>=0) {temp+=arr[i][j]; count++;}
+                if (j+1<image[0].size()&&arr[i][j+1]>=0) {temp+=arr[i][j+1]; count++;}
+                if (i+1<image.size()&&j>0&&arr[i+1][j-1]>=0) {temp+=arr[i+1][j-1]; count++;}
+                if (i+1<image.size()&&arr[i+1][j]>=0) {temp+=arr[i+1][j]; count++;}
+                if (i+1<image.size()&&j+1<image[0].size()&&arr[i+1][j+1]>=0) {temp+=arr[i+1][j+1]; count++;}
+                if (count>0) image[i][j]=temp/count;
+        }
+        for (int j=0; j<image[0].size(); j++)
+        { // нижняя строка
+                temp=0; count=0;
+                int i=image.size()-1;
+                if (i>0&&j>0&&arr[i-1][j-1]>=0) {temp+=arr[i-1][j-1]; count++;}
+                if (i>0&&arr[i-1][j]>=0) {temp+=arr[i-1][j]; count++;}
+                if (i>0&&j+1<image[0].size()&&arr[i-1][j+1]>=0) {temp+=arr[i-1][j+1]; count++;}
+                if (j>0&&arr[i][j-1]>=0) {temp+=arr[i][j-1]; count++;}
+                if (arr[i][j]>=0) {temp+=arr[i][j]; count++;}
+                if (j+1<image[0].size()&&arr[i][j+1]>=0) {temp+=arr[i][j+1]; count++;}
+                if (i+1<image.size()&&j>0&&arr[i+1][j-1]>=0) {temp+=arr[i+1][j-1]; count++;}
+                if (i+1<image.size()&&arr[i+1][j]>=0) {temp+=arr[i+1][j]; count++;}
+                if (i+1<image.size()&&j+1<image[0].size()&&arr[i+1][j+1]>=0) {temp+=arr[i+1][j+1]; count++;}
+                if (count>0) image[i][j]=temp/count;
+        }
+        for (int i=1; i<image.size()-1; i++)
+        {
+            for (int j=1; j<image[0].size()-1; j++)
+            {
+                temp=0; count=0;
+                if (arr[i-1][j-1]>=0) {temp+=arr[i-1][j-1]; count++;}
+                if (arr[i-1][j]>=0) {temp+=arr[i-1][j]; count++;}
+                if (arr[i-1][j+1]>=0) {temp+=arr[i-1][j+1]; count++;}
+                if (arr[i][j-1]>=0) {temp+=arr[i][j-1]; count++;}
+                if (arr[i][j]>=0) {temp+=arr[i][j]; count++;}
+                if (arr[i][j+1]>=0) {temp+=arr[i][j+1]; count++;}
+                if (arr[i+1][j-1]>=0) {temp+=arr[i+1][j-1]; count++;}
+                if (arr[i+1][j]>=0) {temp+=arr[i+1][j]; count++;}
+                if (arr[i+1][j+1]>=0) {temp+=arr[i+1][j+1]; count++;}
                 if (count>0) image[i][j]=temp/count;
             }
         }
