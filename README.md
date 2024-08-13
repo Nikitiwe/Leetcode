@@ -741,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/Nikitiwe/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/Nikitiwe/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2050-count-good-numbers) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/Nikitiwe/Leetcode/tree/master/2155-find-missing-observations) |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/Nikitiwe/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nikitiwe/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
