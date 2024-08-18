@@ -6,10 +6,10 @@ public:
         vector<vector<int>> arr(s.size(), vector<int> (10, 0));
         for (int i=0; i!=nums.size(); i++)
         {
-            s=to_string(nums[i]);
             for (int j=0; j!=s.size(); j++)
             {
-                arr[j][s[j]-'0']++;
+                arr[j][nums[i]%10]++;
+                nums[i]/=10;
             }
         }
         long long ans=0, n=nums.size();
