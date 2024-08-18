@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikitiwe/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Nikitiwe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
