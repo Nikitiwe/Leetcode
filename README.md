@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikitiwe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Nikitiwe/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Nikitiwe/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Nikitiwe/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nikitiwe/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Nikitiwe/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Nikitiwe/Leetcode/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Nikitiwe/Leetcode/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
