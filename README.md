@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nikitiwe/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -1042,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikitiwe/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Nikitiwe/Leetcode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -1103,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nikitiwe/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
