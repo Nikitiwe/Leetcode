@@ -710,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
+| [1010-powerful-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1010-powerful-integers) |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/Nikitiwe/Leetcode/tree/master/1033-broken-calculator) |
@@ -1097,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1010-powerful-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -1313,6 +1315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1010-powerful-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1010-powerful-integers) |
 | [1212-sequential-digits](https://github.com/Nikitiwe/Leetcode/tree/master/1212-sequential-digits) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Nikitiwe/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
