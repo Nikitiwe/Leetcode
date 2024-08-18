@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nikitiwe/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikitiwe/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikitiwe/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikitiwe/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
