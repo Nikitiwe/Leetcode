@@ -2,7 +2,7 @@ class Solution {
 public:
     long long minimumRemoval(vector<int>& beans) {
         sort(beans.begin(), beans.end());
-        vector<long> l(beans.size()+1, 0), r(beans.size(), 0);
+        vector<long> l(beans.size()+1, 0);
         long sum=0, ans=99999999999;
         for (int i=0; i!=beans.size(); i++)
         {
@@ -11,11 +11,11 @@ public:
         }
         for (int i=0; i!=beans.size(); i++)
         {
-            r[i]=(sum-l[i+1])-beans[i]*(beans.size()-1-i);
+            l[i]+=(sum-l[i+1])-beans[i]*(beans.size()-1-i);
         }
         for (int i=0; i!=beans.size(); i++)
         {
-            ans=min(ans, l[i]+r[i]);
+            ans=min(ans, l[i]);
         }
         return ans;
     }
