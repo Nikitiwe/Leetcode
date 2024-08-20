@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Nikitiwe/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/Nikitiwe/Leetcode/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Nikitiwe/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
