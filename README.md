@@ -902,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/Nikitiwe/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
