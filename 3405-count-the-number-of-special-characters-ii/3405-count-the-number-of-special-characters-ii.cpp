@@ -6,7 +6,7 @@ public:
         for (int j=0; j!=word.size(); j++)
         {
             if (word[j]>='a'&&word[j]<='z') arr[word[j]-'a'][0]=j;
-            else if (word[j]>='A'&&word[j]<='Z'&&arr[word[j]-'A'][1]==-1) arr[word[j]-'A'][1]=j;
+            else if (arr[word[j]-'A'][1]==-1) arr[word[j]-'A'][1]=j;
         }
         for (int i=0; i!=26; i++)
         {
