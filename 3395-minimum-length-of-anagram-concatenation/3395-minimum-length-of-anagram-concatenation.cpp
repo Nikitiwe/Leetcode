@@ -2,7 +2,7 @@ class Solution {
 public:
     int minAnagramLength(string s) {
         vector<int> arr(26, 0), arr1(26, 0), arrz(26, 0);
-        for (int i=0; i!=s.size(); i++)
+        /*for (int i=0; i!=s.size(); i++)
         {
             arr[s[i]-'a']++;
         }
@@ -13,8 +13,7 @@ public:
         {
             if (arr[i]!=0) g=gcd(g, arr[i]);
         }
-        int range=s.size()/g;
-        //return max(range, g);
+        int range=s.size()/g;*/
         for (int i=1; i<(s.size()+2)/2; i++)
         {
             arr=arrz;
