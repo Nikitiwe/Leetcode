@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Nikitiwe/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2342-minimum-average-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Nikitiwe/Leetcode/tree/master/1304-longest-happy-string) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
