@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Nikitiwe/Leetcode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
+| [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -752,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nikitiwe/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1276-closest-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1276-closest-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Nikitiwe/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -1511,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Rolling Hash
 |  |
