@@ -1,21 +1,25 @@
+bool sort1(vector<int> v1, vector<int> v2)
+{
+    if (v1[0] != v2[0]) return v1[0] < v2[0];
+    else return v1[1] > v2[1];
+}
+
 class Solution {
 public:
     int numberOfPairs(vector<vector<int>>& points) {
         int ans=0;
+        sort(points.begin(), points.end(), sort1);
         for (int i=0; i!=points.size(); i++)
         {
-            for (int j=0; j!=points.size(); j++)
+            for (int j=i+1; j<points.size(); j++)
             {
-                if (i!=j&&points[i][0]<=points[j][0]&&points[i][1]>=points[j][1])
+                if (points[i][0]<=points[j][0]&&points[i][1]>=points[j][1])
                 {
                     bool isit=1;
-                    for (int k=0; k!=points.size(); k++)
+                    for (int k=i+1; k<j; k++)
                     {
-                        if (k!=i&&k!=j)
-                        {
-                            if (points[i][0]<=points[k][0]&&points[k][0]<=points[j][0]&&
-                                points[i][1]>=points[k][1]&&points[k][1]>=points[j][1]) {isit=0; break;}
-                        }
+                        if (points[i][0]<=points[k][0]&&points[k][0]<=points[j][0]&&
+                            points[i][1]>=points[k][1]&&points[k][1]>=points[j][1]) {isit=0; break;}
                     }
                     if (isit==1) ans++;
                 }
