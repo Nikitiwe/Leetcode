@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1229,6 +1230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Geometry
 |  |
@@ -1286,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
 | ------- |
