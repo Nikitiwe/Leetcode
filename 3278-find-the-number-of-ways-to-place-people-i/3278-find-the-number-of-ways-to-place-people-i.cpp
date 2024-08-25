@@ -13,13 +13,12 @@ public:
         {
             for (int j=i+1; j<points.size(); j++)
             {
-                if (points[i][0]<=points[j][0]&&points[i][1]>=points[j][1])
+                if (points[i][1]>=points[j][1])
                 {
                     bool isit=1;
                     for (int k=i+1; k<j; k++)
                     {
-                        if (points[i][0]<=points[k][0]&&points[k][0]<=points[j][0]&&
-                            points[i][1]>=points[k][1]&&points[k][1]>=points[j][1]) {isit=0; break;}
+                        if (points[i][1]>=points[k][1]&&points[k][1]>=points[j][1]) {isit=0; break;}
                     }
                     if (isit==1) ans++;
                 }
