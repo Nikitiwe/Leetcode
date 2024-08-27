@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/Nikitiwe/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -1416,6 +1417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/Nikitiwe/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
