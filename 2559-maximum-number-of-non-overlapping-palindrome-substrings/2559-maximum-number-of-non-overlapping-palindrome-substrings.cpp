@@ -7,7 +7,7 @@ public:
             for (int j=i+k-1; j<s.size(); j++)
             {
                 bool isit=1;
-                for (int a=0; a<=j-i; a++)
+                for (int a=0; a<=(j-i)/2; a++)
                 {
                     if (s[i+a]!=s[j-a]) {isit=0; break;}
                 }
