@@ -4,9 +4,9 @@ public:
         int sum=0, temp=0;
         for (int i=0; i!=nums.size(); i++)
         {
-            if (nums[i]==1) sum++;
-            else sum--;
+            sum+=nums[i];
         }
+        sum-=nums.size()-sum;
         for (int i=0; i!=nums.size()-1; i++)
         {
             if (nums[i]==1) temp+=2;
