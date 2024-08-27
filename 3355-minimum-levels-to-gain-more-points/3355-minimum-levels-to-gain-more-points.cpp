@@ -9,9 +9,9 @@ public:
         }
         for (int i=0; i!=nums.size()-1; i++)
         {
-            if (nums[i]==1) temp++;
-            else temp--;
-            if (temp>sum-temp) return i+1;
+            if (nums[i]==1) temp+=2;
+            else temp-=2;
+            if (temp>sum) return i+1;
         }
         return -1;
     }
