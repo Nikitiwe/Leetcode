@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -947,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1138,6 +1141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
@@ -1230,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
