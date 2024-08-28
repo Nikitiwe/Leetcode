@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minRefuelStops(int target, int startFuel, vector<vector<int>>& stations) {
-        //vector<int> arr(stations.size()+1, 0);
         vector<int> f;
         int ans=0;
         int i=0;
@@ -11,8 +10,13 @@ public:
             else if (startFuel>=stations[i][0])
             {
                 f.push_back(stations[i][1]);
-                sort(f.begin(), f.end());
-                i++;
+                int j=f.size()-1;
+                while (j>0&&f[j]<f[j-1])
+                {
+                    swap(f[j], f[j-1]);
+                    j--;
+                }
+                i++; // тут как бы надо переписать с приорити кью
             }
             else
             {
