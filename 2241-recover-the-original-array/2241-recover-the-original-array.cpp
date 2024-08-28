@@ -6,7 +6,7 @@ public:
         for (int i=0; i!=nums.size(); i++) arr[nums[i]]++;
         arr1=arr;
         vector<int> ans;
-        for (int i=0; i!=nums.size(); i++)
+        for (int i=0; i!=1; i++)
         {
             for (int j=i+1; j<nums.size(); j++)
             {
@@ -15,7 +15,6 @@ public:
         }
         for (auto i=m.begin(); i!=m.end(); i++)
         {
-            if (i->second>=nums.size()/2)
             {
                 int k=i->first;
                 ans.clear();
