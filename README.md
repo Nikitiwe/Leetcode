@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1232,6 +1233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
+| [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
 | [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1336,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
