@@ -15,8 +15,9 @@ public:
         }
         for (auto i=m.begin(); i!=m.end(); i++)
         {
+            int k=i->first;
+            if (arr1.count(nums[nums.size()-1]-2*k)>0)
             {
-                int k=i->first;
                 ans.clear();
                 arr=arr1;
                 for (int j=0; j!=nums.size(); j++)
