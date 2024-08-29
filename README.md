@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -858,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nikitiwe/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2752-sum-multiples](https://github.com/Nikitiwe/Leetcode/tree/master/2752-sum-multiples) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Nikitiwe/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -1255,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
