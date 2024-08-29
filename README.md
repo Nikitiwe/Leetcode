@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nikitiwe/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -656,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nikitiwe/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Nikitiwe/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
@@ -733,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1304-longest-happy-string](https://github.com/Nikitiwe/Leetcode/tree/master/1304-longest-happy-string) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
