@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Nikitiwe/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -846,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nikitiwe/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
@@ -997,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Nikitiwe/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/Nikitiwe/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -1504,6 +1507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Nikitiwe/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
