@@ -1,12 +1,14 @@
 class Solution {
 public:
     vector<int> prisonAfterNDays(vector<int>& cells, int n) {
-        vector<vector<int>> arr(257, vector<int> (8, 0));
+        vector<vector<int>> arr(1, vector<int> (8, 0));
         int f=-1, s=-1;
         for (int i=0; i!=8; i++) arr[0][i]=cells[i];
-        for (int i=1; i!=arr.size(); i++)
+        int i=1;
+        while (1)
         {
-            for (int j=1; j!=7; j++) // тут можно попробовать прикрутить изменяющийся размер арр
+            arr.push_back(vector<int> (8, 0));
+            for (int j=1; j!=7; j++)
             {
                 if (arr[i-1][j-1]==arr[i-1][j+1]) arr[i][j]=1;
             }
@@ -17,6 +19,7 @@ public:
                     {f=k; s=i; break;}
             }
             if (f!=-1) break;
+            i++;
         }
         n-=f;
         n%=(s-f);
