@@ -1074,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1621,6 +1622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikitiwe/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
