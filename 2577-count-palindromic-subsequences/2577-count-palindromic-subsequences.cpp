@@ -47,8 +47,8 @@ public:
             for (int j=0; j!=100; j++)
             {
                 ans+=l2[i][j]*r2[i][j];
-                ans%=1000000007;
             }
+            ans%=1000000007;
         }
         return ans;
     }
