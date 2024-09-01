@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/Nikitiwe/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Nikitiwe/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -1183,6 +1184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Nikitiwe/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
