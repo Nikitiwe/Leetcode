@@ -18,7 +18,7 @@ public:
         for (int i=0; i<arr.size()-1; i++)
         {
             arr[i+1]+=arr[i];
-            arr[i]%=26;
+            //arr[i]%=26;
             s[i]='a'+((s[i]-'a'+arr[i])%26+26)%26;
         }
         return s;
