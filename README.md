@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nikitiwe/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
+| [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
@@ -1289,6 +1290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
