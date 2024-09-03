@@ -7,7 +7,7 @@ public:
         for (int a=0; a<g; a++)
         {
             int c=0;
-            for (int i=0; i<arr.size(); i=(i+g)%arr.size())
+            for (int i=0; ; i+=g)
             {
                 temp.push_back(arr[(i+a)%arr.size()]);
                 c++;
