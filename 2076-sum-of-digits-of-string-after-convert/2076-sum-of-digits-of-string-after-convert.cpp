@@ -9,8 +9,8 @@ public:
             sum+=(ss[i]-'a'+1)/10;
         }
         if (k==1) return sum;
-        if (k>3&&sum%9!=0) return sum%9;
-        if (k>3&&sum%9==0) return 9;
+        /*if (k>3&&sum%9!=0) return sum%9;
+        if (k>3&&sum%9==0) return 9;*/
         while (k>0)
         {
             if (k==1) return sum;
