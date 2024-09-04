@@ -8,7 +8,13 @@ public:
             if (r[i][0]>t) g++;
             t=max(t, r[i][1]);
         }
-        long ans=1;
+        long long ans=1;
+        while (g>10)
+        {
+            ans*=1024;
+            ans%=1000000007;
+            g=g-10;
+        }
         while (g>0)
         {
             ans*=2;
