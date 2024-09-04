@@ -9,11 +9,11 @@ public:
             t=max(t, r[i][1]);
         }
         long long ans=1;
-        while (g>10)
+        while (g>20)
         {
-            ans*=1024;
+            ans*=1048576;
             ans%=1000000007;
-            g=g-10;
+            g=g-20;
         }
         while (g>0)
         {
