@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Nikitiwe/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Nikitiwe/Leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Nikitiwe/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Nikitiwe/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Nikitiwe/Leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -1155,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Nikitiwe/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Nikitiwe/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikitiwe/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nikitiwe/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
