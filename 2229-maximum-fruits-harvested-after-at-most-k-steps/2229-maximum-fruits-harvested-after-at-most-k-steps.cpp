@@ -20,10 +20,10 @@ public:
         for (int i=1; i<=k; i++)
         {
             t=0;
-            if (startPos-i>=0)
+            if (startPos>=i)
             {
                 t=arr[startPos-i];
-                if (startPos-i+(k-i)<arr.size()&&startPos-i+(k-i)>startPos) t+=arr[startPos-i+(k-i)];
+                if (startPos-i+(k-i)<arr.size()&&k>2*i) t+=arr[startPos-i+(k-i)];
                 else if (startPos-i+(k-i)>=arr.size()) t+=arr[arr.size()-1];
             }
             ans=max(ans, t);
@@ -34,7 +34,7 @@ public:
             if (startPos+i<arr.size())
             {
                 t=arr[startPos+i];
-                if (startPos+i-(k-i)>=0&&startPos+i-(k-i)<startPos) t+=arr[startPos+i-(k-i)];
+                if (startPos+i-(k-i)>=0&&2*i<k) t+=arr[startPos+i-(k-i)];
                 else if (startPos+i-(k-i)<0) t+=arr[0];
             }
             ans=max(ans, t);
