@@ -9,8 +9,14 @@ public:
             else if (n%2==0) n/=2;
             else
             {
-                if ((n+1)%4==0) n++;
-                else n--;
+                if ((n-1)%4==0) n/=4;
+                else
+                {
+                    n/=4;
+                    n++;
+                }
+                ans++;
+                ans++;
             }
             ans++;
         }
