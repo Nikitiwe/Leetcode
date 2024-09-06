@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int integerReplacement(int m) {
-        long n=m;
+    int integerReplacement(int n) {
         int ans=0;
         while (n>1)
         {
