@@ -935,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Nikitiwe/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Nikitiwe/Leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nikitiwe/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
