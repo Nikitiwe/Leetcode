@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Nikitiwe/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
@@ -1202,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nikitiwe/Leetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3379-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3379-score-of-a-string) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -1375,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -1809,6 +1812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
