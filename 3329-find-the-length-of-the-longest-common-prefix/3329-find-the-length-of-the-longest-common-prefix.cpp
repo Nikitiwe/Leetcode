@@ -2,6 +2,7 @@ class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
         unordered_set<int> m;
+        sort(arr2.rbegin(), arr2.rend());
         for (int i=0; i!=arr1.size(); i++)
         {
             int t=0;
@@ -24,6 +25,7 @@ public:
                 t+=s[j]-'0';
                 if (m.count(t)>0) ans=max(ans, j+1);
             }
+            if (ans>=s.size()) break;
         }
         return ans;
     }
