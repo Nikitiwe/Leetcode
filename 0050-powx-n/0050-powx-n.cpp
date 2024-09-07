@@ -10,10 +10,15 @@ public:
             n*=-1;
             x=1/x;
         }
-        if (n>10000) while (m>0)
+        if (n>10000)
         {
-            temp*=x;
-            m--;
+            while (m>0)
+            {
+                temp*=x;
+                m--;
+            }
+            if (temp==0.00000) return 0.00000;
+            //if (temp==1.00000) return 1.00000;
         }
         while (n>10000)
         {
