@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0991-array-of-doubled-pairs) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -858,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
+| [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [0994-prison-cells-after-n-days](https://github.com/Nikitiwe/Leetcode/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1010-powerful-integers) |
