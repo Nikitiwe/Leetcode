@@ -11,16 +11,14 @@ public:
             {
                 a+=s[i];
                 b+=s[i];
-                arr[i]--;
-                arr[i]--;
+                arr[i]-=2;
             }
         }
         if (a.size()>0) while (arr[0]>1)
         {
             a+=s[0];
             b+=s[0];
-            arr[0]--;
-            arr[0]--;
+            arr[0]-=2;
         }
         for (int i=9; i>=0; i--)
         {
