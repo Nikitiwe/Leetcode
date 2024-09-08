@@ -9,10 +9,11 @@ public:
         for (int i=0; i!=nums.size(); i++)
         {
             if (nums[i]>0) break;
+            if (i>0&&nums[i]==nums[i-1]) continue;
             for (int j=i+1; j<nums.size(); j++)
             {
                 if (nums[j]+nums[i]>0) break;
-                if (/*m.count(nums[i]+nums[j])>0&&*/m[nums[i]+nums[j]]>j)
+                if (m.count(nums[i]+nums[j])>0&&m[nums[i]+nums[j]]>j)
                 {
                     long a=nums[i];
                     long b=nums[j];
