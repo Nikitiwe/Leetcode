@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
         unordered_map<int, int> m;
         for (int i=0; i!=nums.size(); i++) m[-nums[i]]=i;
         vector<vector<int>> ans;
