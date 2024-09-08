@@ -11,6 +11,7 @@ public:
             if (nums[i]>0) break;
             for (int j=i+1; j<nums.size(); j++)
             {
+                if (nums[j]+nums[i]>0) break;
                 if (m.count(nums[i]+nums[j])>0&&m[nums[i]+nums[j]]>j)
                 {
                     long a=nums[i];
