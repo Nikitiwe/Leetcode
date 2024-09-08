@@ -16,10 +16,10 @@ public:
                 {
                     long a=nums[i];
                     long b=nums[j];
-                    long c=0-a-b;
+                    /*long c=0-a-b;
                     if (a<b) swap(a, b);
                     if (a<c) swap(a, c);
-                    if (b<c) swap(b, c);
+                    if (b<c) swap(b, c);*/
                     n.insert((a+100000)*1000000+(b+100000));
                 }
             }
