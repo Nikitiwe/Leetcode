@@ -14,11 +14,9 @@ public:
         ListNode *s=head;
         while (s!=nullptr&&s->next!=nullptr)
         {
-            //int t=gcd(s->val, s->next->val);
             ListNode *a = new ListNode (gcd(s->val, s->next->val), s->next);
             s->next=a;
-            s=s->next;
-            s=s->next;
+            s=s->next->next;
         }
         return head;
     }
