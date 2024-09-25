@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nikitiwe/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
