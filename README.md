@@ -855,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/Nikitiwe/Leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Nikitiwe/Leetcode/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
