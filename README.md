@@ -846,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Nikitiwe/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Nikitiwe/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nikitiwe/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikitiwe/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -995,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Nikitiwe/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nikitiwe/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/0120-triangle) |
@@ -1877,6 +1879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikitiwe/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0397-integer-replacement) |
