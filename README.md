@@ -968,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/Nikitiwe/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2670-make-k-subarray-sums-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2670-make-k-subarray-sums-equal) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2752-sum-multiples](https://github.com/Nikitiwe/Leetcode/tree/master/2752-sum-multiples) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -1348,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2050-count-good-numbers) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Hash Table
 |  |
 | ------- |
