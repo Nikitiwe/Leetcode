@@ -1,7 +1,7 @@
 class Solution {
 public:
     int monkeyMove(int n) {
-        long ans=1, add=2, p=0;
+        long ans=1, add=2;
         while (0<n)
         {
             if (n%2==0)
