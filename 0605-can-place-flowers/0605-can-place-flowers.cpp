@@ -29,6 +29,7 @@ public:
                     }
                 }
             }
+            if (ans>=n) return 1;
         }
         if (ans>=n) return 1;
         else return 0;
