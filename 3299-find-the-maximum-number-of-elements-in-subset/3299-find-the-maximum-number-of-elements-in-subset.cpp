@@ -18,7 +18,7 @@ public:
                 while (m.count(t)>0)
                 {
                     ans=max(ans, count*2+1);
-                    if (m[t]==1||t>100000) break;
+                    if (m[t]==1||t>32000) break;
                     t*=t;
                     count++;
                 }
