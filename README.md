@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1020-longest-turbulent-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nikitiwe/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1039-find-the-town-judge](https://github.com/Nikitiwe/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nikitiwe/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikitiwe/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/Nikitiwe/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -1431,6 +1433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-prison-cells-after-n-days](https://github.com/Nikitiwe/Leetcode/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/Nikitiwe/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
