@@ -1178,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Nikitiwe/Leetcode/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/Nikitiwe/Leetcode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
