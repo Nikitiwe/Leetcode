@@ -537,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/Nikitiwe/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nikitiwe/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
+| [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -1205,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0986-largest-time-for-given-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
