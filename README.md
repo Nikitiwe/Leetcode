@@ -893,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0670-maximum-swap) |
+| [0728-self-dividing-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0790-global-and-local-inversions](https://github.com/Nikitiwe/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
