@@ -21,8 +21,11 @@ public:
             for (int j=0; j<i; j++)
             {
                 t=v[i]-v[j];
-                if (m[t]==1) m[t]=2;
-                if (m[t]>1) ans=max(ans, t);
+                if (m[t]==1)
+                {
+                    m[t]=2;
+                    ans=max(ans, t);
+                }
             }
         }
         if (ans==-1) return ans;
