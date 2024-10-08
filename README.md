@@ -1034,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
@@ -1604,6 +1605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nikitiwe/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Counting
 |  |
 | ------- |
