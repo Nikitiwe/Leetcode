@@ -21,6 +21,7 @@ public:
             for (int j=0; j<i; j++)
             {
                 t=v[i]-v[j];
+                if (t<ans) break;
                 if (m[t]==1)
                 {
                     m[t]=2;
