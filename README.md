@@ -1108,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
+| [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
@@ -1272,6 +1273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Nikitiwe/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Nikitiwe/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikitiwe/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
@@ -1701,6 +1703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Nikitiwe/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2145-grid-game](https://github.com/Nikitiwe/Leetcode/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
@@ -1888,6 +1891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2211-k-radius-subarray-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
