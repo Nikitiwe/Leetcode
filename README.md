@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Nikitiwe/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nikitiwe/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -976,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nikitiwe/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
