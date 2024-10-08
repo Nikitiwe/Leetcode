@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/Nikitiwe/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2670-make-k-subarray-sums-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/Nikitiwe/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
@@ -1137,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1752,6 +1756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
@@ -1815,6 +1820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nikitiwe/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
@@ -1826,6 +1832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 ## Linked List
 |  |
 | ------- |
