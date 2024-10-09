@@ -1348,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3379-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3379-score-of-a-string) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3396-valid-word](https://github.com/Nikitiwe/Leetcode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nikitiwe/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
