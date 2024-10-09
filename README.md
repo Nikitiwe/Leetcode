@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nikitiwe/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -1704,6 +1705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Brainteaser
 |  |
@@ -1792,6 +1794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Stack
 |  |
 | ------- |
