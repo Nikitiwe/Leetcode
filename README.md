@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-largest-time-for-given-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0991-array-of-doubled-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [0994-prison-cells-after-n-days](https://github.com/Nikitiwe/Leetcode/tree/master/0994-prison-cells-after-n-days) |
+| [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1816,6 +1817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -2006,6 +2008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
+| [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Memoization
 |  |
