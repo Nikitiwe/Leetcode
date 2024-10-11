@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -1552,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
@@ -1672,6 +1674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
