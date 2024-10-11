@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1355,6 +1356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nikitiwe/Leetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -1983,12 +1985,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nikitiwe/Leetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nikitiwe/Leetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -1997,6 +2001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nikitiwe/Leetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2047,6 +2052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Indexed Tree
 |  |
