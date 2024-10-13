@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Nikitiwe/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Nikitiwe/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
