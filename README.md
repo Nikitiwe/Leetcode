@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikitiwe/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Nikitiwe/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1576,6 +1577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikitiwe/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
