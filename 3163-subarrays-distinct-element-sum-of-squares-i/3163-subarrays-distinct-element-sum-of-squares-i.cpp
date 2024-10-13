@@ -4,13 +4,10 @@ public:
         int ans=0;
         for (int i=0; i!=nums.size(); i++)
         {
+            unordered_set<int> m;
             for (int j=i; j<nums.size(); j++)
             {
-                unordered_set<int> m;
-                for (int a=i; a<=j; a++)
-                {
-                    m.insert(nums[a]);
-                }
+                m.insert(nums[j]);
                 ans+=m.size()*m.size();
             }
         }
