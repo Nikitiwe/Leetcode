@@ -1378,6 +1378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3207-make-three-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikitiwe/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
