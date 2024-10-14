@@ -12,8 +12,7 @@ public:
             int t=p.top();
             p.pop();
             ans+=t;
-            if (t%3==0) p.push(t/3);
-            else p.push(t/3+1);
+            p.push((t+2)/3);
         }
         return ans;
     }
