@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3034-points-that-intersect-with-cars](https://github.com/Nikitiwe/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -1596,6 +1597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3034-points-that-intersect-with-cars](https://github.com/Nikitiwe/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikitiwe/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -1940,6 +1942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
