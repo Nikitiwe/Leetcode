@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -708,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Nikitiwe/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -1058,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-maximum-achievable-number](https://github.com/Nikitiwe/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Nikitiwe/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Nikitiwe/Leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -1456,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3095-maximum-number-of-alloys](https://github.com/Nikitiwe/Leetcode/tree/master/3095-maximum-number-of-alloys) |
