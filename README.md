@@ -1392,6 +1392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nikitiwe/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3019-furthest-point-from-origin](https://github.com/Nikitiwe/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Nikitiwe/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikitiwe/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1733,6 +1734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [3019-furthest-point-from-origin](https://github.com/Nikitiwe/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
