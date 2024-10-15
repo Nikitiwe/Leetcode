@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2845-find-the-value-of-the-partition](https://github.com/Nikitiwe/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nikitiwe/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1882,6 +1883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
