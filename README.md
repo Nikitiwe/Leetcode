@@ -1073,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/Nikitiwe/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Nikitiwe/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
