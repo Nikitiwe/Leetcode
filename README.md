@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Nikitiwe/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2756-buy-two-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2785-semi-ordered-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2785-semi-ordered-permutation) |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2756-buy-two-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/Nikitiwe/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
@@ -883,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2756-buy-two-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
