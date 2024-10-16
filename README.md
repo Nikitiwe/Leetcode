@@ -1402,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/Nikitiwe/Leetcode/tree/master/2825-minimize-string-length) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -1613,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Nikitiwe/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2825-minimize-string-length](https://github.com/Nikitiwe/Leetcode/tree/master/2825-minimize-string-length) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
