@@ -12,7 +12,7 @@ public:
             }
             else
             {
-                reverse(w[i].begin(), w[i].end());
+                swap(w[i][0], w[i][1]);
                 m.insert(w[i]);
             }
         }
