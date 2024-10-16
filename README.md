@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
+| [2785-semi-ordered-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2785-semi-ordered-permutation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
@@ -1707,6 +1708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Nikitiwe/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2785-semi-ordered-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2785-semi-ordered-permutation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
