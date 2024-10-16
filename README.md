@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2756-buy-two-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2777-find-the-distinct-difference-array](https://github.com/Nikitiwe/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2785-semi-ordered-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2785-semi-ordered-permutation) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
@@ -1621,6 +1622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2777-find-the-distinct-difference-array](https://github.com/Nikitiwe/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Nikitiwe/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/Nikitiwe/Leetcode/tree/master/2825-minimize-string-length) |
