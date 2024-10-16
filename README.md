@@ -1077,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-maximum-achievable-number](https://github.com/Nikitiwe/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [2857-total-distance-traveled](https://github.com/Nikitiwe/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Nikitiwe/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -1705,6 +1706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2857-total-distance-traveled](https://github.com/Nikitiwe/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Nikitiwe/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
