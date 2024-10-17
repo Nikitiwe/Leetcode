@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3095-maximum-number-of-alloys](https://github.com/Nikitiwe/Leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
@@ -1993,6 +1994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
