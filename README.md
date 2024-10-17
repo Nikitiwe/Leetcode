@@ -687,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikitiwe/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-sorting-the-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -1372,6 +1373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nikitiwe/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1970-sorting-the-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Nikitiwe/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Nikitiwe/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
