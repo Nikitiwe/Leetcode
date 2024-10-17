@@ -1,15 +1,12 @@
 class Solution {
 public:
     bool checkIfPangram(string s) {
-        vector<int> arr(26, 0);
+        unordered_set<char> m;
         for (int i=0; i!=s.size(); i++)
         {
-            arr[s[i]-'a']++;
+            m.insert(s[i]);
         }
-        for (int i=0; i!=26; i++)
-        {
-            if (arr[i]==0) return 0;
-        }
-        return 1;
+        if (m.size()==26) return 1;
+        else return 0;
     }
 };
