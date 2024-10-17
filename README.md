@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Nikitiwe/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
