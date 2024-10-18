@@ -1370,6 +1370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Nikitiwe/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
