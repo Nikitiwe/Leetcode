@@ -1359,6 +1359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
@@ -1601,6 +1602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
@@ -1785,6 +1787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Nikitiwe/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
