@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -1771,6 +1772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nikitiwe/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikitiwe/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Nikitiwe/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
