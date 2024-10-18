@@ -20,7 +20,8 @@ public:
                 if (t%2==1) n.insert(nums[j]);
                 t/=2;
             }
-            bool isit=1;
+            m.push_back(n);
+            /*bool isit=1;
             if (m.size()>0) for (int j=0; j!=m.size(); j++)
             {
                 if (m[j]==n)
@@ -32,7 +33,7 @@ public:
             if (isit==1)
             {
                 m.push_back(n);
-            }
+            }*/
         }
         vector<vector<int>> ans(m.size(), vector<int> ());
         for (int i=0; i!=m.size(); i++)
