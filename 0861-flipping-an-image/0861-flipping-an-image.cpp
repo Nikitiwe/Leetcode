@@ -12,8 +12,9 @@ public:
         {
             for (int j=0; j!=g[0].size(); j++)
             {
-                if (g[i][j]==1) g[i][j]--;
-                else g[i][j]++;
+                g[i][j]^=1;
+                /*if (g[i][j]==1) g[i][j]--;
+                else g[i][j]++;*/
             }
         }
         return g;
