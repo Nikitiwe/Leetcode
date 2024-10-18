@@ -1414,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Nikitiwe/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nikitiwe/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2226-rings-and-rods](https://github.com/Nikitiwe/Leetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1632,6 +1633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2226-rings-and-rods](https://github.com/Nikitiwe/Leetcode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
