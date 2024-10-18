@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1833-find-the-highest-altitude](https://github.com/Nikitiwe/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nikitiwe/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Nikitiwe/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nikitiwe/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
