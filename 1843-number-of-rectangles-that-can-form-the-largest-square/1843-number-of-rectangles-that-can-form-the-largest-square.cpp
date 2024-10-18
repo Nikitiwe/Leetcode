@@ -4,11 +4,12 @@ public:
         int ans=0, l=0;
         for (int i=0; i!=r.size(); i++)
         {
-            l=max(l, min(r[i][0], r[i][1]));
+            r[i][0]=min(r[i][0], r[i][1]);
+            l=max(l, r[i][0]);
         }
         for (int i=0; i!=r.size(); i++)
         {
-            if (r[i][0]>=l&&r[i][1]>=l) ans++;
+            if (r[i][0]>=l) ans++;
         }
         return ans;
     }
