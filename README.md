@@ -1409,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1797-goal-parser-interpretation](https://github.com/Nikitiwe/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Nikitiwe/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikitiwe/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/Nikitiwe/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -1834,6 +1835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nikitiwe/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Nikitiwe/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
