@@ -10,8 +10,8 @@ public:
             {
                 ans++;
                 m.clear();
+                m[s[i]]++;
             }
-            m[s[i]]++;
         }
         return ans;
     }
