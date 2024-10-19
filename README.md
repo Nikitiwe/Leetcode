@@ -1396,6 +1396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikitiwe/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/Nikitiwe/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1575,6 +1576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/Nikitiwe/Leetcode/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -1756,6 +1758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1705-count-unhappy-friends](https://github.com/Nikitiwe/Leetcode/tree/master/1705-count-unhappy-friends) |
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Nikitiwe/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
