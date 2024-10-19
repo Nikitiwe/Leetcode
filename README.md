@@ -1081,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-nice-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Nikitiwe/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1971-incremental-memory-leak](https://github.com/Nikitiwe/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Nikitiwe/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
