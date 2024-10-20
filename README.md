@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -1373,6 +1374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0878-shifting-letters) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -1638,6 +1640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0991-array-of-doubled-pairs) |
