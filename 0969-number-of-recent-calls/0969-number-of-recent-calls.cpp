@@ -1,21 +1,26 @@
 class RecentCounter {
 private:
     vector<int> arr;
+    int c=0;
 public:
     RecentCounter() {
         arr.clear();
+        c=0;
     }
     
     int ping(int t) {
         arr.push_back(t);
-        int ans=1, r=arr.size()-2, k=arr[arr.size()-1]-3000;
-        while (r>=0)
+        int r=c, k=arr[arr.size()-1]-3000;
+        while (r<arr.size())
         {
-            if (arr[r]>=k) ans++;
-            else break;
-            r--;
+            if (arr[r]>=k)
+            {
+                c=r;
+                return arr.size()-c;
+            }
+            r++;
         }
-        return ans;
+        return -1;
     }
 };
 
