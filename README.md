@@ -2172,6 +2172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Nikitiwe/Leetcode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -2314,6 +2315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 ## Interactive
@@ -2343,5 +2345,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
