@@ -1388,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/Nikitiwe/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -1658,6 +1659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
+| [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1858,6 +1860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
+| [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -2125,6 +2128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
