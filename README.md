@@ -899,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Nikitiwe/Leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nikitiwe/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -1461,6 +1462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikitiwe/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nikitiwe/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikitiwe/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Nikitiwe/Leetcode/tree/master/2128-reverse-prefix-of-word) |
