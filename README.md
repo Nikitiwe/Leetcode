@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -716,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Nikitiwe/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
+| [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1688,6 +1690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -2381,6 +2384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Nikitiwe/Leetcode/tree/master/0274-h-index) |
+| [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
