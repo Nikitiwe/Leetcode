@@ -5,7 +5,8 @@ public:
         int ans=-1;
         for (int i=0; i!=nums.size(); i++)
         {
-            if (nums[i]>0)
+            if (nums[i]>ans||-nums[i]>ans) {
+            if (nums[i]>0&&nums[i]>ans)
             {
                 if (m.count(-nums[i])>0) ans=max(ans, nums[i]);
                 m.insert(nums[i]);
@@ -14,6 +15,7 @@ public:
             {
                 if (m.count(-nums[i])>0) ans=max(ans, -nums[i]);
                 m.insert(nums[i]);
+            }
             }
         }
         return ans;
