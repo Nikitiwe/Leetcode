@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/Nikitiwe/Leetcode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0986-largest-time-for-given-digits) |
@@ -1408,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0979-di-string-match](https://github.com/Nikitiwe/Leetcode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0986-largest-time-for-given-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Nikitiwe/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
