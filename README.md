@@ -519,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nikitiwe/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2881-split-strings-by-separator](https://github.com/Nikitiwe/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/Nikitiwe/Leetcode/tree/master/2892-check-if-array-is-good) |
@@ -1521,6 +1522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2825-minimize-string-length](https://github.com/Nikitiwe/Leetcode/tree/master/2825-minimize-string-length) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/Nikitiwe/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
