@@ -1522,6 +1522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2317-count-collisions-on-a-road](https://github.com/Nikitiwe/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -1769,6 +1770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -1965,6 +1967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
