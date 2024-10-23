@@ -2,9 +2,13 @@ class Solution {
 public:
     bool checkString(string s) {
         if (s.size()==1) return 1;
-        for (int i=0; i<s.size()-1; i++)
+        int i=0;
+        while (i<s.size()-1)
         {
-            if (s[i]=='b'&&s[i+1]=='a') return 0;
+            if (s[i]=='a') i++;
+            else if (s[i+1]=='a') return 0;
+            else i++;
+            
         }
         return 1;
     }
