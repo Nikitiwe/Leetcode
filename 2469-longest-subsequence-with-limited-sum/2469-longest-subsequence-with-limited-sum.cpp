@@ -10,10 +10,10 @@ public:
         }
         for (int i=0; i!=q.size(); i++)
         {
-            int l=0;
-            while (l+1<nums.size()&&nums[l+1]<=q[i]) l++;
-            if (nums[0]>q[i]) l=-1;
-            q[i]=l+1;
+            int l=1;
+            while (l<nums.size()&&nums[l]<=q[i]) l++;
+            if (nums[0]>q[i]) l=0;
+            q[i]=l;
         }
         return q;
     }
