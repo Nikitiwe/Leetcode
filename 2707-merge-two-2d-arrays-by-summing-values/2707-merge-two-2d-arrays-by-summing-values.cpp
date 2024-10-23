@@ -15,12 +15,12 @@ public:
                 }
                 else if (nums1[l][0]<nums2[r][0])
                 {
-                    ans.push_back({nums1[l][0], nums1[l][1]});
+                    ans.push_back(nums1[l]);
                     l++;
                 }
                 else
                 {
-                    ans.push_back({nums2[r][0], nums2[r][1]});
+                    ans.push_back(nums2[r]);
                     r++;
                 }
             }
@@ -28,7 +28,7 @@ public:
             {
                 while (l<nums1.size())
                 {
-                    ans.push_back({nums1[l][0], nums1[l][1]});
+                    ans.push_back(nums1[l]);
                     l++;
                 }
             }
@@ -36,7 +36,7 @@ public:
             {
                 while (r<nums2.size())
                 {
-                    ans.push_back({nums2[r][0], nums2[r][1]});
+                    ans.push_back(nums2[r]);
                     r++;
                 }
             }
