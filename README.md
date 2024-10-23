@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nikitiwe/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nikitiwe/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -953,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Nikitiwe/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1535,6 +1537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2577-count-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
