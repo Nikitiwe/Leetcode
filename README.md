@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nikitiwe/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Nikitiwe/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nikitiwe/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -1536,6 +1537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Nikitiwe/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nikitiwe/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1796,6 +1798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Nikitiwe/Leetcode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
@@ -2000,6 +2003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
