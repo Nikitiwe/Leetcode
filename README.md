@@ -2266,6 +2266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/Nikitiwe/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
