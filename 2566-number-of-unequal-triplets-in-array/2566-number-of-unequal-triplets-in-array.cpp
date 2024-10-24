@@ -7,7 +7,7 @@ public:
         for (auto i=m.begin(); i!=m.end(); i++)
         {
             int t=i->first, h=i->second;
-            for (auto j=m.begin(); j!=m.end(); j++)
+            for (auto j=i; j!=m.end(); j++)
             {
                 if (j->first!=t)
                 {
@@ -15,6 +15,6 @@ public:
                 }
             }
         }
-        return ans/6;
+        return ans/3;
     }
 };
