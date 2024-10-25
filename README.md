@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-video-stitching](https://github.com/Nikitiwe/Leetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Nikitiwe/Leetcode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
@@ -1477,6 +1478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/Nikitiwe/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -1774,6 +1776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1044-find-common-characters) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
@@ -2000,6 +2003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
