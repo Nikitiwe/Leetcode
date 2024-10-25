@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Nikitiwe/Leetcode/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
@@ -1426,6 +1427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Nikitiwe/Leetcode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1730,6 +1732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0454-4sum-ii) |
+| [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
