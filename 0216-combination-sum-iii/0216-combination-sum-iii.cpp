@@ -14,7 +14,7 @@ public:
                 for (int j=0; j!=arr[i].size(); j++) sum+=arr[i][j];
                 if (sum<n)
                 {
-                    for (int b=arr[i][arr[i].size()-1]+1; b<=9; b++)
+                    for (int b=arr[i][a-2]+1; b<=9; b++)
                     {
                         if (sum+b<=n)
                         {
