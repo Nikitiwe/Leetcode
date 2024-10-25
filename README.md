@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/Nikitiwe/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Nikitiwe/Leetcode/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
+| [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Nikitiwe/Leetcode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -741,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
+| [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0991-array-of-doubled-pairs) |
