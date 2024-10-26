@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Nikitiwe/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikitiwe/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2245-destroying-asteroids](https://github.com/Nikitiwe/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikitiwe/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nikitiwe/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -1863,6 +1865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikitiwe/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -1996,6 +1999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2228-watering-plants-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikitiwe/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
