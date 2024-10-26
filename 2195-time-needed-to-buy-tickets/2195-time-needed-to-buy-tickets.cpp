@@ -4,11 +4,12 @@ public:
         int ans=0, i=0, n=nums.size();   
         while (1)
         {
-            if (nums[i%n]>0)
+            int a=i%n;
+            if (nums[a]>0)
             {
-                nums[i%n]--;
+                nums[a]--;
                 ans++;
-                if (i%n==k&&nums[i%n]==0) return ans;
+                if (a==k&&nums[a]==0) return ans;
             }
             i++;
         }
