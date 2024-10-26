@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Nikitiwe/Leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0822-unique-morse-code-words](https://github.com/Nikitiwe/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/Nikitiwe/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nikitiwe/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nikitiwe/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
@@ -1468,6 +1469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/Nikitiwe/Leetcode/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0822-unique-morse-code-words](https://github.com/Nikitiwe/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/Nikitiwe/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nikitiwe/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0858-masking-personal-information](https://github.com/Nikitiwe/Leetcode/tree/master/0858-masking-personal-information) |
