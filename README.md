@@ -1531,6 +1531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nikitiwe/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Nikitiwe/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1454-remove-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
@@ -1830,6 +1831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nikitiwe/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -2243,6 +2245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-powerful-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1010-powerful-integers) |
 | [1212-sequential-digits](https://github.com/Nikitiwe/Leetcode/tree/master/1212-sequential-digits) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Nikitiwe/Leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nikitiwe/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/1656-count-good-triplets) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Nikitiwe/Leetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Nikitiwe/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
