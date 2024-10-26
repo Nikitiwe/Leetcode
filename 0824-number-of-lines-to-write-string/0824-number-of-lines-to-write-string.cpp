@@ -4,11 +4,10 @@ public:
         int l=0, ans=1;
         for (int i=0; i!=s.size(); i++)
         {
-            if (l+w[s[i]-'a']<=100) l+=w[s[i]-'a'];
-            else
+            l+=w[s[i]-'a'];
+            if (l>100)
             {
-                l=0;
-                l+=w[s[i]-'a'];
+                l=w[s[i]-'a'];
                 ans++;
             }
         }
