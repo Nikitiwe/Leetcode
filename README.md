@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Nikitiwe/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nikitiwe/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nikitiwe/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Nikitiwe/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-video-stitching](https://github.com/Nikitiwe/Leetcode/tree/master/1081-video-stitching) |
@@ -1697,6 +1698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/Nikitiwe/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nikitiwe/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nikitiwe/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
