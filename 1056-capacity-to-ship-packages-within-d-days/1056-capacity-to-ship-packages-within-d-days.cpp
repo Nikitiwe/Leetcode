@@ -1,7 +1,7 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& w, int d) {
-        int l=1, r=30000000, m;
+        int l=*min_element(w.begin(), w.end()), r=25000001, m;
         while (l<r-1)
         {
             m=(l+r)/2;
