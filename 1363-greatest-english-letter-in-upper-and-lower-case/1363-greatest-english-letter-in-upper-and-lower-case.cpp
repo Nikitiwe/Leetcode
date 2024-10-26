@@ -1,7 +1,6 @@
 class Solution {
 public:
     string greatestLetter(string s) {
-        string ans;
         vector<int> arr(26, 0);
         for (int i=0; i!=s.size(); i++)
         {
@@ -15,11 +14,11 @@ public:
         {
             if (arr[i]>2&&arr[i]%2==1)
             {
-                ans+="A";
+                string ans="A";
                 ans[0]+=i;
-                break;
+                return ans;
             }
         }
-        return ans;
+        return "";
     }
 };
