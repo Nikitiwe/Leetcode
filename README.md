@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Nikitiwe/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0983-validate-stack-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0991-array-of-doubled-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0991-array-of-doubled-pairs) |
@@ -1935,6 +1936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0983-validate-stack-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nikitiwe/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
@@ -2242,6 +2244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
