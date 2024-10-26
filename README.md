@@ -1137,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1033-broken-calculator](https://github.com/Nikitiwe/Leetcode/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nikitiwe/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
@@ -1322,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-longest-turbulent-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Nikitiwe/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/Nikitiwe/Leetcode/tree/master/1081-video-stitching) |
+| [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -2138,6 +2140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Nikitiwe/Leetcode/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nikitiwe/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -2419,6 +2422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1617-stone-game-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1617-stone-game-iv) |
 ## Probability and Statistics
 |  |
