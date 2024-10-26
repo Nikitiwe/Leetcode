@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxDistance(vector<int>& p, int k) {
         sort(p.begin(), p.end());
-        int l=1, r=999999999, m;
+        int l=1, r=p[p.size()-1], m;
         while (l<r)
         {
             m=(l+r)/2;
