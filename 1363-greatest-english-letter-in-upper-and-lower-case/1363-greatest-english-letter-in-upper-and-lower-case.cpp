@@ -5,7 +5,7 @@ public:
         vector<int> arr(26, 0);
         for (int i=0; i!=s.size(); i++)
         {
-            if (s[i]>='a'&&s[i]<='z')
+            if (s[i]>='a')
             {
                 if (arr[s[i]-'a']%2==0) arr[s[i]-'a']++;
             }
