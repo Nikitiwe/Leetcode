@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/1656-count-good-triplets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -1711,6 +1713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
