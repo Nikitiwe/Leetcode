@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-largest-multiple-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1293-three-consecutive-odds](https://github.com/Nikitiwe/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nikitiwe/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
+| [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
