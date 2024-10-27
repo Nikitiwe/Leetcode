@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/Nikitiwe/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -1195,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nikitiwe/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nikitiwe/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -2220,6 +2222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Nikitiwe/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Nikitiwe/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
