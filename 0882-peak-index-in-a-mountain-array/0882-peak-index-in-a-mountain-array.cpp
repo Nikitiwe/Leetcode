@@ -5,9 +5,9 @@ public:
         while (l<r)
         {
             m=(l+r)/2;
-            if (arr[m-1]<arr[m]&&arr[m]>arr[m+1]) return m;
-            else if (arr[m-1]>arr[m]) r=m-1;
-            else l=m+1;
+            if (arr[m-1]>arr[m]) r=m-1;
+            else if (arr[m]<arr[m+1]) l=m+1;
+            else return m;
         }
         return (l+r)/2;
     }
