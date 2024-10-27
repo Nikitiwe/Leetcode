@@ -1126,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nikitiwe/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
@@ -1453,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
@@ -2012,6 +2014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/Nikitiwe/Leetcode/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nikitiwe/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
