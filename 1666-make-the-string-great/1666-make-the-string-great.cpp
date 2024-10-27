@@ -2,11 +2,12 @@ class Solution {
 public:
     string makeGood(string s) {
         stack<char> m;
+        int a='a'-'A', b='A'-'a';
         for (int i=0; i!=s.size(); i++)
         {
             if (m.size()>0)
             {
-                if (m.top()-s[i]=='a'-'A'||m.top()-s[i]=='A'-'a')
+                if (m.top()-s[i]==a||m.top()-s[i]==b)
                 {
                     m.pop();
                 }
