@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Nikitiwe/Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Nikitiwe/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nikitiwe/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -1869,6 +1870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/Nikitiwe/Leetcode/tree/master/1512-design-underground-system) |
 | [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -2100,6 +2102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Nikitiwe/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
