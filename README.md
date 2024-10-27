@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nikitiwe/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Nikitiwe/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/Nikitiwe/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Nikitiwe/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
@@ -1507,6 +1508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/Nikitiwe/Leetcode/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/Nikitiwe/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Nikitiwe/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1832,6 +1834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Nikitiwe/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nikitiwe/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -2600,6 +2603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
