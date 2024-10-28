@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/Nikitiwe/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikitiwe/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -1238,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Nikitiwe/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Nikitiwe/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1971-incremental-memory-leak](https://github.com/Nikitiwe/Leetcode/tree/master/1971-incremental-memory-leak) |
