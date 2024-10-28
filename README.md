@@ -702,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Nikitiwe/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Nikitiwe/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1530,6 +1531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Nikitiwe/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Nikitiwe/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Nikitiwe/Leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
