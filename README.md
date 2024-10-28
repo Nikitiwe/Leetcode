@@ -1204,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-angle-between-hands-of-a-clock](https://github.com/Nikitiwe/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/Nikitiwe/Leetcode/tree/master/1448-maximum-69-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1500-count-largest-group](https://github.com/Nikitiwe/Leetcode/tree/master/1500-count-largest-group) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Nikitiwe/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1891,6 +1892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/Nikitiwe/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/Nikitiwe/Leetcode/tree/master/1512-design-underground-system) |
