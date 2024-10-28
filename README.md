@@ -1667,6 +1667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2226-rings-and-rods](https://github.com/Nikitiwe/Leetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2235-capitalize-the-title](https://github.com/Nikitiwe/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Nikitiwe/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
