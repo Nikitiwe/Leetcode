@@ -1,6 +1,9 @@
 class Solution {
 public:
-    int longestSquareStreak(vector<int>& nums) {
+    int longestSquareStreak(vector<int>& arr) {
+        unordered_set<int> n(arr.begin(), arr.end());
+        vector<int> nums;
+        for (auto i=n.begin(); i!=n.end(); i++) nums.push_back(*i);
         sort(nums.begin(), nums.end());
         unordered_map<long, int> m;
         int ans=-1;
