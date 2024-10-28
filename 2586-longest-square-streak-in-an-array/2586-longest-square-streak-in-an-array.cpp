@@ -9,9 +9,10 @@ public:
         int ans=-1;
         for (int i=0; i!=nums.size(); i++)
         {
-            if (m.count(nums[i])>0) m[(long)nums[i]*nums[i]]=m[nums[i]]+1;
-            else m[(long)nums[i]*nums[i]]=1;
-            if (m[(long)nums[i]*nums[i]]>1) ans=max(ans, m[(long)nums[i]*nums[i]]);
+            long t=(long)nums[i]*nums[i];
+            if (m.count(nums[i])>0) m[t]=m[nums[i]]+1;
+            else m[t]=1;
+            if (m[t]>1) ans=max(ans, m[t]);
             if (ans==5) return ans;
         }
         return ans;
