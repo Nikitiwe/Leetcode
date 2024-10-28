@@ -8,11 +8,12 @@ public:
             {
                 int l=s.find('a'+i), r=s.find_last_of('a'+i);
                 if (r-l<2) continue;
-                string t=s.substr(l+1, r-1-l);
-                for (int k=0; k!=26; k++)
+                unordered_set<char> m;
+                for (int k=l+1; k<r; k++)
                 {
-                    if (t.find('a'+k)!=string::npos&&t.find('a'+k)<r-l-1) ans++;
+                    m.insert(s[k]);
                 }
+                ans+=m.size();
             }
         }
         return ans;
