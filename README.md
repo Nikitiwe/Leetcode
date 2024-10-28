@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/Nikitiwe/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Nikitiwe/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -2046,6 +2047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/Nikitiwe/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
