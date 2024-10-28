@@ -1195,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1103-moving-stones-until-consecutive](https://github.com/Nikitiwe/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
+| [1195-distribute-candies-to-people](https://github.com/Nikitiwe/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1276-closest-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1276-closest-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Nikitiwe/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -2056,6 +2057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/Nikitiwe/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1195-distribute-candies-to-people](https://github.com/Nikitiwe/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Nikitiwe/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
