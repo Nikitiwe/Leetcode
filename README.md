@@ -2363,6 +2363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
+| [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -2598,6 +2599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -2645,6 +2647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1459-apply-discount-every-n-orders](https://github.com/Nikitiwe/Leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1512-design-underground-system](https://github.com/Nikitiwe/Leetcode/tree/master/1512-design-underground-system) |
@@ -2682,6 +2685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 ## Segment Tree
