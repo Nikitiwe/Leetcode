@@ -9,12 +9,9 @@ public:
             {
                 for (int i=0; i<grid.size(); i++)
                 {
-                    if (ans[i][j]==0)
-                    {
-                        if (i>0&&ans[i-1][j-1]==1&&grid[i-1][j-1]<grid[i][j]) {ans[i][j]=1; temp=j;}
-                        else if (ans[i][j-1]==1&&grid[i][j-1]<grid[i][j]) {ans[i][j]=1; temp=j;}
-                        else if (i<grid.size()-1&&ans[i+1][j-1]==1&&grid[i+1][j-1]<grid[i][j]) {ans[i][j]=1; temp=j;}
-                    }
+                    if (ans[i][j-1]==1&&grid[i][j-1]<grid[i][j]) {ans[i][j]=1; temp=j;}
+                    else if (i>0&&ans[i-1][j-1]==1&&grid[i-1][j-1]<grid[i][j]) {ans[i][j]=1; temp=j;}
+                    else if (i<grid.size()-1&&ans[i+1][j-1]==1&&grid[i+1][j-1]<grid[i][j]) {ans[i][j]=1; temp=j;}
                 }
                 if (temp<j) break;
             }
