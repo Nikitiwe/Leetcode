@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nikitiwe/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1459-apply-discount-every-n-orders](https://github.com/Nikitiwe/Leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nikitiwe/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Nikitiwe/Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
@@ -822,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nikitiwe/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Nikitiwe/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
@@ -1426,6 +1428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikitiwe/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nikitiwe/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Nikitiwe/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
