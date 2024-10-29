@@ -1744,6 +1744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3379-score-of-a-string) |
@@ -2031,6 +2032,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -2579,6 +2581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikitiwe/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
