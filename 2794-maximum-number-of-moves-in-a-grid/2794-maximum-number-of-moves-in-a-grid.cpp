@@ -4,8 +4,7 @@ public:
         vector<vector<int>> ans(grid.size(), vector<int> (grid[0].size(), 0));
         int temp=0, m=0;
         for (int k=0; k<grid.size(); k++)  ans[k][0]=1;
-        for (int k=0; k<grid.size(); k++)
-        {
+
             for (int j=1; j<grid[0].size(); j++)
             {
                 for (int i=0; i<grid.size(); i++)
@@ -20,9 +19,7 @@ public:
                 if (temp<j) break;
             }
             m=max(m, temp);
-            if (m==grid[0].size()-1) return m;
-            //ans=zero;
-        }
+
         return m;
     }
 };
