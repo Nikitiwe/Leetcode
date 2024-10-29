@@ -18,7 +18,7 @@ public:
             ans[i][10]+=ans[i-1][3]+ans[i-1][4]+ans[i-1][5]+ans[i-1][7];
             ans[i][11]+=ans[i-1][2]+ans[i-1][3]+ans[i-1][4]+ans[i-1][6]+ans[i-1][7];
 
-            for (int j=0; j!=12; j++)
+            if (i%10==0) for (int j=0; j!=12; j++)
             {
                 ans[i][j]%=1000000007;
             }
