@@ -16,10 +16,15 @@ public:
             }
             else
             {
+                while (s[l]!=s[r])
+                {
+                    arr[s[l]]--;
+                    l++;
+                }
                 arr[s[l]]--;
                 l++;
-                t=0;
-                for (auto i=arr.begin(); i!=arr.end(); i++) t=max(t, i->second);
+                t=k;
+                //for (auto i=arr.begin(); i!=arr.end(); i++) t=max(t, i->second);
             }
         }
         return ans;
