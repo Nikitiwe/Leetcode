@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -1402,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikitiwe/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -2245,6 +2247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/Nikitiwe/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
