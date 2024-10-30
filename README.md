@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nikitiwe/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Nikitiwe/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1081-video-stitching](https://github.com/Nikitiwe/Leetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/Nikitiwe/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Nikitiwe/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1454-remove-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1608,6 +1610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -2661,6 +2664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -2733,6 +2737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/Nikitiwe/Leetcode/tree/master/1397-search-suggestions-system) |
