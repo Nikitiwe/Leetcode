@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
+| [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nikitiwe/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -1990,6 +1991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Nikitiwe/Leetcode/tree/master/2226-rings-and-rods) |
@@ -2137,6 +2139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikitiwe/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Nikitiwe/Leetcode/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2228-watering-plants-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -2752,6 +2755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 | [1955-seat-reservation-manager](https://github.com/Nikitiwe/Leetcode/tree/master/1955-seat-reservation-manager) |
+| [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
