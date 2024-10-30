@@ -665,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3330-modify-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Nikitiwe/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
@@ -2055,6 +2056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
@@ -2239,6 +2241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3324-split-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3324-split-the-array) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -2306,6 +2309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
 | [3330-modify-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
