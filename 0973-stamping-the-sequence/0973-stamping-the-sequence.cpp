@@ -46,7 +46,7 @@ public:
                     break;
                 }
             }
-            if (c!=cc) continue;
+            /*if (c!=cc) continue;
             for (int i=t.size()-s.size(); i>=0; i--)
             {
                 int l=0, x=-1, lc=0;
@@ -85,7 +85,7 @@ public:
                     }
                     break;
                 }
-            }
+            }*/
             if (cc==c) return {};
         }
         reverse(ans.begin(), ans.end());
