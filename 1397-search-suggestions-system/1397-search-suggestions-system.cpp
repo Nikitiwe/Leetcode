@@ -19,6 +19,11 @@ public:
                     r=j;
                 }
                 if (l==t.size()) arr.push_back(s[j]);
+                else if (arr.size()>0)
+                {
+                    ans.push_back(arr);
+                    break;
+                }
                 if (arr.size()==3)
                 {
                     ans.push_back(arr);
