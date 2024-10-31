@@ -551,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Nikitiwe/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
@@ -898,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nikitiwe/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Nikitiwe/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1086,6 +1088,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Nikitiwe/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Nikitiwe/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
