@@ -1653,6 +1653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Nikitiwe/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikitiwe/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/Nikitiwe/Leetcode/tree/master/1619-path-crossing) |
@@ -2381,6 +2382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
