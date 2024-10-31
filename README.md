@@ -635,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3095-maximum-number-of-alloys](https://github.com/Nikitiwe/Leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Nikitiwe/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1121,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -1511,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -1787,6 +1790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3019-furthest-point-from-origin](https://github.com/Nikitiwe/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Nikitiwe/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikitiwe/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
