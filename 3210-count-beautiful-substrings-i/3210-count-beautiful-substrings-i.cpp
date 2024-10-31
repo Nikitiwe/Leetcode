@@ -13,7 +13,7 @@ public:
         int ans=0;
         for (int i=0; i!=s.size(); i++)
         {
-            for (int j=i+1; j<s.size(); j++)
+            for (int j=i+1; j<s.size(); j+=2)
             {
                 if (v[j+1]-v[i]==c[j+1]-c[i]) if ((v[j+1]-v[i])*(v[j+1]-v[i])%k==0) ans++;
             }
