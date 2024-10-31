@@ -1353,6 +1353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/Nikitiwe/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Nikitiwe/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikitiwe/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -1542,6 +1543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## String
 |  |
@@ -1781,6 +1783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Nikitiwe/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3207-make-three-strings-equal) |
+| [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikitiwe/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -2078,6 +2081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikitiwe/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -2416,6 +2420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Nikitiwe/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3311-ant-on-the-boundary](https://github.com/Nikitiwe/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Nikitiwe/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
@@ -2452,6 +2457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/Nikitiwe/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3221-find-the-peaks](https://github.com/Nikitiwe/Leetcode/tree/master/3221-find-the-peaks) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nikitiwe/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
