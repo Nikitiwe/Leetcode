@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Nikitiwe/Leetcode/tree/master/1127-last-stone-weight) |
+| [1129-longest-string-chain](https://github.com/Nikitiwe/Leetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikitiwe/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -750,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-pancake-sorting](https://github.com/Nikitiwe/Leetcode/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Nikitiwe/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
+| [1129-longest-string-chain](https://github.com/Nikitiwe/Leetcode/tree/master/1129-longest-string-chain) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1454-remove-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Nikitiwe/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1129-longest-string-chain](https://github.com/Nikitiwe/Leetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
@@ -1446,6 +1449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-video-stitching](https://github.com/Nikitiwe/Leetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1129-longest-string-chain](https://github.com/Nikitiwe/Leetcode/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikitiwe/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
@@ -1636,6 +1640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1129-longest-string-chain](https://github.com/Nikitiwe/Leetcode/tree/master/1129-longest-string-chain) |
 | [1156-occurrences-after-bigram](https://github.com/Nikitiwe/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/Nikitiwe/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -1976,6 +1981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/Nikitiwe/Leetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
