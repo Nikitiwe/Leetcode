@@ -21,7 +21,7 @@ public:
                 l++;
                 b/=3;
             }
-            if (x.size()>0&&y.size()>0)
+            if (x.size()>0&&y.size()>0&&(int)x.size()*(int)y.size()>ans)
             {
                 bool isit=1;
                 for (int i=0; i<x.size()/2; i++)
