@@ -6,7 +6,7 @@ public:
         {
             if (k%2==0)
             {
-                for (int i=0; i<=k; i++)
+                for (int i=k-m.size(); i<=k; i++)
                 {
                     if (k-i<m.size()&&i<m[0].size()) ans.push_back(m[k-i][i]);
                 }
