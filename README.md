@@ -1597,6 +1597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Nikitiwe/Leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
