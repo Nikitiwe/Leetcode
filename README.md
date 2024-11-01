@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Nikitiwe/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Nikitiwe/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0518-coin-change-ii) |
@@ -2162,6 +2163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/Nikitiwe/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Nikitiwe/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nikitiwe/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Nikitiwe/Leetcode/tree/master/0640-solve-the-equation) |
@@ -2339,6 +2341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Nikitiwe/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Nikitiwe/Leetcode/tree/master/0661-image-smoother) |
