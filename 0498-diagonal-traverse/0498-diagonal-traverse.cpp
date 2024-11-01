@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& m) {
         vector<int> ans;
-        for (int k=0; k!=m.size()+m[0].size(); k++)
+        for (int k=0; k!=m.size()+m[0].size()-1; k++)
         {
             if (k%2==0)
             {
