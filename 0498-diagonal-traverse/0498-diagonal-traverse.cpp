@@ -6,9 +6,10 @@ public:
         {
             if (k%2==0)
             {
-                for (int i=k-m.size()+1; i<=k; i++)
+                for (int i=max(0, k-(int)m.size()+1); i<=k; i++)
                 {
                     if (i<m[0].size()) ans.push_back(m[k-i][i]);
+                    else break;
                 }
             }
             else
