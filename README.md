@@ -1250,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1033-broken-calculator](https://github.com/Nikitiwe/Leetcode/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1070-convert-to-base-2](https://github.com/Nikitiwe/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nikitiwe/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
