@@ -14,9 +14,10 @@ public:
             }
             else
             {
-                for (int i=0; i<=k; i++)
+                for (int i=max(0, k-(int)m[0].size()+1); i<=k; i++)
                 {
-                    if (i<m.size()&&k-i<m[0].size()) ans.push_back(m[i][k-i]);
+                    if (i<m.size()) ans.push_back(m[i][k-i]);
+                    else break;
                 }
             }
         }
