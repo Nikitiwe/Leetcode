@@ -12,7 +12,7 @@ public:
             else s.push_back(0);
             n/=2;
         }
-        s.push_back(0); s.push_back(0); s.push_back(0); s.push_back(0); s.push_back(0);
+        s.push_back(0); s.push_back(0);
         vector<int> t(s.size(), 0);
         for (int i=0; i!=s.size(); i++)
         {
