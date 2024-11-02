@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nikitiwe/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nikitiwe/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1397-search-suggestions-system](https://github.com/Nikitiwe/Leetcode/tree/master/1397-search-suggestions-system) |
