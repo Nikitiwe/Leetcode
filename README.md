@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0906-walking-robot-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/Nikitiwe/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -757,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/Nikitiwe/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Nikitiwe/Leetcode/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
+| [0917-boats-to-save-people](https://github.com/Nikitiwe/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
@@ -842,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/Nikitiwe/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0935-orderly-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0935-orderly-queue) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -1005,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Nikitiwe/Leetcode/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0917-boats-to-save-people](https://github.com/Nikitiwe/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/0973-stamping-the-sequence) |
