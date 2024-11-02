@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Nikitiwe/Leetcode/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -819,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Nikitiwe/Leetcode/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1217,6 +1219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Nikitiwe/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/Nikitiwe/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Nikitiwe/Leetcode/tree/master/0507-perfect-number) |
