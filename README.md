@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikitiwe/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -2792,6 +2794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Nikitiwe/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2211-k-radius-subarray-averages) |
