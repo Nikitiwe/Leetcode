@@ -1505,6 +1505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Nikitiwe/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/Nikitiwe/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0804-rotated-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Nikitiwe/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
