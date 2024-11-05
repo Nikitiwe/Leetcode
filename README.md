@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
+| [1348-maximum-score-of-spliced-array](https://github.com/Nikitiwe/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1527,6 +1528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1332-count-vowels-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1332-count-vowels-permutation) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Nikitiwe/Leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
+| [1348-maximum-score-of-spliced-array](https://github.com/Nikitiwe/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
