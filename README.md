@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Nikitiwe/Leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1025,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Nikitiwe/Leetcode/tree/master/0605-can-place-flowers) |
@@ -1488,6 +1490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Nikitiwe/Leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
@@ -1934,6 +1937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Nikitiwe/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikitiwe/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Nikitiwe/Leetcode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Nikitiwe/Leetcode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Nikitiwe/Leetcode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -2520,6 +2524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Nikitiwe/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0878-shifting-letters) |
