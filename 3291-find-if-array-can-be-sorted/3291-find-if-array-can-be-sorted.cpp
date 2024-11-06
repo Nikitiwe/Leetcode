@@ -14,13 +14,27 @@ public:
             }
             arr[i][1]=s;
         }
-        for (int i=0; i!=nums.size(); i++)
+        vector<int> k, m;
+        int l=0, ma=arr[l][0], mi=ma;
+        for (int i=1; i<nums.size(); i++)
         {
-            for (int j=i+1; j<nums.size(); j++)
+            if (arr[i][1]==arr[l][1])
             {
-                if (arr[i][0]>arr[j][0]&&arr[i][1]!=arr[j][1]) return 0;
+                ma=max(arr[i][0], ma);
+                mi=min(arr[i][0], mi);
+            }
+            else
+            {
+                k.push_back(ma);
+                m.push_back(mi);
+                l=i;
+                ma=arr[l][0];
+                mi=arr[l][0];
             }
         }
+        k.push_back(ma);
+        m.push_back(mi);
+        for (int i=0; i<k.size()-1; i++) if (k[i]>m[i+1]) return 0;
         return 1;
     }
-};
+}; // чот не так пошло ну и пох
