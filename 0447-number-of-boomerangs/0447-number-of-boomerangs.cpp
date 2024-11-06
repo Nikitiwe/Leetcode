@@ -8,7 +8,7 @@ public:
             for (int j=0; j!=p.size(); j++)
             {
                 int t=(p[i][0]-p[j][0])*(p[i][0]-p[j][0])+(p[i][1]-p[j][1])*(p[i][1]-p[j][1]);
-                if (m.count(t)>0) ans+=m[t];
+                /*if (m.count(t)>0)*/ ans+=m[t];
                 m[t]++;
             }
         }
