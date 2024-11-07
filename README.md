@@ -1877,6 +1877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-percentage-of-letter-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2391-strong-password-checker-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Nikitiwe/Leetcode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
