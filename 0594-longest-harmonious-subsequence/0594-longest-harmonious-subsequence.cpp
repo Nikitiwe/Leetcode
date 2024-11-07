@@ -8,7 +8,7 @@ public:
         {
             int t=i->second;
             if (m.count(i->first+1)>0) ans=max(ans, t+m[i->first+1]);
-            if (m.count(i->first-1)>0) ans=max(ans, t+m[i->first-1]);
+            //if (m.count(i->first-1)>0) ans=max(ans, t+m[i->first-1]);
         }
         return ans;
     }
