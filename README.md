@@ -1136,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Nikitiwe/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Nikitiwe/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Nikitiwe/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Nikitiwe/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -1835,6 +1836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Nikitiwe/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Nikitiwe/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
