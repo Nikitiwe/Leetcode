@@ -1949,6 +1949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/Nikitiwe/Leetcode/tree/master/3451-string-compression-iii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Binary Search
 |  |
 | ------- |
