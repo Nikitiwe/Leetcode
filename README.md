@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2648-number-of-ways-to-earn-points](https://github.com/Nikitiwe/Leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -1613,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2577-count-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2648-number-of-ways-to-earn-points](https://github.com/Nikitiwe/Leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
