@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minDays(vector<int>& nums, int n, int k) {
-        int l=0, r=*max_element(nums.begin(), nums.end()), m;
+        int l=*min_element(nums.begin(), nums.end()), r=*max_element(nums.begin(), nums.end()), m;
 
         {
             int c=0, s=0;
