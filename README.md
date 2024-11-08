@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Nikitiwe/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Nikitiwe/Leetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
