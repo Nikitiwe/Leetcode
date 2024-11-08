@@ -1201,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Nikitiwe/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -1625,6 +1626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
@@ -1916,6 +1918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Nikitiwe/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/Nikitiwe/Leetcode/tree/master/2825-minimize-string-length) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
