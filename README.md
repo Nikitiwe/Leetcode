@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Nikitiwe/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1397-search-suggestions-system](https://github.com/Nikitiwe/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikitiwe/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -2152,6 +2153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Nikitiwe/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1459-apply-discount-every-n-orders](https://github.com/Nikitiwe/Leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nikitiwe/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -2345,6 +2347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Nikitiwe/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Nikitiwe/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -2532,6 +2535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikitiwe/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
