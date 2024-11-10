@@ -8,7 +8,6 @@ class Solution {
 public:
     vector<int> findRightInterval(vector<vector<int>>& ss) {
         if (ss.size()==1&&ss[0][0]!=ss[0][1]) return {-1};
-        if (ss.size()==1&&ss[0][0]==ss[0][1]) return {0};
         unordered_map<int, int> n;
         for (int i=0; i!=ss.size(); i++) n[ss[i][0]]=i;
         vector<vector<int>> s=ss;
