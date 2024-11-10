@@ -16,14 +16,13 @@ public:
                 {
                     t+=s[j-1];
                     bool isit=0;
-                    for (int k=0; k!=arr.size(); k++)
-                    {
-                        if (t==arr[k])
-                        {
-                            isit=1;
-                            break;
-                        }
-                    }
+                    if (t.size()==1&&t==arr[0]) isit=1;
+                    else if (t.size()==3&&t==arr[1]) isit=1;
+                    else if (t.size()==5&&t==arr[2]) isit=1;
+                    else if (t.size()==7&&t==arr[3]) isit=1;
+                    else if (t.size()==10&&t==arr[4]) isit=1;
+                    else if (t.size()==12&&t==arr[5]) isit=1;
+                    else if (t.size()==14&&t==arr[6]) isit=1;
                     if (isit==1)
                     {
                         ans[j]=min(ans[j], ans[i-1]+1);
