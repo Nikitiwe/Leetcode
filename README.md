@@ -1813,6 +1813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikitiwe/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/Nikitiwe/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1660-thousand-separator](https://github.com/Nikitiwe/Leetcode/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Nikitiwe/Leetcode/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
