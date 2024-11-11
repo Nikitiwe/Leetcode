@@ -12,7 +12,7 @@ public:
                 t+=s[j];
                 n.insert(s[j]);
                 if (n.size()>maxLetters) break;
-                if (t.size()>maxSize) break;
+                if (t.size()>minSize) break;
                 if (t.size()>=minSize)
                 {
                     m[t]++;
