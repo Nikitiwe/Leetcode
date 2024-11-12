@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestNiceSubarray(vector<int>& nums) {
-        vector<int> arr(32, 0);
+        vector<int> arr(30, 0);
         int l=0, r=0, ans=1;
         int t=nums[r], k=0;
         while (t>0)
@@ -21,6 +21,7 @@ public:
             if (isit==1)
             {
                 ans=max(ans, r-l+1);
+                if (ans==30) return ans;
                 r++;
                 if (r==nums.size()) break;
                 int t=nums[r], k=0;
