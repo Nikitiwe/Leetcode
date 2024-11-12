@@ -1,32 +1,29 @@
 class Solution {
 public:
     int countSpecialSubsequences(vector<int>& nums) {
-        vector<vector<long>> ans(nums.size(), vector<long> (3, 0));
-        if (nums[0]==0) ans[0][0]++;
+        long a=0, b=0, c=0;
+        if (nums[0]==0) a++;
         for (int i=1; i<nums.size(); i++)
         {
-            ans[i][0]=ans[i-1][0];
-            ans[i][1]=ans[i-1][1];
-            ans[i][2]=ans[i-1][2];
             if (nums[i]==0)
             {
-                ans[i][0]++;
-                ans[i][0]+=ans[i-1][0];
-                ans[i][0]%=1000000007;
+                a*=2;
+                a++;
+                a%=1000000007;
             }
             else if (nums[i]==1)
             {
-                ans[i][1]+=ans[i-1][0];
-                ans[i][1]+=ans[i-1][1];
-                ans[i][1]%=1000000007;
+                b*=2;
+                b+=a;
+                b%=1000000007;
             }
             else
             {
-                ans[i][2]+=ans[i-1][1];
-                ans[i][2]+=ans[i-1][2];
-                ans[i][2]%=1000000007;
+                c*=2;
+                c+=b;
+                c%=1000000007;
             }
         }
-        return ans[nums.size()-1][2];
+        return c;
     }
 };
