@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2077-largest-number-after-mutating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Nikitiwe/Leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2086-count-number-of-special-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Nikitiwe/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -1634,6 +1635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2086-count-number-of-special-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
