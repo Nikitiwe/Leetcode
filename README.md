@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-smallest-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -1786,6 +1787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0935-orderly-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0935-orderly-queue) |
+| [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Nikitiwe/Leetcode/tree/master/0961-long-pressed-name) |
@@ -2174,6 +2176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [0991-array-of-doubled-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0991-array-of-doubled-pairs) |
