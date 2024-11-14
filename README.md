@@ -577,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -2767,6 +2768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -2872,6 +2874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nikitiwe/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -2905,6 +2908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
