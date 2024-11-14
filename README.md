@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-slowest-key](https://github.com/Nikitiwe/Leetcode/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/Nikitiwe/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1769-get-maximum-in-generated-array](https://github.com/Nikitiwe/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
@@ -2428,6 +2429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1705-count-unhappy-friends](https://github.com/Nikitiwe/Leetcode/tree/master/1705-count-unhappy-friends) |
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Nikitiwe/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
+| [1769-get-maximum-in-generated-array](https://github.com/Nikitiwe/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nikitiwe/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
