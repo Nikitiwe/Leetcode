@@ -537,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
 | [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nikitiwe/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nikitiwe/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
@@ -2090,6 +2092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Nikitiwe/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nikitiwe/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
