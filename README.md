@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
+| [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1277-largest-multiple-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1277-largest-multiple-of-three) |
@@ -1612,6 +1613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1236-n-th-tribonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1277-largest-multiple-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1277-largest-multiple-of-three) |
@@ -2613,6 +2615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
+| [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1311-largest-magic-square](https://github.com/Nikitiwe/Leetcode/tree/master/1311-largest-magic-square) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
