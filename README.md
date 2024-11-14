@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-minimum-distance-to-the-target-element](https://github.com/Nikitiwe/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Nikitiwe/Leetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikitiwe/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -2263,6 +2264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-finding-the-users-active-minutes](https://github.com/Nikitiwe/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nikitiwe/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -2708,6 +2710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Nikitiwe/Leetcode/tree/master/1983-maximum-population-year) |
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
