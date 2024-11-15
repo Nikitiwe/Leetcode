@@ -812,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Nikitiwe/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nikitiwe/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Nikitiwe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nikitiwe/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
@@ -1761,6 +1762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Nikitiwe/Leetcode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Nikitiwe/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Nikitiwe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0165-compare-version-numbers) |
