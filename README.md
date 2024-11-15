@@ -1954,6 +1954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Nikitiwe/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/Nikitiwe/Leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nikitiwe/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2226-rings-and-rods](https://github.com/Nikitiwe/Leetcode/tree/master/2226-rings-and-rods) |
@@ -2476,6 +2477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/Nikitiwe/Leetcode/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/Nikitiwe/Leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2228-watering-plants-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nikitiwe/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
