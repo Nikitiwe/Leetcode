@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1705-count-unhappy-friends](https://github.com/Nikitiwe/Leetcode/tree/master/1705-count-unhappy-friends) |
@@ -852,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1454-remove-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikitiwe/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -2099,6 +2101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nikitiwe/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nikitiwe/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -2845,6 +2848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikitiwe/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1666-make-the-string-great](https://github.com/Nikitiwe/Leetcode/tree/master/1666-make-the-string-great) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -3117,6 +3121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Memoization
 |  |
 | ------- |
