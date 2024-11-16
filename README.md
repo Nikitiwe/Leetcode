@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -2239,6 +2240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikitiwe/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -2546,6 +2548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1140-distant-barcodes](https://github.com/Nikitiwe/Leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
