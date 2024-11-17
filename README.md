@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Nikitiwe/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nikitiwe/Leetcode/tree/master/0274-h-index) |
@@ -1302,6 +1303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Nikitiwe/Leetcode/tree/master/0502-ipo) |
@@ -3023,6 +3025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Nikitiwe/Leetcode/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/Nikitiwe/Leetcode/tree/master/0859-design-circular-deque) |
@@ -3041,6 +3044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikitiwe/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
@@ -3179,6 +3183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Topological Sort
