@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0810-valid-tic-tac-toe-state](https://github.com/Nikitiwe/Leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0822-unique-morse-code-words](https://github.com/Nikitiwe/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Nikitiwe/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0827-expressive-words](https://github.com/Nikitiwe/Leetcode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0831-largest-sum-of-averages](https://github.com/Nikitiwe/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
@@ -848,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Nikitiwe/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Nikitiwe/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0827-expressive-words](https://github.com/Nikitiwe/Leetcode/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nikitiwe/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nikitiwe/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Nikitiwe/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -1847,6 +1849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Nikitiwe/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Nikitiwe/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Nikitiwe/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0827-expressive-words](https://github.com/Nikitiwe/Leetcode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nikitiwe/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
