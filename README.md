@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-minimum-distance-to-the-target-element](https://github.com/Nikitiwe/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Nikitiwe/Leetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Nikitiwe/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikitiwe/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -2150,6 +2151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nikitiwe/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Nikitiwe/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
