@@ -10,13 +10,11 @@ public:
             nums[i][1]=i;
         }
         sort(nums.rbegin(), nums.rend());
-        unordered_set<int> m;
-        for (int i=0; i!=k; i++) m.insert(nums[i][1]);
         int ans=0;
-        for (int i=0; i!=arr.size(); i++)
+        for (int i=0; i!=arr.size(); i++) ans+=r2[i];
+        for (int i=0; i!=k; i++)
         {
-            if (m.count(i)==1) ans+=r1[i];
-            else ans+=r2[i];
+            ans+=arr[nums[i][1]];
         }
         return ans;        
     }
