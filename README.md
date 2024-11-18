@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikitiwe/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2350-find-closest-number-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
