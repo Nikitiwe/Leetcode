@@ -10,9 +10,10 @@ public:
                 sum+=arr[l];
                 l++;
             }
-            if (abs(t-sum-((int)arr.size()-l)*i)<d)
+            int a=abs(t-sum-((int)arr.size()-l)*i);
+            if (a<d)
             {
-                d=abs(t-sum-((int)arr.size()-l)*i);
+                d=a;
             }
             else return i-1;
         }
