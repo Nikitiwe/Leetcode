@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nikitiwe/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Nikitiwe/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1031-add-to-array-form-of-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/Nikitiwe/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Nikitiwe/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Nikitiwe/Leetcode/tree/master/1041-available-captures-for-rook) |
@@ -1437,6 +1438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/Nikitiwe/Leetcode/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Nikitiwe/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
