@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Nikitiwe/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2034-minimum-absolute-difference-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -2361,6 +2362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2034-minimum-absolute-difference-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
