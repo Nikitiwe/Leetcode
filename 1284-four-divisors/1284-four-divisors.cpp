@@ -15,6 +15,7 @@ public:
                     t/=l;
                 }
                 else l++;
+                if (arr.size()>3) break;
             }
             if (arr.size()==2&&arr[0]!=arr[1]) ans+=s+arr[0]*arr[1];
             else if (arr.size()==3&&arr[0]==arr[1]&&arr[1]==arr[2]) ans+=1+arr[0]*(1+arr[0]*(1+arr[0]));
