@@ -8,7 +8,7 @@ public:
             string t;
             for (int j=0; j!=m[i].size(); j++)
             {
-                t+=m[i][j]+' ';
+                t+=m[i][j];
                 m[i][j]=1-m[i][j];
             }
             n[t]++;
@@ -16,7 +16,7 @@ public:
             t="";
             for (int j=0; j!=m[i].size(); j++)
             {
-                t+=m[i][j]+' ';
+                t+=m[i][j];
             }
             n[t]++;
             ans=max(ans, n[t]);
