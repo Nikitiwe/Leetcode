@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1277-largest-multiple-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1277-largest-multiple-of-three) |
+| [1284-four-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1284-four-divisors) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1287-distance-between-bus-stops](https://github.com/Nikitiwe/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Nikitiwe/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -1466,6 +1467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Nikitiwe/Leetcode/tree/master/1260-day-of-the-year) |
 | [1276-closest-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1276-closest-divisors) |
+| [1284-four-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1284-four-divisors) |
 | [1289-day-of-the-week](https://github.com/Nikitiwe/Leetcode/tree/master/1289-day-of-the-week) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Nikitiwe/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
