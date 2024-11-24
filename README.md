@@ -590,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Nikitiwe/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1044,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/Nikitiwe/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -2044,6 +2046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Nikitiwe/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nikitiwe/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -2405,6 +2408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nikitiwe/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -3015,6 +3019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/2159-two-out-of-three) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nikitiwe/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
