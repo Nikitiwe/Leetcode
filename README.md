@@ -751,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/Nikitiwe/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Nikitiwe/Leetcode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -1592,6 +1593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Nikitiwe/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Nikitiwe/Leetcode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3055-maximum-odd-binary-number](https://github.com/Nikitiwe/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Nikitiwe/Leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1822,6 +1824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Nikitiwe/Leetcode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## String
