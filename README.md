@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Nikitiwe/Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
@@ -1201,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Nikitiwe/Leetcode/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nikitiwe/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Nikitiwe/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -2365,6 +2367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/Nikitiwe/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -3020,6 +3023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-complement-of-base-10-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Nikitiwe/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
