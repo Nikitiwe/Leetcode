@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nikitiwe/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nikitiwe/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Nikitiwe/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Nikitiwe/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -1182,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1033-broken-calculator](https://github.com/Nikitiwe/Leetcode/tree/master/1033-broken-calculator) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Nikitiwe/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nikitiwe/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/Nikitiwe/Leetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Nikitiwe/Leetcode/tree/master/1139-previous-permutation-with-one-swap) |
