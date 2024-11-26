@@ -669,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2551-apply-operations-to-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Nikitiwe/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2561-number-of-distinct-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nikitiwe/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Nikitiwe/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2561-number-of-distinct-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1386,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Nikitiwe/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2629,6 +2632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Nikitiwe/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nikitiwe/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikitiwe/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
