@@ -5,11 +5,7 @@ public:
         for (int i=0; i!=10; i++)
         {
             n-=t;
-            if (n<0)
-            {
-                if (i%2==0) return 0;
-                else return 1;
-            }
+            if (n<0) return i%2;
             t--;
         }
         return -1;
