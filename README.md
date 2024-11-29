@@ -551,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2122-count-special-quadruplets](https://github.com/Nikitiwe/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -1048,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Nikitiwe/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1262,6 +1264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Nikitiwe/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Nikitiwe/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Nikitiwe/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -2422,6 +2425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2122-count-special-quadruplets](https://github.com/Nikitiwe/Leetcode/tree/master/2122-count-special-quadruplets) |
