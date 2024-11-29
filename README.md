@@ -2171,6 +2171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nikitiwe/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nikitiwe/Leetcode/tree/master/3451-string-compression-iii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Nikitiwe/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -2548,6 +2549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Nikitiwe/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Geometry
@@ -3221,6 +3223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Nikitiwe/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Game Theory
