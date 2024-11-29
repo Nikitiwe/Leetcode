@@ -10,10 +10,11 @@ public:
         {
             if (nums[i]%2==0)
             {
-                if (m.count(nums[i]/2)>0)
+                int t=nums[i]/2;
+                if (m.count(t)>0)
                 {
-                    m[nums[i]/2]--;
-                    if (m[nums[i]/2]==0) m.erase(nums[i]/2);
+                    m[t]--;
+                    if (m[t]==0) m.erase(t);
                 }
                 else
                 {
