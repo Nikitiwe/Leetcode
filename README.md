@@ -846,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1638,6 +1639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1848,6 +1850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Nikitiwe/Leetcode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## String
 |  |
 | ------- |
