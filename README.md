@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1348-maximum-score-of-spliced-array](https://github.com/Nikitiwe/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nikitiwe/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1505,6 +1506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Nikitiwe/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nikitiwe/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Nikitiwe/Leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nikitiwe/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -2571,6 +2573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
 | [0976-minimum-area-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nikitiwe/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Nikitiwe/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Nikitiwe/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
