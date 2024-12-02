@@ -2042,6 +2042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/Nikitiwe/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Nikitiwe/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nikitiwe/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Nikitiwe/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1923-sentence-similarity-iii) |
