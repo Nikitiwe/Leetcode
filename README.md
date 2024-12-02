@@ -1767,6 +1767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikitiwe/Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1764-maximum-repeating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
@@ -2027,6 +2028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Nikitiwe/Leetcode/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1764-maximum-repeating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nikitiwe/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nikitiwe/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -3278,6 +3280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Nikitiwe/Leetcode/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
