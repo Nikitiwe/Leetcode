@@ -1603,6 +1603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Nikitiwe/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -1860,6 +1861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nikitiwe/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2670-make-k-subarray-sums-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
