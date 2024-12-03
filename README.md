@@ -2058,6 +2058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Nikitiwe/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
@@ -2448,6 +2449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1904-second-largest-digit-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/Nikitiwe/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nikitiwe/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
