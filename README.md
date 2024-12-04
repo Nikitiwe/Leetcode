@@ -789,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3206-find-common-elements-between-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Nikitiwe/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Nikitiwe/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Nikitiwe/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/Nikitiwe/Leetcode/tree/master/3221-find-the-peaks) |
@@ -1136,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3202-high-access-employees](https://github.com/Nikitiwe/Leetcode/tree/master/3202-high-access-employees) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
