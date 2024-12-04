@@ -751,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nikitiwe/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Nikitiwe/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2889-number-of-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/Nikitiwe/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -2552,6 +2553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nikitiwe/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2889-number-of-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/Nikitiwe/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -3006,6 +3008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
+| [2889-number-of-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2998-count-symmetric-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
