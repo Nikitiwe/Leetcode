@@ -2073,6 +2073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nikitiwe/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Nikitiwe/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Nikitiwe/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -3144,6 +3145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Nikitiwe/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nikitiwe/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
