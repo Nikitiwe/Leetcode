@@ -862,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nikitiwe/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
@@ -2321,6 +2322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -2987,6 +2989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nikitiwe/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
 |  |
 | ------- |
