@@ -1461,6 +1461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Nikitiwe/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Nikitiwe/Leetcode/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -3353,6 +3354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Nikitiwe/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
