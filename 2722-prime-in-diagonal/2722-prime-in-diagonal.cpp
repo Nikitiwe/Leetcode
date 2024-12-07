@@ -4,6 +4,8 @@ public:
         int ans=0;
         for (int i=0; i!=nums.size(); i++)
         {
+            if (nums[i][i]>ans)
+            {
             int t=nums[i][i], c=0, g=sqrt(t), j=2;
             while (j<=g)
             {
@@ -16,9 +18,12 @@ public:
                 else j++;
             }
             if (c<=1) ans=max(ans, nums[i][i]);
+            }
         }
         for (int i=0; i!=nums.size(); i++)
         {
+            if (nums[nums.size()-1-i][i]>ans)
+            {
             int t=nums[nums.size()-1-i][i], c=0, g=sqrt(t), j=2;
             while (j<=g)
             {
@@ -31,6 +36,7 @@ public:
                 else j++;
             }
             if (c<=1) ans=max(ans, nums[nums.size()-1-i][i]);
+            }
         }
         if (ans>1) return ans;
         else return 0;
