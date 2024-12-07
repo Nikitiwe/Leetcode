@@ -725,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2725-mice-and-cheese](https://github.com/Nikitiwe/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/Nikitiwe/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -1635,6 +1636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Nikitiwe/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Nikitiwe/Leetcode/tree/master/2752-sum-multiples) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Nikitiwe/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Nikitiwe/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -1887,6 +1889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2670-make-k-subarray-sums-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Nikitiwe/Leetcode/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
@@ -2897,6 +2900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Nikitiwe/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
