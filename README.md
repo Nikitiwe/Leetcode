@@ -749,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -1646,6 +1647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2857-total-distance-traveled](https://github.com/Nikitiwe/Leetcode/tree/master/2857-total-distance-traveled) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -1838,6 +1840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
