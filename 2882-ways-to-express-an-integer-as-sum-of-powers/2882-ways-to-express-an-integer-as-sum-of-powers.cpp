@@ -17,9 +17,8 @@ public:
         }
         for (int j=0; j!=s.size(); j++)
         {
-            for (int i=1; i<=n; i++)
+            for (int i=s[j]; i<=n; i++)
             {
-                if (i>=s[j])
                 {
                     arr[i-s[j]]+=arr[i];
                     arr[i-s[j]]%=1000000007;
