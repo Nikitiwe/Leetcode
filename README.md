@@ -631,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Nikitiwe/Leetcode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -1100,6 +1101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1320,6 +1322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Nikitiwe/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2352-design-an-atm-machine](https://github.com/Nikitiwe/Leetcode/tree/master/2352-design-an-atm-machine) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -2319,6 +2322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nikitiwe/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Nikitiwe/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -2994,6 +2998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2342-minimum-average-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Nikitiwe/Leetcode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2465-shifting-letters-ii) |
