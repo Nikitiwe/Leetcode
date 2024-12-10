@@ -1846,6 +1846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Nikitiwe/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
