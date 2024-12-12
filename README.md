@@ -2228,6 +2228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3207-make-three-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikitiwe/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -2352,6 +2353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3095-maximum-number-of-alloys](https://github.com/Nikitiwe/Leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3427-special-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3427-special-array-ii) |
@@ -2620,6 +2622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nikitiwe/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -2849,6 +2852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
@@ -3334,6 +3338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikitiwe/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
