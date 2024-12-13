@@ -1186,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1916-find-center-of-star-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Nikitiwe/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3189-find-champion-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3189-find-champion-ii) |
 ## Greedy
 |  |
@@ -2585,6 +2586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Nikitiwe/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
