@@ -2002,6 +2002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0874-backspace-string-compare](https://github.com/Nikitiwe/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0878-shifting-letters) |
+| [0889-buddy-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -2436,6 +2437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Nikitiwe/Leetcode/tree/master/0876-hand-of-straights) |
+| [0889-buddy-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
