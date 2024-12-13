@@ -811,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nikitiwe/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1158,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3202-high-access-employees](https://github.com/Nikitiwe/Leetcode/tree/master/3202-high-access-employees) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nikitiwe/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -2627,6 +2629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nikitiwe/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
