@@ -777,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Nikitiwe/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -1380,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Nikitiwe/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Nikitiwe/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -3205,6 +3207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
