@@ -1952,6 +1952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Nikitiwe/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/Nikitiwe/Leetcode/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Nikitiwe/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -3217,6 +3218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/Nikitiwe/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/Nikitiwe/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Nikitiwe/Leetcode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
