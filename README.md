@@ -1850,6 +1850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2569-number-of-beautiful-partitions](https://github.com/Nikitiwe/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 | [2577-count-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/Nikitiwe/Leetcode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -2197,6 +2198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2569-number-of-beautiful-partitions](https://github.com/Nikitiwe/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2577-count-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2577-count-palindromic-subsequences) |
