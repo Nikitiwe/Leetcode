@@ -8,13 +8,16 @@ public:
         {
             for (int i=0; i!=nums.size(); i++)
             {
-                if (k-nums[i]!=nums[i])
+                if (m.count(k-nums[i])>0)
                 {
-                    ans+=m[k-nums[i]];
-                }
-                else
-                {
-                    ans+=(long long)(m[k-nums[i]]-1);
+                    if (k-nums[i]!=nums[i])
+                    {
+                        ans+=m[k-nums[i]];
+                    }
+                    else
+                    {
+                        ans+=(long long)(m[k-nums[i]]-1);
+                    }
                 }
             }
             k*=2;
