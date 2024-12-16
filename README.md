@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/Nikitiwe/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1830-count-good-meals](https://github.com/Nikitiwe/Leetcode/tree/master/1830-count-good-meals) |
 | [1833-find-the-highest-altitude](https://github.com/Nikitiwe/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nikitiwe/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-sum-of-unique-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -2521,6 +2522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nikitiwe/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1830-count-good-meals](https://github.com/Nikitiwe/Leetcode/tree/master/1830-count-good-meals) |
 | [1848-sum-of-unique-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
