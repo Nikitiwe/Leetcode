@@ -16,7 +16,7 @@ public:
                     }
                     else
                     {
-                        ans+=(long long)(m[k-nums[i]]-1);
+                        ans+=(m[k-nums[i]]-1);
                     }
                 }
             }
