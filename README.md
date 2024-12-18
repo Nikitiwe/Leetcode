@@ -761,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
@@ -3379,6 +3380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-sliding-subarray-beauty](https://github.com/Nikitiwe/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
