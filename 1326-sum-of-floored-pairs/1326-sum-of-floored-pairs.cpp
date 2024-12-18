@@ -1,7 +1,8 @@
 class Solution {
 public:
     int sumOfFlooredPairs(vector<int>& nums) {
-        vector<int> arr(100001, 0), a=arr;
+        int ma=*max_element(nums.begin(), nums.end());
+        vector<int> arr(ma+1, 0), a=arr;
         for (int i=0; i!=nums.size(); i++) arr[nums[i]]++;
         long ans=0, mod=1000000007;
         for (int i=1; i!=arr.size(); i++)
