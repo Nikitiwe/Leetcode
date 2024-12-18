@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-smallest-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -1540,6 +1541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-orderly-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0935-orderly-queue) |
 | [0944-smallest-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0963-three-equal-parts](https://github.com/Nikitiwe/Leetcode/tree/master/0963-three-equal-parts) |
 | [0976-minimum-area-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [0994-prison-cells-after-n-days](https://github.com/Nikitiwe/Leetcode/tree/master/0994-prison-cells-after-n-days) |
@@ -1919,6 +1921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Nikitiwe/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Nikitiwe/Leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -2472,6 +2475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0976-minimum-area-rectangle) |
@@ -2829,6 +2833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0936-rle-iterator](https://github.com/Nikitiwe/Leetcode/tree/master/0936-rle-iterator) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nikitiwe/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Nikitiwe/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
