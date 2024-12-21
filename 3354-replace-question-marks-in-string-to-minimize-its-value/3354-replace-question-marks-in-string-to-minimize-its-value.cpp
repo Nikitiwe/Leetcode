@@ -3,7 +3,6 @@ public:
     string minimizeStringValue(string s) {
         vector<int> arr(26, 0), a=arr;
         for (int i=0; i!=s.size(); i++) if (s[i]!='?') arr[s[i]-'a']++;
-        string ans;
         for (int i=0; i!=s.size(); i++)
         {
             if (s[i]=='?')
@@ -20,14 +19,13 @@ public:
         int l=0;
         for (int i=0; i!=s.size(); i++)
         {
-            if (s[i]!='?') ans+=s[i];
-            else
+            if (s[i]=='?')
             {
                 while (a[l]==0) l++;
                 a[l]--;
-                ans+='a'+l;
+                s[i]='a'+l;
             }
         }
-        return ans;
+        return s;
     }
 };
