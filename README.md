@@ -888,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nikitiwe/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Nikitiwe/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -1419,6 +1420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1726,6 +1728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Nikitiwe/Leetcode/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1953,6 +1956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## String
 |  |
 | ------- |
