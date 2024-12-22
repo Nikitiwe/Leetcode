@@ -2276,6 +2276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3202-high-access-employees](https://github.com/Nikitiwe/Leetcode/tree/master/3202-high-access-employees) |
 | [3207-make-three-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3223-count-complete-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2679,6 +2680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3206-find-common-elements-between-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Nikitiwe/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
+| [3223-count-complete-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -3417,6 +3419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikitiwe/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3223-count-complete-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
