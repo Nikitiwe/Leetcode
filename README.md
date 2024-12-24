@@ -897,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/Nikitiwe/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2849,6 +2850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 ## Counting
 |  |
 | ------- |
