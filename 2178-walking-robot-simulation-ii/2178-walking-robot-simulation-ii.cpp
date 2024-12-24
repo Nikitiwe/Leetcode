@@ -1,15 +1,9 @@
 class Robot {
 private:
-    vector<vector<int>> g;
     int d, x, y, w, h;
 public:
     Robot(int ww, int hh) {
         d=0, y=0, x=0, w=ww, h=hh;
-        vector<int> row(w, 0);
-        for (int i=0; i!=h; i++)
-        {
-            g.push_back(row);
-        }
     }
     
     void step(int n) {
