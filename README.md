@@ -874,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Nikitiwe/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -994,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -1193,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3430-count-days-without-meetings](https://github.com/Nikitiwe/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Graph
 |  |
@@ -1907,6 +1910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -2410,6 +2414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nikitiwe/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3427-special-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
@@ -2711,6 +2716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Nikitiwe/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -2940,6 +2946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Nikitiwe/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Matrix
 |  |
