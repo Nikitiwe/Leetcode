@@ -9,11 +9,14 @@ public:
             {
                 for (int k=0; k!=26; k++)
                 {
-                    if (s[i].back()-'a'!=j) arr[i][s[i][0]-'a'][k]=min(arr[i-1][j][k]+(int)s[i].size(), arr[i][s[i][0]-'a'][k]);
-                    else arr[i][s[i][0]-'a'][k]=min(arr[i-1][j][k]+(int)s[i].size()-1, arr[i][s[i][0]-'a'][k]);
+                    if (arr[i-1][j][k]<60000)
+                    {
+                        if (s[i].back()-'a'!=j) arr[i][s[i][0]-'a'][k]=min(arr[i-1][j][k]+(int)s[i].size(), arr[i][s[i][0]-'a'][k]);
+                        else arr[i][s[i][0]-'a'][k]=min(arr[i-1][j][k]+(int)s[i].size()-1, arr[i][s[i][0]-'a'][k]);
 
-                    if (s[i][0]-'a'!=k) arr[i][j][s[i].back()-'a']=min(arr[i-1][j][k]+(int)s[i].size(), arr[i][j][s[i].back()-'a']);
-                    else arr[i][j][s[i].back()-'a']=min(arr[i-1][j][k]+(int)s[i].size()-1, arr[i][j][s[i].back()-'a']);
+                        if (s[i][0]-'a'!=k) arr[i][j][s[i].back()-'a']=min(arr[i-1][j][k]+(int)s[i].size(), arr[i][j][s[i].back()-'a']);
+                        else arr[i][j][s[i].back()-'a']=min(arr[i-1][j][k]+(int)s[i].size()-1, arr[i][j][s[i].back()-'a']);
+                    }
                 }
             }
         }
