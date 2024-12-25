@@ -762,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2845-find-the-value-of-the-partition](https://github.com/Nikitiwe/Leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2854-decremental-string-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -1899,6 +1900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [2854-decremental-string-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nikitiwe/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Nikitiwe/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -2265,6 +2267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2825-minimize-string-length](https://github.com/Nikitiwe/Leetcode/tree/master/2825-minimize-string-length) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2854-decremental-string-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2881-split-strings-by-separator](https://github.com/Nikitiwe/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2886-faulty-keyboard](https://github.com/Nikitiwe/Leetcode/tree/master/2886-faulty-keyboard) |
