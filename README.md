@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1348-maximum-score-of-spliced-array](https://github.com/Nikitiwe/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nikitiwe/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1278,6 +1279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nikitiwe/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Nikitiwe/Leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
