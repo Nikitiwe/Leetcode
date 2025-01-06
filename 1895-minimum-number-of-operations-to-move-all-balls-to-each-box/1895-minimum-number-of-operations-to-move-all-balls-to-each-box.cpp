@@ -10,7 +10,7 @@ public:
             if (boxes[i]=='1') {count++;}
             temp=temp+count;
         }
-        temp=0, count=0;
+        temp=0; count=0;
         for (int i=boxes.size()-1; i>=0; i--)
         {
             ans[i]=ans[i]+temp;
