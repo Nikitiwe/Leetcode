@@ -2327,6 +2327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -2738,6 +2739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -2864,6 +2866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 ## Counting
 |  |
@@ -3248,6 +3251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3447-clear-digits) |
+| [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
