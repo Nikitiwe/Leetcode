@@ -2253,6 +2253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/Nikitiwe/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Nikitiwe/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2528-number-of-valid-clock-times](https://github.com/Nikitiwe/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Nikitiwe/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
@@ -3185,6 +3186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Nikitiwe/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2528-number-of-valid-clock-times](https://github.com/Nikitiwe/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
