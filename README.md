@@ -660,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
@@ -1147,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nikitiwe/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1377,6 +1379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nikitiwe/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1482,6 +1485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nikitiwe/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -2646,6 +2650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
@@ -2841,6 +2846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
