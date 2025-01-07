@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -2641,6 +2642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
@@ -2945,6 +2947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2475-largest-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
