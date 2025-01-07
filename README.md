@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Nikitiwe/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1524-string-matching-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nikitiwe/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -2121,6 +2122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-design-underground-system](https://github.com/Nikitiwe/Leetcode/tree/master/1512-design-underground-system) |
 | [1517-restore-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/1517-restore-the-array) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1524-string-matching-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1526-html-entity-parser](https://github.com/Nikitiwe/Leetcode/tree/master/1526-html-entity-parser) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1532-reformat-the-string](https://github.com/Nikitiwe/Leetcode/tree/master/1532-reformat-the-string) |
@@ -3496,6 +3498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/Nikitiwe/Leetcode/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
+| [1524-string-matching-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
