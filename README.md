@@ -2249,6 +2249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2391-strong-password-checker-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Nikitiwe/Leetcode/tree/master/2401-count-asterisks) |
+| [2406-decode-the-message](https://github.com/Nikitiwe/Leetcode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
@@ -2644,6 +2645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2406-decode-the-message](https://github.com/Nikitiwe/Leetcode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
