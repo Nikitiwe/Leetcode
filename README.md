@@ -2328,6 +2328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/3636-check-balanced-string) |
 ## Binary Search
 |  |
 | ------- |
