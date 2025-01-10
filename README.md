@@ -2173,6 +2173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1797-goal-parser-interpretation](https://github.com/Nikitiwe/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1804-maximum-binary-string-after-change](https://github.com/Nikitiwe/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1812-reformat-phone-number](https://github.com/Nikitiwe/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Nikitiwe/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikitiwe/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
