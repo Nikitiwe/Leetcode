@@ -10,7 +10,6 @@ public:
                 for (int j=nums[i]; j<nums[i+1]; j++)
                 {
                     m[j]++;
-                    ma=max(ma, m[j]);
                 }
             }
             else
@@ -18,18 +17,19 @@ public:
                 for (int j=nums[i]; j<=n; j++)
                 {
                     m[j]++;
-                    ma=max(ma, m[j]);
                 }
                 for (int j=1; j<nums[i+1]; j++)
                 {
                     m[j]++;
-                    ma=max(ma, m[j]);
                 }
             }
         }
         m[nums.back()]++;
-        ma=max(ma, m[nums.back()]);
         vector<int> ans;
+        for (auto i=m.begin(); i!=m.end(); i++)
+        {
+            ma=max(ma, i->second);
+        }
         for (auto i=m.begin(); i!=m.end(); i++)
         {
             if (i->second==ma) ans.push_back(i->first);
@@ -37,4 +37,4 @@ public:
         sort(ans.begin(), ans.end());
         return ans;
     }
-};
+}; // можно было смотреть только на первый и последний элементы
