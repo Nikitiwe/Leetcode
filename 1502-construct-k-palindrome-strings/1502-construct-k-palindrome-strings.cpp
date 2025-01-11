@@ -10,7 +10,7 @@ public:
         int count=0;
         for (int i=0; i!=26; i++)
         {
-            count=count+abc[i]%2;
+            count+=abc[i]%2;
         }
         if (count<=k) return 1;
         else return 0;
