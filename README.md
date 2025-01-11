@@ -2159,6 +2159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1666-make-the-string-great](https://github.com/Nikitiwe/Leetcode/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1714-rearrange-spaces-between-words](https://github.com/Nikitiwe/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
