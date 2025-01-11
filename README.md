@@ -446,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Nikitiwe/Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Nikitiwe/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -2832,6 +2833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Nikitiwe/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Nikitiwe/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Nikitiwe/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
