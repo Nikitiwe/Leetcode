@@ -1619,6 +1619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Nikitiwe/Leetcode/tree/master/1260-day-of-the-year) |
 | [1276-closest-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1276-closest-divisors) |
+| [1279-prime-arrangements](https://github.com/Nikitiwe/Leetcode/tree/master/1279-prime-arrangements) |
 | [1284-four-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1284-four-divisors) |
 | [1289-day-of-the-week](https://github.com/Nikitiwe/Leetcode/tree/master/1289-day-of-the-week) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
