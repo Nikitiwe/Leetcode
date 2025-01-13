@@ -9,8 +9,12 @@ public:
         int ans=0;
         for (int i=0; i!=26; i++)
         {
-            while (arr[i]>2) {arr[i]--; arr[i]--;}
-            ans+=arr[i];
+            if (arr[i]>2)
+            {
+                if (arr[i]%2==0) ans+=2;
+                else ans+=1;
+            }
+            else ans+=arr[i];
         }
         return ans;
     }
