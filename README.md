@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Nikitiwe/Leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0769-largest-plus-sign](https://github.com/Nikitiwe/Leetcode/tree/master/0769-largest-plus-sign) |
+| [0777-toeplitz-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0790-global-and-local-inversions](https://github.com/Nikitiwe/Leetcode/tree/master/0790-global-and-local-inversions) |
@@ -3065,6 +3066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Nikitiwe/Leetcode/tree/master/0661-image-smoother) |
+| [0777-toeplitz-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Nikitiwe/Leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0861-flipping-an-image](https://github.com/Nikitiwe/Leetcode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
