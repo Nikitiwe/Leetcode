@@ -1,15 +1,15 @@
 class Solution {
 public:
-    vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-        vector<int> isit, rans;
-        rans.push_back(A.size());
-        for (int i=A.size()-1; i>0; i--)
+    vector<int> findThePrefixCommonArray(vector<int>& a, vector<int>& b) {
+        vector<int> ans(a.size(), 0);
+        unordered_map<int, int> m;
+        for (int i=0; i!=a.size(); i++) m[a[i]]=i;
+        int t=0;
+        for (int i=0; i!=a.size(); i++)
         {
-            if (find(isit.begin(), isit.end(), A[i])==isit.end()) isit.push_back(A[i]);
-            if (find(isit.begin(), isit.end(), B[i])==isit.end()) isit.push_back(B[i]);
-            rans.push_back(A.size()-isit.size());
+            ans[max(m[b[i]], i)]++;
+            if (i>0) ans[i]+=ans[i-1];
         }
-        reverse(rans.begin(), rans.end());
-        return rans;
+        return ans;
     }
 };
