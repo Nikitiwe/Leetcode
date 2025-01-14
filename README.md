@@ -3359,6 +3359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Nikitiwe/Leetcode/tree/master/0861-flipping-an-image) |
+| [0899-binary-gap](https://github.com/Nikitiwe/Leetcode/tree/master/0899-binary-gap) |
 | [0994-prison-cells-after-n-days](https://github.com/Nikitiwe/Leetcode/tree/master/0994-prison-cells-after-n-days) |
 | [1054-complement-of-base-10-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Nikitiwe/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
