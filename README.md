@@ -3382,6 +3382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Nikitiwe/Leetcode/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Nikitiwe/Leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
