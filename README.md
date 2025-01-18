@@ -3385,6 +3385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Nikitiwe/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nikitiwe/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
@@ -3654,6 +3655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nikitiwe/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
