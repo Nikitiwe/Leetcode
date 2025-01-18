@@ -1567,6 +1567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Nikitiwe/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Nikitiwe/Leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Nikitiwe/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
@@ -3174,6 +3175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nikitiwe/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Nikitiwe/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nikitiwe/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
@@ -3601,6 +3603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nikitiwe/Leetcode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1617-stone-game-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1617-stone-game-iv) |
