@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikitiwe/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0393-utf-8-validation](https://github.com/Nikitiwe/Leetcode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Nikitiwe/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -3408,6 +3409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/Nikitiwe/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Nikitiwe/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/Nikitiwe/Leetcode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Nikitiwe/Leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0461-hamming-distance) |
