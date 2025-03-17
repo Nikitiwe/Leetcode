@@ -947,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3723-sum-of-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/3723-sum-of-good-numbers) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -3312,6 +3313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/Nikitiwe/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Enumeration
 |  |
 | ------- |
