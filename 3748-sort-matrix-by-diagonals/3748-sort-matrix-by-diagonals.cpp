@@ -20,11 +20,11 @@ public:
             priority_queue<int> q;
             for (int j=0; i+j<g.size(); j++)
             {
-                q.push(1000000 - g[j][i+j]);
+                q.push(- g[j][i+j]);
             }
             for (int j=0; i+j<g.size(); j++)
             {
-                d[j][i+j] = 1000000 - q.top();
+                d[j][i+j] =  - q.top();
                 q.pop();
             }
         }
