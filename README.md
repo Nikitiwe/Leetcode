@@ -945,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nikitiwe/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/3723-sum-of-good-numbers) |
@@ -1829,6 +1830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Nikitiwe/Leetcode/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Dynamic Programming
@@ -3327,6 +3329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/Nikitiwe/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Enumeration
 |  |
