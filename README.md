@@ -1647,6 +1647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Nikitiwe/Leetcode/tree/master/0910-nth-magical-number) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Nikitiwe/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nikitiwe/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0935-orderly-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0935-orderly-queue) |
@@ -2906,6 +2907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/Nikitiwe/Leetcode/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/Nikitiwe/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Nikitiwe/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nikitiwe/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0976-minimum-area-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0976-minimum-area-rectangle) |
@@ -3872,10 +3874,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 ## Ordered Set
 |  |
 | ------- |
