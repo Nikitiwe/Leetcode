@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Nikitiwe/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nikitiwe/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Nikitiwe/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
@@ -1587,6 +1588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Nikitiwe/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nikitiwe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Nikitiwe/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Nikitiwe/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Nikitiwe/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Nikitiwe/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -2042,6 +2044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nikitiwe/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -3343,6 +3346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nikitiwe/Leetcode/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
