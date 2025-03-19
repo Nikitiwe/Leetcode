@@ -1109,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Nikitiwe/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Nikitiwe/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1324,6 +1325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -1532,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Nikitiwe/Leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Nikitiwe/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -2170,6 +2173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-shortest-completing-word](https://github.com/Nikitiwe/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Nikitiwe/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0807-custom-sort-string](https://github.com/Nikitiwe/Leetcode/tree/master/0807-custom-sort-string) |
@@ -2664,6 +2668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-shortest-completing-word](https://github.com/Nikitiwe/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Nikitiwe/Leetcode/tree/master/0807-custom-sort-string) |
@@ -3073,6 +3078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Nikitiwe/Leetcode/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
