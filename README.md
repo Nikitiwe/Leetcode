@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/Nikitiwe/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Nikitiwe/Leetcode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [0830-largest-triangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/Nikitiwe/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/Nikitiwe/Leetcode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
@@ -1654,6 +1655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0804-rotated-digits) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Nikitiwe/Leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0830-largest-triangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Nikitiwe/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -2935,6 +2937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/Nikitiwe/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/Nikitiwe/Leetcode/tree/master/0593-valid-square) |
+| [0830-largest-triangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Nikitiwe/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
