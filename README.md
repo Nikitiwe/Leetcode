@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Nikitiwe/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/Nikitiwe/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0769-largest-plus-sign](https://github.com/Nikitiwe/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0777-toeplitz-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -2166,6 +2167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0722-remove-comments](https://github.com/Nikitiwe/Leetcode/tree/master/0722-remove-comments) |
 | [0742-to-lower-case](https://github.com/Nikitiwe/Leetcode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Nikitiwe/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Nikitiwe/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -2658,6 +2660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/Nikitiwe/Leetcode/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/Nikitiwe/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -3627,6 +3630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Nikitiwe/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikitiwe/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/Nikitiwe/Leetcode/tree/master/1036-rotting-oranges) |
