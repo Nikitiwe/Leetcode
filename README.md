@@ -1659,6 +1659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Nikitiwe/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Nikitiwe/Leetcode/tree/master/0866-rectangle-overlap) |
+| [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -1932,6 +1933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/Nikitiwe/Leetcode/tree/master/0815-champagne-tower) |
 | [0831-largest-sum-of-averages](https://github.com/Nikitiwe/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -3694,6 +3696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Nikitiwe/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -3755,6 +3758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Probability and Statistics
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [1183-statistics-from-a-large-sample](https://github.com/Nikitiwe/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
