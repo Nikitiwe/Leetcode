@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Nikitiwe/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Nikitiwe/Leetcode/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/Nikitiwe/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Nikitiwe/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Nikitiwe/Leetcode/tree/master/0769-largest-plus-sign) |
@@ -1910,6 +1911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Nikitiwe/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Nikitiwe/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Nikitiwe/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Nikitiwe/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Nikitiwe/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0804-rotated-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0804-rotated-digits) |
@@ -2650,6 +2652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0697-degree-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/Nikitiwe/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Nikitiwe/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Nikitiwe/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
