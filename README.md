@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nikitiwe/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0932-monotonic-array](https://github.com/Nikitiwe/Leetcode/tree/master/0932-monotonic-array) |
 | [0936-rle-iterator](https://github.com/Nikitiwe/Leetcode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -1129,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-advantage-shuffle](https://github.com/Nikitiwe/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Nikitiwe/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0935-orderly-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0935-orderly-queue) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -2208,6 +2210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0935-orderly-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -2695,6 +2698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
