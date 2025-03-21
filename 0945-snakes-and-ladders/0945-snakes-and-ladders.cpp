@@ -16,64 +16,24 @@ public:
                 t++;
             }
         }
+        int c = 1;
+        for (int i=0; i!=arr.size(); i++) if (arr[i]<i && arr[i]>=0) c++;
         vector<int> ans(arr.size(), 10000);
         ans[0] = 0;
-        for (int i=0; i!=arr.size(); i++)
+        for (int k = 0; k < c; k++)
         {
-            t = ans[i] + 1;
-            for (int j=1; j<=6; j++)
+            for (int i=0; i!=arr.size(); i++)
             {
-                if (i+j<arr.size())
+                t = ans[i] + 1;
+                for (int j=1; j<=6; j++)
                 {
-                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
-                    else
+                    if (i+j<arr.size())
                     {
-                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
-                    }
-                }
-            }
-        }
-        for (int i=0; i!=arr.size(); i++)
-        {
-            t = ans[i] + 1;
-            for (int j=1; j<=6; j++)
-            {
-                if (i+j<arr.size())
-                {
-                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
-                    else
-                    {
-                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
-                    }
-                }
-            }
-        }
-        for (int i=0; i!=arr.size(); i++)
-        {
-            t = ans[i] + 1;
-            for (int j=1; j<=6; j++)
-            {
-                if (i+j<arr.size())
-                {
-                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
-                    else
-                    {
-                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
-                    }
-                }
-            }
-        }
-        for (int i=0; i!=arr.size(); i++)
-        {
-            t = ans[i] + 1;
-            for (int j=1; j<=6; j++)
-            {
-                if (i+j<arr.size())
-                {
-                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
-                    else
-                    {
-                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
+                        if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
+                        else
+                        {
+                            ans[arr[i+j]] = min(ans[arr[i+j]], t);
+                        }
                     }
                 }
             }
