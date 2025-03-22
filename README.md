@@ -3464,6 +3464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikitiwe/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Nikitiwe/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Nikitiwe/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -3628,6 +3629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nikitiwe/Leetcode/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Nikitiwe/Leetcode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikitiwe/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -3997,4 +3999,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
