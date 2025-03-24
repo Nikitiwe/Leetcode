@@ -1634,6 +1634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/Nikitiwe/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Nikitiwe/Leetcode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -2657,6 +2658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikitiwe/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Nikitiwe/Leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Nikitiwe/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikitiwe/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -3948,6 +3950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Nikitiwe/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -4000,6 +4003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Tree
 |  |
