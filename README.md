@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-smallest-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/Nikitiwe/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0946-smallest-range-ii) |
+| [0947-online-election](https://github.com/Nikitiwe/Leetcode/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
@@ -2541,6 +2542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/Nikitiwe/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0924-fair-candy-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0947-online-election](https://github.com/Nikitiwe/Leetcode/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nikitiwe/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -2707,6 +2709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Nikitiwe/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/Nikitiwe/Leetcode/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nikitiwe/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Nikitiwe/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -3926,6 +3929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
 | [0936-rle-iterator](https://github.com/Nikitiwe/Leetcode/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/Nikitiwe/Leetcode/tree/master/0947-online-election) |
 | [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1459-apply-discount-every-n-orders](https://github.com/Nikitiwe/Leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1512-design-underground-system](https://github.com/Nikitiwe/Leetcode/tree/master/1512-design-underground-system) |
