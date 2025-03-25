@@ -2242,6 +2242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-string-without-aaa-or-bbb](https://github.com/Nikitiwe/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1044-find-common-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Nikitiwe/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
