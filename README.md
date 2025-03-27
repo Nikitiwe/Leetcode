@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1277-largest-multiple-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1284-four-divisors](https://github.com/Nikitiwe/Leetcode/tree/master/1284-four-divisors) |
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
@@ -1169,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -2273,6 +2275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-day-of-the-year](https://github.com/Nikitiwe/Leetcode/tree/master/1260-day-of-the-year) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikitiwe/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-reformat-date](https://github.com/Nikitiwe/Leetcode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -2572,6 +2575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nikitiwe/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1326-sum-of-floored-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1326-sum-of-floored-pairs) |
@@ -2765,6 +2769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikitiwe/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1297-maximum-number-of-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
