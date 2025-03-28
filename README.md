@@ -3616,6 +3616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-can-make-palindrome-from-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nikitiwe/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
