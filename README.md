@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Nikitiwe/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1386-shift-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -3303,6 +3304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -3711,6 +3713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -3744,6 +3747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Nikitiwe/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -3912,6 +3916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Nikitiwe/Leetcode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Monotonic Stack
