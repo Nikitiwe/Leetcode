@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Nikitiwe/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/Nikitiwe/Leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Nikitiwe/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1277-largest-multiple-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -1176,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Nikitiwe/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -3305,6 +3307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Nikitiwe/Leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1239-largest-1-bordered-square](https://github.com/Nikitiwe/Leetcode/tree/master/1239-largest-1-bordered-square) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Nikitiwe/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1311-largest-magic-square](https://github.com/Nikitiwe/Leetcode/tree/master/1311-largest-magic-square) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
