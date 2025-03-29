@@ -1,20 +1,43 @@
 class Solution {
 public:
-    string getHappyString(int n, int kk) {
-        vector<string> prev = {"a", "b", "c"}, next, zero;
-        for (int k=2; k<=n; k++)
+    string getHappyString(int n, int k) {
+        string ans;
+        int c = 3;
+        for (int i=2; i<=n; i++) c *= 2;
+        if (k > c) return "";
         {
-            for (int i=0; i!=prev.size(); i++)
+            if (k <= c/3)
             {
-                if (prev[i].back() != 'a') next.push_back(prev[i] + "a");
-                if (prev[i].back() != 'b') next.push_back(prev[i] + "b");
-                if (prev[i].back() != 'c') next.push_back(prev[i] + "c");
+                ans += 'a';
             }
-            prev = next;
-            next = zero;
+            else if (k > c*2/3)
+            {
+                ans += 'c';
+                k -= c/3;
+                k -= c/3;
+            }
+            else
+            {
+                ans += 'b';
+                k -= c/3;
+            }
         }
-        sort(prev.begin(), prev.end());
-        if (kk-1 < prev.size()) return prev[kk-1];
-        else return "";
+        c /= 3;
+        while (ans.size() < n)
+        {
+            if (k <= c/2)
+            {
+                if (ans.back() != 'a' ) ans += 'a';
+                else ans += 'b';
+            }
+            else
+            {
+                if (ans.back() != 'c' ) ans += 'c';
+                else ans += 'b';
+                k -= c/2;
+            }
+            c /= 2;
+        }
+        return ans;
     }
 };
