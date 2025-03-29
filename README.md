@@ -513,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Nikitiwe/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Nikitiwe/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nikitiwe/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -3076,6 +3077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-shift-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Nikitiwe/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Nikitiwe/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Nikitiwe/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Nikitiwe/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -4020,6 +4022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Nikitiwe/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Nikitiwe/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Bucket Sort
 |  |
 | ------- |
