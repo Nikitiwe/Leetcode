@@ -774,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Nikitiwe/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -1084,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nikitiwe/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -1271,6 +1273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nikitiwe/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Nikitiwe/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2650-split-with-minimum-sum) |
@@ -1618,6 +1621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Nikitiwe/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Nikitiwe/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nikitiwe/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -3358,6 +3362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2454-largest-local-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Nikitiwe/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikitiwe/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -3778,6 +3783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Nikitiwe/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -3947,6 +3953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
 | ------- |
