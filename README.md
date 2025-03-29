@@ -1781,6 +1781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Nikitiwe/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1610-xor-operation-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1617-stone-game-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1617-stone-game-iv) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nikitiwe/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -3649,6 +3650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikitiwe/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nikitiwe/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1610-xor-operation-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
