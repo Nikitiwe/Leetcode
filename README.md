@@ -547,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-find-the-winner-of-an-array-game](https://github.com/Nikitiwe/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -3361,6 +3362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -3774,6 +3776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -3808,6 +3811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Nikitiwe/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -3981,6 +3985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
