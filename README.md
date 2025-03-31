@@ -4172,6 +4172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -4186,6 +4187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -4205,5 +4207,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
