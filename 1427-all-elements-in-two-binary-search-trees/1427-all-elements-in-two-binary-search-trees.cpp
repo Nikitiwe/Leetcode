@@ -11,27 +11,18 @@
  */
 class Solution {
 public:
-    void trav(TreeNode* root, unordered_map<int, int> &m)
+    void trav(TreeNode* root, vector<int> &ans)
     {
         if (root == nullptr) return;
-        m[root->val]++;
-        trav(root->left, m);
-        trav(root->right, m);
+        ans.push_back(root->val);
+        trav(root->left, ans);
+        trav(root->right, ans);
         return;
     }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        unordered_map<int, int> m;
-        trav(root1, m);
-        trav(root2, m);
         vector<int> ans;
-        for (auto i=m.begin(); i!=m.end(); i++)
-        {
-            ans.push_back(i->first);
-            if (i->second == 2)
-            {
-                ans.push_back(i->first);
-            }
-        }
+        trav(root1, ans);
+        trav(root2, ans);
         sort(ans.begin(), ans.end());
         return ans;
     }
