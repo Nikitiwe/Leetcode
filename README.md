@@ -3777,6 +3777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -3814,6 +3815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-number-of-closed-islands](https://github.com/Nikitiwe/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1428-jump-game-iii) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Nikitiwe/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -4167,6 +4169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -4176,6 +4179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Merge Sort
 |  |
