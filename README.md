@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikitiwe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -3978,6 +3979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Nikitiwe/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -4178,6 +4180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -4199,6 +4202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -4227,6 +4231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Nikitiwe/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
