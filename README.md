@@ -2210,6 +2210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikitiwe/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Nikitiwe/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Nikitiwe/Leetcode/tree/master/0306-additive-number) |
@@ -3721,6 +3722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Nikitiwe/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Nikitiwe/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Nikitiwe/Leetcode/tree/master/0401-binary-watch) |
@@ -3772,6 +3774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikitiwe/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nikitiwe/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -4221,6 +4224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikitiwe/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -4263,6 +4267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikitiwe/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
