@@ -22,11 +22,11 @@ public:
             {
                 if (l[i][1] + r[j][1] + 2 <= d) res++;
             }
-            ans.push_back({l[i][0], l[i][1]+1});
+            if (l[i][1]+1 < d) ans.push_back({l[i][0], l[i][1]+1});
         }
         for (int j=0; j<r.size(); j++)
         {
-            ans.push_back({r[j][0], r[j][1]+1});
+            if (r[j][1]+1 < d) ans.push_back({r[j][0], r[j][1]+1});
         }
         if (root->left == nullptr && root->right == nullptr) ans.push_back({root->val, 0});
         return ans;
