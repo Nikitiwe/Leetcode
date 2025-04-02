@@ -2241,6 +2241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nikitiwe/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nikitiwe/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0639-decode-ways-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/Nikitiwe/Leetcode/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -3768,6 +3769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/Nikitiwe/Leetcode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/Nikitiwe/Leetcode/tree/master/0565-array-nesting) |
+| [0606-construct-string-from-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Nikitiwe/Leetcode/tree/master/0695-max-area-of-island) |
@@ -4194,6 +4196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -4224,6 +4227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
