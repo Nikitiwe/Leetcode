@@ -3778,6 +3778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -4190,6 +4191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -4214,6 +4216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
