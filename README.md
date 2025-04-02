@@ -3775,6 +3775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -4197,6 +4198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -4226,6 +4228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
