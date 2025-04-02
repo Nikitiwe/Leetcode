@@ -3798,6 +3798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -3844,6 +3845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Nikitiwe/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Nikitiwe/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -4226,6 +4228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -4264,6 +4267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1254-deepest-leaves-sum) |
