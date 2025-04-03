@@ -21,7 +21,7 @@
  */
 class Solution {
 public:
-    TreeNode* f(vector<int> arr, int l, int r)
+    TreeNode* f(vector<int> &arr, int l, int r)
     {
         if (l > r) return nullptr;
         TreeNode* n = new TreeNode;
