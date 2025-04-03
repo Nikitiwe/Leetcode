@@ -1338,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/Nikitiwe/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -3833,6 +3834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -4278,6 +4280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Nikitiwe/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -4329,6 +4332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Nikitiwe/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
