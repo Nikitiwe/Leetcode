@@ -3876,6 +3876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Nikitiwe/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/0971-shortest-bridge) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/Nikitiwe/Leetcode/tree/master/1036-rotting-oranges) |
@@ -4276,6 +4277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -4333,6 +4335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
