@@ -2305,6 +2305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1012-equal-rational-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1012-equal-rational-numbers) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Nikitiwe/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Nikitiwe/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Nikitiwe/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -3736,6 +3737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nikitiwe/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -3811,6 +3813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -4263,6 +4266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -4315,6 +4319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
