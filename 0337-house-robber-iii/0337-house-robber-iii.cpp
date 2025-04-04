@@ -11,31 +11,23 @@
  */
 class Solution {
 public:
-    unordered_map<TreeNode*, int> d, n;
-    
-    void f(TreeNode* root)
+    pair<int, int> f(TreeNode* root)
     {
-        if (root == nullptr) return;
-        int ld = 0, ln = 0, rd = 0, rn = 0;
+        if (root == nullptr) return {0, 0};
+        pair<int, int> l(0,0), r(0,0);
         if (root->left != nullptr)
         {
-            f(root->left);
-            ld = d[root->left];
-            ln = n[root->left];
+            l = f(root->left);
         }
         if (root->right != nullptr)
         {
-            f(root->right);
-            rd = d[root->right];
-            rn = n[root->right];
+            r = f(root->right);
         }
-        d[root] = root->val + ln + rn;
-        n[root] = max(ln, ld) + max(rn, rd);
-        return;
+        return {root->val + l.second + r.second, max(l.first, l.second) + max(r.first, r.second)};
     }
 
     int rob(TreeNode* root) {
-        f(root);
-        return max(d[root], n[root]);
+        pair<int, int> ans = f(root);
+        return max(ans.first, ans.second);
     }
 };
