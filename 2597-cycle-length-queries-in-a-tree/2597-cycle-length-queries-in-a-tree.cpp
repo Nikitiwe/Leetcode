@@ -7,28 +7,22 @@ public:
             int x = q[i][0], y = q[i][1];
             if (x < y) swap(x, y);
             int l = 1;
-            unordered_set<int> s;
-            s.insert(x);
-            s.insert(y);
             while (1)
             {
                 if (x < y*2)
                 {
                     x /= 2;
                     l++;
-                    if (s.count(x) != 0) break;
-                    s.insert(x);
+                    if (x == y) break;
                     y /= 2;
                     l++;
-                    if (s.count(y) != 0) break;
-                    s.insert(y);
+                    if (x == y) break;
                 }
                 else
                 {
                     x /= 2;
                     l++;
-                    if (s.count(x) != 0) break;
-                    s.insert(x);
+                    if (x == y) break;
                 }
             }
             ans.push_back(l);
