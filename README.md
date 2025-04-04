@@ -554,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Nikitiwe/Leetcode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Nikitiwe/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1810,6 +1811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikitiwe/Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
@@ -2066,6 +2068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1617-stone-game-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikitiwe/Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -2142,6 +2145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1307-ugly-number-iii) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikitiwe/Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2187-vowels-of-all-substrings) |
@@ -4070,6 +4074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikitiwe/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quickselect
 |  |
 | ------- |
@@ -4089,6 +4094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Nikitiwe/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
@@ -4118,6 +4124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Nikitiwe/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Monotonic Queue
@@ -4317,6 +4324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nikitiwe/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -4384,6 +4392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nikitiwe/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -4415,4 +4424,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Nikitiwe/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
