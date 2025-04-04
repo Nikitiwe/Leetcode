@@ -2806,6 +2806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Nikitiwe/Leetcode/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0889-buddy-strings) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -3829,6 +3830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -3898,6 +3900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Nikitiwe/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -4307,6 +4310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -4377,6 +4381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
