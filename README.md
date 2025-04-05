@@ -663,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Nikitiwe/Leetcode/tree/master/2165-plates-between-candles) |
 | [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/Nikitiwe/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nikitiwe/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -3864,6 +3865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/Nikitiwe/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -4338,6 +4340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/Nikitiwe/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nikitiwe/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -4410,6 +4413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/Nikitiwe/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nikitiwe/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
