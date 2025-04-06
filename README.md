@@ -2062,6 +2062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Nikitiwe/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Nikitiwe/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -3872,6 +3873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nikitiwe/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -4358,6 +4360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nikitiwe/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -4436,6 +4439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nikitiwe/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -4474,5 +4478,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Nikitiwe/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
