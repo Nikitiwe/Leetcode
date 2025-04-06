@@ -34,7 +34,6 @@ public:
             ans.push_back(nums[t]);
             t=m[t];
         }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
