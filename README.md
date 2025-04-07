@@ -2272,6 +2272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Nikitiwe/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Nikitiwe/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -2796,6 +2797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/Nikitiwe/Leetcode/tree/master/0740-delete-and-earn) |
@@ -4184,6 +4186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
@@ -4213,6 +4216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikitiwe/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Nikitiwe/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Nikitiwe/Leetcode/tree/master/0859-design-circular-deque) |
