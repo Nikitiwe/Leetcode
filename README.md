@@ -1019,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
 |  |
 | ------- |
