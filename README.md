@@ -999,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nikitiwe/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -3076,6 +3077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nikitiwe/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
