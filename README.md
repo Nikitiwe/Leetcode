@@ -2342,6 +2342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Nikitiwe/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/Nikitiwe/Leetcode/tree/master/1080-camelcase-matching) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -3896,6 +3897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -4401,6 +4403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -4486,6 +4489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nikitiwe/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
