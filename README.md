@@ -606,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Nikitiwe/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1940-maximum-xor-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/Nikitiwe/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -3511,6 +3512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/Nikitiwe/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Nikitiwe/Leetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nikitiwe/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1940-maximum-xor-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Nikitiwe/Leetcode/tree/master/1983-maximum-population-year) |
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
@@ -3728,6 +3730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1839-decode-xored-array](https://github.com/Nikitiwe/Leetcode/tree/master/1839-decode-xored-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nikitiwe/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
