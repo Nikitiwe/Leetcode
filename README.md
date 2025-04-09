@@ -1369,6 +1369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikitiwe/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Nikitiwe/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -3801,6 +3802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Nikitiwe/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nikitiwe/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -3890,6 +3892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Nikitiwe/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -3971,6 +3974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Nikitiwe/Leetcode/tree/master/0753-open-the-lock) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Nikitiwe/Leetcode/tree/master/0945-snakes-and-ladders) |
