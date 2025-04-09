@@ -2009,6 +2009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Nikitiwe/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Nikitiwe/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -3733,6 +3734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nikitiwe/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Nikitiwe/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Nikitiwe/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Nikitiwe/Leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/Nikitiwe/Leetcode/tree/master/0393-utf-8-validation) |
