@@ -11,7 +11,7 @@ public:
             arr.push_back({{0, s[0] - '0'}});
             for (int i=1; i<s.size(); i++)
             {
-                arr.push_back({{100000, 100000}});
+                arr.push_back({});
                 for (int j=0; j!=arr[i-1].size(); j++)
                 {
                     int sum = arr[i-1][j].first, last = arr[i-1][j].second;
