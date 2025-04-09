@@ -980,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Nikitiwe/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3427-special-array-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Nikitiwe/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -3097,6 +3098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Nikitiwe/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -3792,6 +3794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
