@@ -770,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
 | [2504-find-all-good-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2504-find-all-good-indices) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1295,6 +1296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nikitiwe/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Nikitiwe/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -2527,6 +2529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2476-check-distances-between-same-letters](https://github.com/Nikitiwe/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/Nikitiwe/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Nikitiwe/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2528-number-of-valid-clock-times](https://github.com/Nikitiwe/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -2998,6 +3001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Nikitiwe/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nikitiwe/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
