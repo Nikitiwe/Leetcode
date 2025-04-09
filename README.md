@@ -652,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikitiwe/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -2483,6 +2484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikitiwe/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Nikitiwe/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -2956,6 +2958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -3831,6 +3834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Nikitiwe/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nikitiwe/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2107-find-unique-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nikitiwe/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
