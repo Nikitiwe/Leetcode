@@ -745,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nikitiwe/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -1885,6 +1886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Nikitiwe/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -3784,6 +3786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nikitiwe/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2509-minimize-xor) |
