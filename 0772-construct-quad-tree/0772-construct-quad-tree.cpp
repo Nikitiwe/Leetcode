@@ -55,6 +55,7 @@ public:
                     break;
                 }
             }
+            if (iseq == 0) break;
         }
         if (iseq == 1)
         {
