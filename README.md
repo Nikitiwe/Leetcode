@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Nikitiwe/Leetcode/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikitiwe/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -2905,6 +2906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nikitiwe/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Nikitiwe/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/Nikitiwe/Leetcode/tree/master/1169-largest-values-from-labels) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -3986,6 +3988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/Nikitiwe/Leetcode/tree/master/1248-binary-tree-coloring-game) |
@@ -4517,6 +4520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/Nikitiwe/Leetcode/tree/master/1248-binary-tree-coloring-game) |
@@ -4608,6 +4612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nikitiwe/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/Nikitiwe/Leetcode/tree/master/1248-binary-tree-coloring-game) |
