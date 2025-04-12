@@ -2547,6 +2547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nikitiwe/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2391-strong-password-checker-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Nikitiwe/Leetcode/tree/master/2401-count-asterisks) |
@@ -3016,6 +3017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nikitiwe/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2406-decode-the-message](https://github.com/Nikitiwe/Leetcode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -3367,6 +3369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nikitiwe/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
