@@ -1980,6 +1980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Nikitiwe/Leetcode/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -2795,6 +2796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -3293,6 +3295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
@@ -3843,6 +3846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
