@@ -5,7 +5,7 @@ public:
         return arr[0][0]*1 + arr[0][1]*7 + arr[0][2]*49 + arr[1][0]*343 + arr[1][1]*2401 + arr[1][2]*16807;
     }
 
-    void g(vector<vector<int>> &t, unordered_map<int, int> &m, stack<vector<vector<int>>> &q, stack<int> &l, int h)
+    void g(vector<vector<int>> &t, unordered_map<int, int> &m, queue<vector<vector<int>>> &q, queue<int> &l, int h)
     {
         if (m.count(f(t)) == 0 || m[f(t)] > h + 1)
         {
@@ -19,15 +19,15 @@ public:
         int ans = 20;
         vector<vector<int>> k = {{1,2,3}, {4,5,0}};
         unordered_map<int, int> m;
-        stack<vector<vector<int>>> q;
-        stack<int> l;
+        queue<vector<vector<int>>> q;
+        queue<int> l;
         q.push(b);
         l.push(0);
         m[f(b)] = 0;
         while(q.size() > 0)
         {
-            vector<vector<int>> t = q.top();
-            int h = l.top();
+            vector<vector<int>> t = q.front();
+            int h = l.front();
             q.pop();
             l.pop();
             if (t == k)
