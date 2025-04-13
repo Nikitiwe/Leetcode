@@ -26,8 +26,10 @@ public:
                         if (i+1<g.size()) g[i+1][j] = 1 - g[i+1][j];
                         if (j+1<g[i].size()) g[i][j+1] = 1 - g[i][j+1];
                     }
+                    if (count >= ans) break;
                     t/=2;
                 }
+                if (count >= ans) break;
             }
             if (g == zero) ans = min(ans, count);
         }
