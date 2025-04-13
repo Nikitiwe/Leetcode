@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Nikitiwe/Leetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
@@ -1487,6 +1488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nikitiwe/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Nikitiwe/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikitiwe/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Nikitiwe/Leetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1652-minimum-suffix-flips](https://github.com/Nikitiwe/Leetcode/tree/master/1652-minimum-suffix-flips) |
@@ -2121,6 +2123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1617-stone-game-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -3744,6 +3747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikitiwe/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1666-make-the-string-great](https://github.com/Nikitiwe/Leetcode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -4301,6 +4305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Memoization
