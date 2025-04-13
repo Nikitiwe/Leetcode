@@ -929,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Nikitiwe/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3183-find-the-k-or-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3188-find-champion-i](https://github.com/Nikitiwe/Leetcode/tree/master/3188-find-champion-i) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Nikitiwe/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -3847,6 +3848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3183-find-the-k-or-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Nikitiwe/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
