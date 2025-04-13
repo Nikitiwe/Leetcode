@@ -2,8 +2,13 @@ class Solution {
 public:
     int minFlips(vector<vector<int>>& gg) {
         int ans = 10;
+        int kk = 1;
+        for (int i=0; i!=gg.size(); i++)
+        {
+            for (int j=0; j!=gg[i].size(); j++) kk <<= 1;
+        }
         vector<vector<int>> zero(gg.size(), vector<int>(gg[0].size(), 0));
-        for (int k=0; k!=512; k++)
+        for (int k=0; k!=kk; k++)
         {
             int t = k;
             int count = 0;
