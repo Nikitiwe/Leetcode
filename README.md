@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1286-constrained-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1287-distance-between-bus-stops](https://github.com/Nikitiwe/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Nikitiwe/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Nikitiwe/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/Nikitiwe/Leetcode/tree/master/1311-largest-magic-square) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -3753,6 +3754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Nikitiwe/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -4320,6 +4322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Nikitiwe/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
