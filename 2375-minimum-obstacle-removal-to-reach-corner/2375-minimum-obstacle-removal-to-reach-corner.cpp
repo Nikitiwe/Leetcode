@@ -2,7 +2,7 @@ class Solution {
 public:
     long long f(int a, int b)
     {
-        return (long long)a*1000000 + b;
+        return (long long)a*1048576 + b;
     }
     int minimumObstacles(vector<vector<int>>& g) {
         int n = g.size(), m = g[0].size();
