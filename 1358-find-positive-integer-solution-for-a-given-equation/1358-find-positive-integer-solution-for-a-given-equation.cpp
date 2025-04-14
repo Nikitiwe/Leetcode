@@ -14,9 +14,10 @@ class Solution {
 public:
     vector<vector<int>> findSolution(CustomFunction& f, int z) {
         vector<vector<int>> res;
+        int ll = 1, rr = 1000;
         for (int i=1; i<=1000; i++)
         {
-            int l = 1, r = 1000, m;
+            int l = 1, r = rr, m;
             if (f.f(i, l) > z) break;
             int ans = 5000;
             while (l <= r)
@@ -30,6 +31,7 @@ public:
                 else l = m+1;
             }
             if (f.f(i, ans) == z) res.push_back({i, ans});
+            rr = l;
         }
         return res;
     }
