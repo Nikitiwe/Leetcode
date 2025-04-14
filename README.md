@@ -870,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/Nikitiwe/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
@@ -3540,6 +3541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Nikitiwe/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -4054,6 +4056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -4131,6 +4134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -4314,6 +4318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Monotonic Stack
 |  |
