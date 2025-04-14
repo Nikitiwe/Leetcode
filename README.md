@@ -956,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nikitiwe/Leetcode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -3877,6 +3878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Nikitiwe/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
