@@ -10,21 +10,17 @@ public:
 
 class Solution {
 public:
-    void f(vector<Employee*> e, int id, int &ans)
+    void f(unordered_map<int, int> &m, vector<Employee*> e, int id, int &ans)
     {
-        int t = -1;
-        for (int i=0; i!=e.size(); i++) if (e[i]->id == id)
-        {
-            t = i;
-            break;
-        }
-        ans += e[t]->importance;
-        for (int i=0; i<e[t]->subordinates.size(); i++) f(e, e[t]->subordinates[i], ans);
+        ans += e[m[id]]->importance;
+        for (int i=0; i<e[m[id]]->subordinates.size(); i++) f(m, e, e[m[id]]->subordinates[i], ans);
     }
 
     int getImportance(vector<Employee*> e, int id) {
         int ans = 0;
-        f(e, id, ans);
+        unordered_map<int, int> m;
+        for (int i=0; i!=e.size(); i++) m[e[i]->id] = i;
+        f(m, e, id, ans);
         return ans;
     }
 };
