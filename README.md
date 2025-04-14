@@ -2583,6 +2583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -4216,6 +4217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2673-maximize-win-from-two-segments](https://github.com/Nikitiwe/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
