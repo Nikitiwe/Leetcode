@@ -66,7 +66,8 @@ public:
                 x.push_back(a);
                 y.push_back(b+1);
                 ans[f(a, b+1)] = t + 1;
-            }            
+            }
+            if (ans.count(f(n-1, m-1)) != 0) return ans[f(n-1, m-1)];
         }
         return ans[f(n-1, m-1)];
     }
