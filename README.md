@@ -1771,6 +1771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/Nikitiwe/Leetcode/tree/master/0755-reach-a-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Nikitiwe/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/Nikitiwe/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/Nikitiwe/Leetcode/tree/master/0796-reaching-points) |
@@ -3815,6 +3816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Nikitiwe/Leetcode/tree/master/0645-set-mismatch) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Nikitiwe/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Nikitiwe/Leetcode/tree/master/0861-flipping-an-image) |
