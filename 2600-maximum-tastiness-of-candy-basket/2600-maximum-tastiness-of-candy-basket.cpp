@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumTastiness(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
-        int ans = 0, l = 0, r = 1000000000, m;
+        int ans = 0, l = 0, r = nums.back(), m;
         while (l <= r)
         {
             m = (l+r)/2;
