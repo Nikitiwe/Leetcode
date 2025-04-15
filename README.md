@@ -4129,6 +4129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Nikitiwe/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0955-complete-binary-tree-inserter](https://github.com/Nikitiwe/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0971-shortest-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -4447,6 +4448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0936-rle-iterator](https://github.com/Nikitiwe/Leetcode/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/Nikitiwe/Leetcode/tree/master/0947-online-election) |
+| [0955-complete-binary-tree-inserter](https://github.com/Nikitiwe/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1459-apply-discount-every-n-orders](https://github.com/Nikitiwe/Leetcode/tree/master/1459-apply-discount-every-n-orders) |
@@ -4596,6 +4598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/Nikitiwe/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -4688,6 +4691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/Nikitiwe/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Nikitiwe/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
