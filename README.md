@@ -1270,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Nikitiwe/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nikitiwe/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nikitiwe/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -2467,6 +2468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1542-consecutive-characters) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1547-destination-city](https://github.com/Nikitiwe/Leetcode/tree/master/1547-destination-city) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikitiwe/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/Nikitiwe/Leetcode/tree/master/1619-path-crossing) |
