@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Nikitiwe/Leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Nikitiwe/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Nikitiwe/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/Nikitiwe/Leetcode/tree/master/0827-expressive-words) |
@@ -2903,6 +2904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Nikitiwe/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Nikitiwe/Leetcode/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Nikitiwe/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Nikitiwe/Leetcode/tree/master/0837-most-common-word) |
@@ -3968,6 +3970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Nikitiwe/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Nikitiwe/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -4311,6 +4314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [1244-distinct-echo-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Nikitiwe/Leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -4451,6 +4455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Nikitiwe/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
 | [0936-rle-iterator](https://github.com/Nikitiwe/Leetcode/tree/master/0936-rle-iterator) |
