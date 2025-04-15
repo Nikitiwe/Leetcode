@@ -1762,6 +1762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Nikitiwe/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Nikitiwe/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
+| [0382-linked-list-random-node](https://github.com/Nikitiwe/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Nikitiwe/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
@@ -3978,6 +3979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Nikitiwe/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0382-linked-list-random-node](https://github.com/Nikitiwe/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Nikitiwe/Leetcode/tree/master/0859-design-circular-deque) |
@@ -4501,6 +4503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Nikitiwe/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Nikitiwe/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -4562,6 +4565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Nikitiwe/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Nikitiwe/Leetcode/tree/master/0398-random-pick-index) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Tree
