@@ -2389,6 +2389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0874-backspace-string-compare](https://github.com/Nikitiwe/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -3789,6 +3790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Nikitiwe/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Nikitiwe/Leetcode/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/Nikitiwe/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nikitiwe/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
