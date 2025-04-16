@@ -2087,6 +2087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -2355,6 +2356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Nikitiwe/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nikitiwe/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nikitiwe/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
