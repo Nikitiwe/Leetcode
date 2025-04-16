@@ -11,12 +11,10 @@ public:
             int t = arr[i] / 2;
             for (int j=0; j!=t; j++) ans += 'a' + i;
         }
+        string r = ans;
+        reverse(r.begin(), r.end());
         ans += m;
-        for (int i=25; i>=0; i--)
-        {
-            int t = arr[i] / 2;
-            for (int j=0; j!=t; j++) ans += 'a' + i;
-        }
+        ans += r;
         return ans;
     }
 };
