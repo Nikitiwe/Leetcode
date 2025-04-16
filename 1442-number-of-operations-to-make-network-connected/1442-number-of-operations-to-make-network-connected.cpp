@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void f(vector<int> &used, vector<vector<int>> &arr, int i)
+    void f(vector<bool> &used, vector<vector<int>> &arr, int i)
     {
         used[i] = 1;
         for (int j = 0; j!= arr[i].size(); j++) if (used[arr[i][j]] == 0) f(used, arr, arr[i][j]);
@@ -9,7 +9,7 @@ public:
     int makeConnected(int n, vector<vector<int>>& c) {
         if (c.size() < n-1) return -1;
         vector<vector<int>> arr(n);
-        vector<int> used(n, 0);
+        vector<bool> used(n, 0);
         for (int i=0; i!=c.size(); i++)
         {
             arr[c[i][0]].push_back(c[i][1]);
