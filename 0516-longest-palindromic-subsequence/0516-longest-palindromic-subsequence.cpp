@@ -10,8 +10,11 @@ public:
             {
                 if (i>0 && j>0) arr[i][j] = arr[i-1][j-1];
                 if (s[i] == w[j]) arr[i][j]++;
-                if (i>0) arr[i][j] = max(arr[i][j], arr[i-1][j]);
-                if (j>0) arr[i][j] = max(arr[i][j], arr[i][j-1]);
+                else
+                {
+                    if (i>0) arr[i][j] = max(arr[i][j], arr[i-1][j]);
+                    if (j>0) arr[i][j] = max(arr[i][j], arr[i][j-1]);
+                }
             }
         }
         return arr[s.size()-1][s.size()-1];
