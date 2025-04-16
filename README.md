@@ -1037,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nikitiwe/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1730,6 +1731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -3207,6 +3209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nikitiwe/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -4300,6 +4303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Nikitiwe/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nikitiwe/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Game Theory
