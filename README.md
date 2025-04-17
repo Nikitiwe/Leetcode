@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Nikitiwe/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikitiwe/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2102-find-the-middle-index-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -2808,6 +2809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Nikitiwe/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -3583,6 +3585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikitiwe/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Nikitiwe/Leetcode/tree/master/2145-grid-game) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Nikitiwe/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
@@ -4137,6 +4140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/Nikitiwe/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -4224,6 +4228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Nikitiwe/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -4424,6 +4429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
