@@ -2533,6 +2533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-determine-if-string-halves-are-alike](https://github.com/Nikitiwe/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikitiwe/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Nikitiwe/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1873-longest-nice-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1880-largest-merge-of-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -3051,6 +3052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Nikitiwe/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1873-longest-nice-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Nikitiwe/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -3929,6 +3931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1839-decode-xored-array](https://github.com/Nikitiwe/Leetcode/tree/master/1839-decode-xored-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Nikitiwe/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1873-longest-nice-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nikitiwe/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -4301,6 +4304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikitiwe/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Nikitiwe/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1873-longest-nice-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Nikitiwe/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -4409,6 +4413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/Nikitiwe/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Nikitiwe/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1873-longest-nice-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
