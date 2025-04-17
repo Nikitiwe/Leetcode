@@ -806,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2504-find-all-good-indices) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -3653,6 +3654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikitiwe/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2481-strictly-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nikitiwe/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Prefix Sum
@@ -3952,6 +3954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nikitiwe/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
