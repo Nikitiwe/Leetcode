@@ -1665,6 +1665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Nikitiwe/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nikitiwe/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -2697,6 +2698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Nikitiwe/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Nikitiwe/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
