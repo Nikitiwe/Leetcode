@@ -727,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/Nikitiwe/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Nikitiwe/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1320,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/Nikitiwe/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Nikitiwe/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -1582,6 +1584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nikitiwe/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nikitiwe/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Nikitiwe/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Nikitiwe/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
