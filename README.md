@@ -1888,6 +1888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Nikitiwe/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Nikitiwe/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/Nikitiwe/Leetcode/tree/master/1448-maximum-69-number) |
@@ -2482,6 +2483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Nikitiwe/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Nikitiwe/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Nikitiwe/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Nikitiwe/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1454-remove-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -4304,6 +4306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Nikitiwe/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nikitiwe/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
