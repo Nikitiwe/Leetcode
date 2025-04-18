@@ -823,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2547-odd-string-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2551-apply-operations-to-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -2659,6 +2660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Nikitiwe/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
+| [2547-odd-string-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2547-odd-string-difference) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2569-number-of-beautiful-partitions](https://github.com/Nikitiwe/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
@@ -3154,6 +3156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2543-most-popular-video-creator](https://github.com/Nikitiwe/Leetcode/tree/master/2543-most-popular-video-creator) |
+| [2547-odd-string-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/Nikitiwe/Leetcode/tree/master/2561-number-of-distinct-averages) |
