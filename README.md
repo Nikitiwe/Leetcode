@@ -596,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1751-slowest-key](https://github.com/Nikitiwe/Leetcode/tree/master/1751-slowest-key) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Nikitiwe/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nikitiwe/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
@@ -1712,6 +1713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Nikitiwe/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nikitiwe/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Nikitiwe/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -2817,6 +2819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nikitiwe/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
@@ -3600,6 +3603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Nikitiwe/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/Nikitiwe/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
@@ -4163,6 +4167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -4252,6 +4257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Nikitiwe/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -4458,6 +4464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
