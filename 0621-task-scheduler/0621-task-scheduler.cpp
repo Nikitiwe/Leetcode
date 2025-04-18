@@ -6,10 +6,12 @@ public:
         vector<int> arr(26, 0), next(26, 1);
         for (int i=0; i!=s.size(); i++) arr[s[i]-'A']++;
         int c = 0;
-        for (int i=1; i<2000000; i++)
+        int i=1;
+        while (i<2000000)
         {
             int idma = -1;
             int j=0;
+            int inext = i+1;
             for (j; j!=26; j++)
             {
                 if (next[j] <= i )
@@ -32,6 +34,14 @@ public:
                 c++;
                 if (c == s.size()) return i;
             }
+            for (int j; j!=26; j++)
+            {
+                if (next[j] > i )
+                {
+                    inext = min(inext, next[j]);
+                }
+            }
+            i = inext;
         }
         return -1;
     }
