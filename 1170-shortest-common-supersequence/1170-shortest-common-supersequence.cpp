@@ -2,20 +2,20 @@ class Solution {
 public:
     string shortestCommonSupersequence(string s, string w) {
         vector<vector<int>> arr(s.size() + 1, vector<int>(w.size() + 1, 3000));
-        vector<vector<string>> ans(s.size() + 1, vector<string>(w.size() + 1, ""));
-        vector<vector<string>> p(s.size() + 1, vector<string>(w.size() + 1, ""));
+        vector<vector<char>> ans(s.size() + 1, vector<char>(w.size() + 1, ' '));
+        vector<vector<char>> p(s.size() + 1, vector<char>(w.size() + 1, ' '));
         arr[0][0] = 0;
         for (int i=0; i!=s.size(); i++)
         {
             arr[i+1][0] = i+1;
             ans[i+1][0] = s[i];
-            p[i+1][0] = "i";
+            p[i+1][0] = 'i';
         }
         for (int j=0; j!=w.size(); j++)
         {
             arr[0][j+1] = j+1;
             ans[0][j+1] = w[j];
-            p[0][j+1] = "j";
+            p[0][j+1] = 'j';
         }
         for (int i=1; i<=s.size(); i++)
         {
@@ -32,13 +32,13 @@ public:
                     {
                         arr[i][j] = arr[i][j-1] + 1;
                         ans[i][j] = w[j-1];
-                        p[i][j] = "j";
+                        p[i][j] = 'j';
                     }
                     else
                     {
                         arr[i][j] = arr[i-1][j] + 1;
                         ans[i][j] = s[i-1];
-                        p[i][j] = "i";
+                        p[i][j] = 'i';
                     }
                 }
             }
@@ -48,11 +48,12 @@ public:
         while (a >= 0 && b >= 0)
         {
             res += ans[a][b];
-            if (p[a][b] == "i") a--;
-            else if (p[a][b] == "j") b--;
+            if (p[a][b] == 'i') a--;
+            else if (p[a][b] == 'j') b--;
             else {a--; b--;}
 
         }
+        res.pop_back();
         reverse(res.begin(), res.end());
         return res;
     }
