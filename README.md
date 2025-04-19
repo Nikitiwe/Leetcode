@@ -723,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Nikitiwe/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nikitiwe/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2227-sum-of-subarray-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2228-watering-plants-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -3903,6 +3904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nikitiwe/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Nikitiwe/Leetcode/tree/master/2317-count-collisions-on-a-road) |
@@ -4512,6 +4514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2227-sum-of-subarray-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Memoization
 |  |
