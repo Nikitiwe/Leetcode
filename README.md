@@ -1641,6 +1641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Nikitiwe/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2725-mice-and-cheese](https://github.com/Nikitiwe/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -1999,6 +2000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-count-distinct-numbers-on-board](https://github.com/Nikitiwe/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Nikitiwe/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Nikitiwe/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
