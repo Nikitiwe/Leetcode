@@ -1077,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1777,6 +1778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -3289,6 +3291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Geometry
 |  |
@@ -3441,6 +3444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nikitiwe/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
@@ -4102,6 +4106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -4670,6 +4675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -4681,6 +4687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
