@@ -1441,6 +1441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikitiwe/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Nikitiwe/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -4160,6 +4161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Nikitiwe/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Nikitiwe/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Nikitiwe/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -4262,6 +4264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Nikitiwe/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Nikitiwe/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Nikitiwe/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -4497,6 +4500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Nikitiwe/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Nikitiwe/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Nikitiwe/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Nikitiwe/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Nikitiwe/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
