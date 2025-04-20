@@ -18,14 +18,23 @@ public:
         {
             int id = b.front(); b.pop();
             ans += candies[id];
-            for (int i=0; i!=containedBoxes[id].size(); i++) have[containedBoxes[id][i]] = 1;
-            for (int i=0; i!=keys[id].size(); i++) status[keys[id][i]] = 1;
-            for (int i=0; i!=status.size(); i++)
+            vector<int> temp;
+            for (int i=0; i!=containedBoxes[id].size(); i++)
             {
-                if (p.count(i) == 0 && status[i] == 1 && have[i] == 1)
+                have[containedBoxes[id][i]] = 1;
+                temp.push_back(containedBoxes[id][i]);
+            }
+            for (int i=0; i!=keys[id].size(); i++)
+            {
+                status[keys[id][i]] = 1;
+                temp.push_back(keys[id][i]);
+            }
+            for (int i=0; i!=temp.size(); i++)
+            {
+                if (p.count(temp[i]) == 0 && status[temp[i]] == 1 && have[temp[i]] == 1)
                 {
-                    b.push(i);
-                    p.insert(i);
+                    b.push(temp[i]);
+                    p.insert(temp[i]);
                 }
             }
         }
