@@ -524,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Nikitiwe/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
@@ -1287,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Nikitiwe/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1466-jump-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1466-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Nikitiwe/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Nikitiwe/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Nikitiwe/Leetcode/tree/master/1503-reducing-dishes) |
@@ -2514,6 +2516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikitiwe/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1483-rank-teams-by-votes](https://github.com/Nikitiwe/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Nikitiwe/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-design-underground-system](https://github.com/Nikitiwe/Leetcode/tree/master/1512-design-underground-system) |
@@ -3057,6 +3060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikitiwe/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Nikitiwe/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1487-cinema-seat-allocation](https://github.com/Nikitiwe/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/Nikitiwe/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -3464,6 +3468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nikitiwe/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Nikitiwe/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikitiwe/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Nikitiwe/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Nikitiwe/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
