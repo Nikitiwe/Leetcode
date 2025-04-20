@@ -884,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2698-find-the-array-concatenation-value](https://github.com/Nikitiwe/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nikitiwe/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -1461,6 +1462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Nikitiwe/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1767,6 +1769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nikitiwe/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2725-mice-and-cheese](https://github.com/Nikitiwe/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -3673,6 +3676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Nikitiwe/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Nikitiwe/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -4314,6 +4318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -4721,6 +4726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Reservoir Sampling
 |  |
