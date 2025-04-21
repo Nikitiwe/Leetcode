@@ -764,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Nikitiwe/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2342-minimum-average-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -1351,6 +1352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -2875,6 +2877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nikitiwe/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Nikitiwe/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -3157,6 +3160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -3777,6 +3781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2342-minimum-average-difference](https://github.com/Nikitiwe/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
@@ -4677,6 +4682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
