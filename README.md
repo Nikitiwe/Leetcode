@@ -872,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nikitiwe/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Nikitiwe/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2670-make-k-subarray-sums-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2673-maximize-win-from-two-segments](https://github.com/Nikitiwe/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -2272,6 +2273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2577-count-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/Nikitiwe/Leetcode/tree/master/2648-number-of-ways-to-earn-points) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Nikitiwe/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
@@ -2711,6 +2713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Nikitiwe/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2727-number-of-senior-citizens](https://github.com/Nikitiwe/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -3219,6 +3222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Nikitiwe/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nikitiwe/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
