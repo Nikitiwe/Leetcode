@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/Nikitiwe/Leetcode/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Nikitiwe/Leetcode/tree/master/0495-teemo-attacking) |
@@ -1847,6 +1848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Nikitiwe/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Nikitiwe/Leetcode/tree/master/0507-perfect-number) |
@@ -2151,6 +2153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Nikitiwe/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0518-coin-change-ii) |
@@ -2946,6 +2949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Nikitiwe/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Nikitiwe/Leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Nikitiwe/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Nikitiwe/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -4475,6 +4479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nikitiwe/Leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1522-stone-game-iii) |
