@@ -2,7 +2,7 @@ class Solution {
 public:
     long long appealSum(string s) {
         long long ans = 0;
-        for (int k = 0; k!=26; k++) if (s.find('a' + k) != string::npos)
+        for (int k = 0; k!=26; k++) //if (s.find('a' + k) != string::npos)
         {
             long long count = 0;
             vector<long long> arr;
