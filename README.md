@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Nikitiwe/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/Nikitiwe/Leetcode/tree/master/1311-largest-magic-square) |
+| [1312-count-artifacts-that-can-be-extracted](https://github.com/Nikitiwe/Leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -3067,6 +3068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/Nikitiwe/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1312-count-artifacts-that-can-be-extracted](https://github.com/Nikitiwe/Leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikitiwe/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1344-maximum-equal-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1344-maximum-equal-frequency) |
@@ -3364,6 +3366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/Nikitiwe/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/Nikitiwe/Leetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/Nikitiwe/Leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1312-count-artifacts-that-can-be-extracted](https://github.com/Nikitiwe/Leetcode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1324-where-will-the-ball-fall](https://github.com/Nikitiwe/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Nikitiwe/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
