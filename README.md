@@ -788,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2386-min-max-game](https://github.com/Nikitiwe/Leetcode/tree/master/2386-min-max-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -2894,6 +2895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -3809,6 +3811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Nikitiwe/Leetcode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -4431,6 +4434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
