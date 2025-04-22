@@ -7,13 +7,19 @@ public:
         for (int b = 0; b<a; b++)
         {
             int t = b;
+            int tt = t;
             int c = 0;
+            while (tt > 0)
+            {
+                c += tt % 2;
+                tt /=2;
+            }
+            if (c != k) continue;
             vector<vector<int>> g = gg;
             for (int j=0; j!=g[0].size(); j++)
             {
                 if (t % 2 == 1)
                 {
-                    c++;
                     for (int i=0; i!=g.size(); i++)
                     {
                         g[i][j] = 0;
@@ -21,7 +27,6 @@ public:
                 }
                 t /= 2;
             }
-            if (c == k)
             {
                 int temp = 0;
                 for (int i=0; i!=g.size(); i++)
