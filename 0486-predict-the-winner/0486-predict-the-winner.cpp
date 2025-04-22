@@ -1,9 +1,11 @@
 class Solution {
 public:
+    unordered_map<int, int> m;
     int f(vector<int>& nums, int l, int r)
     {
         if (l == r) return nums[l];
-        return max(nums[l] - f(nums, l+1, r), nums[r] - f(nums, l, r-1));
+        if (m.count(100*l+r) == 0) m[100*l+r] = max(nums[l] - f(nums, l+1, r), nums[r] - f(nums, l, r-1));
+        return m[100*l+r];
     }
 
     bool predictTheWinner(vector<int>& nums) {
