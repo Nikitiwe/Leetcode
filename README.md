@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-cherry-pickup-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Nikitiwe/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1571-allocate-mailboxes](https://github.com/Nikitiwe/Leetcode/tree/master/1571-allocate-mailboxes) |
 | [1572-subrectangle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -1311,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Nikitiwe/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1571-allocate-mailboxes](https://github.com/Nikitiwe/Leetcode/tree/master/1571-allocate-mailboxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nikitiwe/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nikitiwe/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -1947,6 +1949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nikitiwe/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1543-simplified-fractions](https://github.com/Nikitiwe/Leetcode/tree/master/1543-simplified-fractions) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Nikitiwe/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1571-allocate-mailboxes](https://github.com/Nikitiwe/Leetcode/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/Nikitiwe/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1617-stone-game-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1617-stone-game-iv) |
@@ -2229,6 +2232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1559-cherry-pickup-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1571-allocate-mailboxes](https://github.com/Nikitiwe/Leetcode/tree/master/1571-allocate-mailboxes) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1583-paint-house-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikitiwe/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
