@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void f(vector<string> &ans, string &s, unordered_set<string> &m, string t, int l)
+    void f(vector<string> &ans, string &s, unordered_set<string> &m, string &t, int l)
     {
         if (l == s.size())
         {
