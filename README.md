@@ -980,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Nikitiwe/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3188-find-champion-i](https://github.com/Nikitiwe/Leetcode/tree/master/3188-find-champion-i) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Nikitiwe/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
