@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Nikitiwe/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nikitiwe/Leetcode/tree/master/0274-h-index) |
@@ -2820,6 +2821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikitiwe/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Nikitiwe/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Nikitiwe/Leetcode/tree/master/0278-first-bad-version) |
@@ -3625,6 +3627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Nikitiwe/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nikitiwe/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Nikitiwe/Leetcode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Nikitiwe/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nikitiwe/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -4549,6 +4552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Nikitiwe/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikitiwe/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
