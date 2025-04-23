@@ -622,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1783-ways-to-make-a-fair-array](https://github.com/Nikitiwe/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nikitiwe/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Nikitiwe/Leetcode/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Nikitiwe/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -1590,6 +1591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nikitiwe/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Nikitiwe/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1804-maximum-binary-string-after-change](https://github.com/Nikitiwe/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1765,6 +1767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nikitiwe/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Nikitiwe/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
@@ -4763,6 +4766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nikitiwe/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
