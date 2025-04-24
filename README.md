@@ -2202,6 +2202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/Nikitiwe/Leetcode/tree/master/0815-champagne-tower) |
 | [0831-largest-sum-of-averages](https://github.com/Nikitiwe/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Nikitiwe/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -2499,6 +2500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Nikitiwe/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/Nikitiwe/Leetcode/tree/master/0851-goat-latin) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Nikitiwe/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Nikitiwe/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Nikitiwe/Leetcode/tree/master/0858-masking-personal-information) |
 | [0862-find-and-replace-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0862-find-and-replace-in-string) |
@@ -3064,6 +3066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/Nikitiwe/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Nikitiwe/Leetcode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/0839-short-encoding-of-words) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Nikitiwe/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Nikitiwe/Leetcode/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Nikitiwe/Leetcode/tree/master/0876-hand-of-straights) |
