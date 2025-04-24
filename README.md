@@ -1126,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Nikitiwe/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Nikitiwe/Leetcode/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/Nikitiwe/Leetcode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nikitiwe/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -2451,6 +2452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
+| [0481-magical-string](https://github.com/Nikitiwe/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Nikitiwe/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
