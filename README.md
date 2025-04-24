@@ -790,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Nikitiwe/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Nikitiwe/Leetcode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikitiwe/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1487,6 +1488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1916-find-center-of-star-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -2713,6 +2715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nikitiwe/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -4309,6 +4312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2175-count-nodes-with-the-highest-score](https://github.com/Nikitiwe/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -4680,6 +4684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Trie
 |  |
 | ------- |
@@ -4938,6 +4943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nikitiwe/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nikitiwe/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nikitiwe/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2384-root-equals-sum-of-children](https://github.com/Nikitiwe/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
