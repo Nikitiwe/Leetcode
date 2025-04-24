@@ -1478,6 +1478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Nikitiwe/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Nikitiwe/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Nikitiwe/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Nikitiwe/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -4283,6 +4284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Nikitiwe/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Nikitiwe/Leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -4386,6 +4388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1104-coloring-a-border](https://github.com/Nikitiwe/Leetcode/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nikitiwe/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Nikitiwe/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Nikitiwe/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
