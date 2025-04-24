@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1348-maximum-score-of-spliced-array](https://github.com/Nikitiwe/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nikitiwe/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikitiwe/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -1304,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nikitiwe/Leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nikitiwe/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -2233,6 +2235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Nikitiwe/Leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1343-dice-roll-simulation](https://github.com/Nikitiwe/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/Nikitiwe/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Nikitiwe/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -2886,6 +2889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1326-sum-of-floored-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nikitiwe/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Nikitiwe/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nikitiwe/Leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1397-search-suggestions-system](https://github.com/Nikitiwe/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nikitiwe/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
