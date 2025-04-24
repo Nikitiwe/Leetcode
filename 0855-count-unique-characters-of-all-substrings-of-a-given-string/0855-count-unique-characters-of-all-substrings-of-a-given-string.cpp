@@ -4,22 +4,19 @@ public:
         int ans = 0;
         for (int k = 0; k!=26; k++)
         {
-            vector<int> arr;
-            int t = 0;
+            int a = 0, b = 0;
             for (int i=0; i!=s.size(); i++)
             {
+                b++;
                 if (s[i] == 'A' + k)
                 {
-                    arr.push_back(t+1);
-                    t = 0;
+                    ans += (a) * (b);
+                    a = b;
+                    b = 0;
                 }
-                else t++;
             }
-            arr.push_back(t+1);
-            for (int i=0; i+1<arr.size(); i++)
-            {
-                ans += arr[i] * arr[i+1];
-            }
+            b++;
+            ans += (a) * (b);
         }
         return ans;
     }
