@@ -1,6 +1,7 @@
+unordered_map<int, int> m;
+
 class Solution {
 public:
-    unordered_map<int, int> m;
     int f(int l, int r)
     {
         if (l >= r) return 0;
