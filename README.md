@@ -828,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Nikitiwe/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2486-most-frequent-even-element](https://github.com/Nikitiwe/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
@@ -3254,6 +3255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2486-most-frequent-even-element](https://github.com/Nikitiwe/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/Nikitiwe/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nikitiwe/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -3606,6 +3608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2475-largest-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2475-largest-palindromic-number) |
+| [2486-most-frequent-even-element](https://github.com/Nikitiwe/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/Nikitiwe/Leetcode/tree/master/2548-destroy-sequential-targets) |
