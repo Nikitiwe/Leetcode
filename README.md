@@ -883,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -3281,6 +3282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Nikitiwe/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -3881,6 +3883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Nikitiwe/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -4112,6 +4115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nikitiwe/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Nikitiwe/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
