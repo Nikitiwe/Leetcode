@@ -2757,6 +2757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-circular-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nikitiwe/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
@@ -3272,6 +3273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Nikitiwe/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nikitiwe/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -4508,6 +4510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nikitiwe/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2673-maximize-win-from-two-segments](https://github.com/Nikitiwe/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2751-sliding-subarray-beauty](https://github.com/Nikitiwe/Leetcode/tree/master/2751-sliding-subarray-beauty) |
