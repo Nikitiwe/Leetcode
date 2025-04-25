@@ -1866,6 +1866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Nikitiwe/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Nikitiwe/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/Nikitiwe/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Nikitiwe/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Nikitiwe/Leetcode/tree/master/0396-rotate-function) |
@@ -2175,6 +2176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/Nikitiwe/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nikitiwe/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Nikitiwe/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Nikitiwe/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0392-is-subsequence) |
@@ -4551,6 +4553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nikitiwe/Leetcode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
