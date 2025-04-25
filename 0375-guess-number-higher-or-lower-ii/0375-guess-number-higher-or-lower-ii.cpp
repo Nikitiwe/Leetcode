@@ -9,7 +9,8 @@ public:
         if (m.count(1000*l + r) == 0)
         {
             int ans = 100000000;
-            for (int i=l; i<=r; i++)
+            int a = (l+r)/2;
+            for (int i=a; i<=r-1; i++)
             {
                 ans = min(ans, i + max(f(l, i-1), f(i+1, r)) );
             }
