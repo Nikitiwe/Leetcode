@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/Nikitiwe/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Nikitiwe/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
@@ -1527,6 +1528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Nikitiwe/Leetcode/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/Nikitiwe/Leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Nikitiwe/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -1757,6 +1759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Nikitiwe/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Nikitiwe/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Nikitiwe/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
@@ -3054,6 +3057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Nikitiwe/Leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/Nikitiwe/Leetcode/tree/master/0690-employee-importance) |
