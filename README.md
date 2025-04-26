@@ -716,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikitiwe/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Nikitiwe/Leetcode/tree/master/2145-grid-game) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Nikitiwe/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
