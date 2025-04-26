@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2034-minimum-absolute-difference-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Nikitiwe/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -3481,6 +3482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-incremental-memory-leak](https://github.com/Nikitiwe/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nikitiwe/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -3764,6 +3766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikitiwe/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
