@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nikitiwe/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Nikitiwe/Leetcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikitiwe/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -4454,6 +4455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Nikitiwe/Leetcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
