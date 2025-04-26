@@ -872,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nikitiwe/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Nikitiwe/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nikitiwe/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
@@ -2781,6 +2782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-circular-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nikitiwe/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nikitiwe/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
