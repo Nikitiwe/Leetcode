@@ -674,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1983-maximum-population-year](https://github.com/Nikitiwe/Leetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nikitiwe/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Nikitiwe/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nikitiwe/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -3218,6 +3219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-finding-the-users-active-minutes](https://github.com/Nikitiwe/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nikitiwe/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nikitiwe/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
@@ -4809,6 +4811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 | [1775-design-an-ordered-stream](https://github.com/Nikitiwe/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1955-seat-reservation-manager](https://github.com/Nikitiwe/Leetcode/tree/master/1955-seat-reservation-manager) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2285-design-bitset](https://github.com/Nikitiwe/Leetcode/tree/master/2285-design-bitset) |
