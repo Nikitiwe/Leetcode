@@ -1106,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nikitiwe/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -1482,6 +1483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -2149,6 +2151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Nikitiwe/Leetcode/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -3438,6 +3441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Simulation
 |  |
 | ------- |
@@ -4009,6 +4013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
@@ -4784,6 +4789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Nikitiwe/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -4892,6 +4898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0732-my-calendar-iii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bitmask
 |  |
