@@ -2220,6 +2220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0552-student-attendance-record-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Nikitiwe/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/Nikitiwe/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
