@@ -3321,6 +3321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -3666,6 +3667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Nikitiwe/Leetcode/tree/master/3019-furthest-point-from-origin) |
@@ -4509,6 +4511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Nikitiwe/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -4834,6 +4837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2285-design-bitset](https://github.com/Nikitiwe/Leetcode/tree/master/2285-design-bitset) |
 | [2352-design-an-atm-machine](https://github.com/Nikitiwe/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Interactive
@@ -4891,6 +4895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/Nikitiwe/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Segment Tree
 |  |
 | ------- |
