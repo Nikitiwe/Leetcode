@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/Nikitiwe/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Nikitiwe/Leetcode/tree/master/0665-non-decreasing-array) |
@@ -1158,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1280,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0645-set-mismatch](https://github.com/Nikitiwe/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nikitiwe/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Nikitiwe/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -1787,6 +1790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Nikitiwe/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Nikitiwe/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Nikitiwe/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
@@ -2917,6 +2921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Nikitiwe/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
@@ -4547,6 +4552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikitiwe/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
