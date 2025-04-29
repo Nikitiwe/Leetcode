@@ -2,9 +2,9 @@ class Solution {
 public:
     int f(int m, int d)
     {
-        vector<int> arr{31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+        vector<int> arr{31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
         int ans = 0;
-        for (int i=0; i<m-1; i++) ans += arr[i];
+        if (m-2 >= 0) ans = arr[m-2];
         return ans + d;
     }
 
