@@ -2844,6 +2844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nikitiwe/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3019-furthest-point-from-origin](https://github.com/Nikitiwe/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Nikitiwe/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
