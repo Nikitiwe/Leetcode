@@ -2786,6 +2786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nikitiwe/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/Nikitiwe/Leetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2391-strong-password-checker-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Nikitiwe/Leetcode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Nikitiwe/Leetcode/tree/master/2406-decode-the-message) |
@@ -3551,6 +3552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/Nikitiwe/Leetcode/tree/master/2386-min-max-game) |
+| [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -4111,6 +4113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Nikitiwe/Leetcode/tree/master/2317-count-collisions-on-a-road) |
+| [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -4297,6 +4300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nikitiwe/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nikitiwe/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -4874,6 +4878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2178-walking-robot-simulation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2285-design-bitset](https://github.com/Nikitiwe/Leetcode/tree/master/2285-design-bitset) |
 | [2352-design-an-atm-machine](https://github.com/Nikitiwe/Leetcode/tree/master/2352-design-an-atm-machine) |
+| [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -4924,6 +4929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
