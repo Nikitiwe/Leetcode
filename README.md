@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikitiwe/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Nikitiwe/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -1376,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikitiwe/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikitiwe/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -1830,6 +1832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Nikitiwe/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Nikitiwe/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1955-seat-reservation-manager](https://github.com/Nikitiwe/Leetcode/tree/master/1955-seat-reservation-manager) |
+| [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nikitiwe/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
