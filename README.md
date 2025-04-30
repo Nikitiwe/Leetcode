@@ -857,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/Nikitiwe/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikitiwe/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikitiwe/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Nikitiwe/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Nikitiwe/Leetcode/tree/master/2504-find-all-good-indices) |
@@ -3038,6 +3039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikitiwe/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -4235,6 +4237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Nikitiwe/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikitiwe/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -4654,6 +4657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikitiwe/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nikitiwe/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
