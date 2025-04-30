@@ -828,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -3025,6 +3026,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -3333,6 +3335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -4219,6 +4222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Nikitiwe/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
