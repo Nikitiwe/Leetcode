@@ -13,9 +13,10 @@ public:
             h.insert(x);
             for (int i=l; i<arr.size(); i++)
             {
-                if (x <= arr[i][1] && arr[i][0] <= x)
+                if (x <= arr[i][1])
                 {
-                    c[i]++;
+                    if (arr[i][0] <= x) c[i]++;
+                    else break;
                 }
             }
         }
