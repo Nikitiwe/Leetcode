@@ -8,12 +8,12 @@ public:
             for (int j=0; j!=nums.size(); j++)
             {
                 string t;
-                for (int l=nums[j].size()-1; ; l--)
+                for (int l=nums[j].size() - q[i][1]; l<nums[j].size() ; l++)
                 {
                     t += nums[j][l];
                     if (t.size() == q[i][1]) break;
                 }
-                reverse(t.begin(), t.end());
+                //reverse(t.begin(), t.end());
                 if (s.size() < q[i][0]) s.push({t, j});
                 else
                 {
