@@ -607,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1705-count-unhappy-friends](https://github.com/Nikitiwe/Leetcode/tree/master/1705-count-unhappy-friends) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Nikitiwe/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nikitiwe/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -1369,6 +1370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Nikitiwe/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Nikitiwe/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Nikitiwe/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nikitiwe/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nikitiwe/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -2685,6 +2687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Nikitiwe/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1714-rearrange-spaces-between-words](https://github.com/Nikitiwe/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Nikitiwe/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -3244,6 +3247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-can-convert-string-in-k-moves](https://github.com/Nikitiwe/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Nikitiwe/Leetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Nikitiwe/Leetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
