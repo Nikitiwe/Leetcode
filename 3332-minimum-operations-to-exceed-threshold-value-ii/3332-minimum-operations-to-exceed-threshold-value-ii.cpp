@@ -2,7 +2,8 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
         priority_queue<long> q;
-        for (int i=0; i!=nums.size(); i++) q.push(-nums[i]);
+        for (int i=0; i!=nums.size(); i++) if (nums[i] < k) q.push(-nums[i]);
+        q.push(-k);
         int ans = 0;
         while (q.top() > -k)
         {
