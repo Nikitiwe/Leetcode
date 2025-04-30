@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/Nikitiwe/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikitiwe/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/Nikitiwe/Leetcode/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Nikitiwe/Leetcode/tree/master/0575-distribute-candies) |
@@ -3134,6 +3135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/Nikitiwe/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikitiwe/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Nikitiwe/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -3920,6 +3922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Nikitiwe/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Nikitiwe/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikitiwe/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0831-largest-sum-of-averages](https://github.com/Nikitiwe/Leetcode/tree/master/0831-largest-sum-of-averages) |
