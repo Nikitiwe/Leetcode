@@ -644,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/Nikitiwe/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/Nikitiwe/Leetcode/tree/master/1830-count-good-meals) |
 | [1833-find-the-highest-altitude](https://github.com/Nikitiwe/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Nikitiwe/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1839-decode-xored-array](https://github.com/Nikitiwe/Leetcode/tree/master/1839-decode-xored-array) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nikitiwe/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-sum-of-unique-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -1671,6 +1672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Nikitiwe/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/Nikitiwe/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Nikitiwe/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Nikitiwe/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1861-building-boxes](https://github.com/Nikitiwe/Leetcode/tree/master/1861-building-boxes) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Nikitiwe/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -3290,6 +3292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Nikitiwe/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/Nikitiwe/Leetcode/tree/master/1830-count-good-meals) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Nikitiwe/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Nikitiwe/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
