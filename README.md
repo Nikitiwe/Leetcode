@@ -729,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Nikitiwe/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2122-count-special-quadruplets](https://github.com/Nikitiwe/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Nikitiwe/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikitiwe/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -1406,6 +1407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Nikitiwe/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1696,6 +1698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Nikitiwe/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Nikitiwe/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Nikitiwe/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Nikitiwe/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Nikitiwe/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -4157,6 +4160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nikitiwe/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Nikitiwe/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nikitiwe/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -4832,6 +4836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Nikitiwe/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
