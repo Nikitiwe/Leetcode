@@ -914,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/Nikitiwe/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2642-time-to-cross-a-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/2642-time-to-cross-a-bridge) |
 | [2648-number-of-ways-to-earn-points](https://github.com/Nikitiwe/Leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -1892,6 +1893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Nikitiwe/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2642-time-to-cross-a-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/2642-time-to-cross-a-bridge) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nikitiwe/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -3627,6 +3629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nikitiwe/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikitiwe/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2642-time-to-cross-a-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/2642-time-to-cross-a-bridge) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Nikitiwe/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
