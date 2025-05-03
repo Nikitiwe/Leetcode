@@ -2520,6 +2520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Nikitiwe/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Nikitiwe/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikitiwe/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Nikitiwe/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/0049-group-anagrams) |
@@ -4128,6 +4129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
