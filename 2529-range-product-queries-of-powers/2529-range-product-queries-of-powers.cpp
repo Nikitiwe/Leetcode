@@ -17,11 +17,20 @@ public:
         for (int i=0; i!=q.size(); i++)
         {
             int t = arr[q[i][1]+1] - arr[q[i][0]];
-            for (int j=0; j<t; j++)
+            long long mn = 2;
+            long long res = 1;
+            while (t > 0)
             {
-                ans[i] *= 2;
-                ans[i] %= 1000000007;
+                if (t % 2 == 1)
+                {
+                    res *= mn;
+                    res %= 1000000007;
+                }
+                t /= 2;
+                mn *= mn;
+                mn %= 1000000007;
             }
+            ans[i] = res;
         }
         return ans;
     }
