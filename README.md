@@ -2880,6 +2880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/2605-count-anagrams) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Nikitiwe/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -4289,6 +4290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-range-product-queries-of-powers](https://github.com/Nikitiwe/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nikitiwe/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nikitiwe/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Nikitiwe/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Nikitiwe/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
