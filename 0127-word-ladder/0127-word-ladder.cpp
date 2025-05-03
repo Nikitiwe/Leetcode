@@ -13,7 +13,7 @@ public:
             int ans = l.front();
             q.pop();
             l.pop();
-            for (int i=0; i!=s.size(); i++) if (isit[i] == 1)
+            for (int i=0; i<s.size()-1; i++) if (isit[i] == 1)
             {
                 int c = 0;
                 for (int j=0; j!=s[i].size(); j++)
