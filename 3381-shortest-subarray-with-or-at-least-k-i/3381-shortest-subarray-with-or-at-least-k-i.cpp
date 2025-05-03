@@ -6,12 +6,15 @@ public:
         {
             for (int j=i; j<nums.size(); j++)
             {
-                int t = 0;
-                for (int a=i; a<=j; a++)
+                if (j-i+1 < ans)
                 {
-                    t |= nums[a];
+                    int t = 0;
+                    for (int a=i; a<=j; a++)
+                    {
+                        t |= nums[a];
+                    }
+                    if (t >= k) ans = min(ans, j-i+1);
                 }
-                if (t >= k) ans = min(ans, j-i+1);
             }
         }
         if (ans < nums.size() + 1) return ans;
