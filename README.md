@@ -1079,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Nikitiwe/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Nikitiwe/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Nikitiwe/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -1910,6 +1911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/Nikitiwe/Leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -3487,6 +3489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nikitiwe/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nikitiwe/Leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -5025,6 +5028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
