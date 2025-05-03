@@ -2403,6 +2403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Nikitiwe/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikitiwe/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Nikitiwe/Leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2340-total-appeal-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Nikitiwe/Leetcode/tree/master/2348-count-number-of-texts) |
@@ -2824,6 +2825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/Nikitiwe/Leetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nikitiwe/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2285-design-bitset](https://github.com/Nikitiwe/Leetcode/tree/master/2285-design-bitset) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Nikitiwe/Leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nikitiwe/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nikitiwe/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
