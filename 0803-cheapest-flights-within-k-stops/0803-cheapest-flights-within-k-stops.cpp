@@ -12,8 +12,8 @@ public:
         id.push(src);
         l.push(0);
         p.push(0);
-        vector<vector<int>> res(n, vector<int>(k+1, 1000000000));
-        res[src][0] = 0;
+        vector<int> res(n, 1000000000);
+        res[src] = 0;
         while (id.size() > 0)
         {
             int i = id.front(); id.pop();
@@ -21,12 +21,12 @@ public:
             int price = p.front(); p.pop();
             if (d > k) continue;
             if (i == dst) ans = min(ans, price);
-            if (d < k) for (int j=0; j<arr[i].size(); j++) if (price + arr[i][j].second < res[arr[i][j].first][d+1])
+            if (d < k) for (int j=0; j<arr[i].size(); j++) if (price + arr[i][j].second < res[arr[i][j].first])
             {
                 id.push(arr[i][j].first);
                 l.push(d+1);
                 p.push(price + arr[i][j].second);
-                res[arr[i][j].first][d+1] = price + arr[i][j].second;
+                res[arr[i][j].first] = price + arr[i][j].second;
             }
         }
         if (ans < 1000000000) return ans;
