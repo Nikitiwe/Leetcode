@@ -939,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-count-distinct-numbers-on-board](https://github.com/Nikitiwe/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Nikitiwe/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nikitiwe/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Nikitiwe/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -1572,6 +1573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2455-node-with-highest-edge-score](https://github.com/Nikitiwe/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Nikitiwe/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3189-find-champion-ii) |
@@ -1910,6 +1912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Nikitiwe/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2642-time-to-cross-a-bridge](https://github.com/Nikitiwe/Leetcode/tree/master/2642-time-to-cross-a-bridge) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nikitiwe/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -5105,6 +5108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Reservoir Sampling
