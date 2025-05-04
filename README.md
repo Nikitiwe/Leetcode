@@ -2124,6 +2124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2238-a-number-after-a-double-reversal](https://github.com/Nikitiwe/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Nikitiwe/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2266-minimum-cost-to-set-cooking-time](https://github.com/Nikitiwe/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nikitiwe/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Nikitiwe/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nikitiwe/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -4104,6 +4105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nikitiwe/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
+| [2266-minimum-cost-to-set-cooking-time](https://github.com/Nikitiwe/Leetcode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/Nikitiwe/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Nikitiwe/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
