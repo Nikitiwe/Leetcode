@@ -707,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2034-minimum-absolute-difference-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/Nikitiwe/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Nikitiwe/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -1564,6 +1565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1738-maximal-network-rank](https://github.com/Nikitiwe/Leetcode/tree/master/1738-maximal-network-rank) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-find-center-of-star-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nikitiwe/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -2415,6 +2417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/Nikitiwe/Leetcode/tree/master/2001-jump-game-vii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2086-count-number-of-special-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
