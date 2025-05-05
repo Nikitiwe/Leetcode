@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Nikitiwe/Leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Nikitiwe/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/0228-summary-ranges) |
@@ -1835,6 +1836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Nikitiwe/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -4831,6 +4833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Nikitiwe/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nikitiwe/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Nikitiwe/Leetcode/tree/master/0372-super-pow) |
@@ -4963,6 +4966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nikitiwe/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -5041,6 +5045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
@@ -5083,6 +5088,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nikitiwe/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
@@ -5355,5 +5361,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Line Sweep
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
