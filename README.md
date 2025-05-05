@@ -1148,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-transformed-array](https://github.com/Nikitiwe/Leetcode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nikitiwe/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -2485,6 +2486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Nikitiwe/Leetcode/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3737-paint-house-iv](https://github.com/Nikitiwe/Leetcode/tree/master/3737-paint-house-iv) |
 ## Combinatorics
 |  |
@@ -3977,6 +3979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nikitiwe/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -4347,6 +4350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
