@@ -7,11 +7,13 @@ public:
             arr[e[i][0]].push_back({e[i][1], e[i][2]});
             arr[e[i][1]].push_back({e[i][0], e[i][2]});
         }
-        vector<vector<int>> cost(nums.size(), vector<int>(maxTime+1, 1000000000));
+        vector<int> cost(nums.size(), 1000000000);
+        vector<int> time(nums.size(), 1000000000);
         //priority_queue<vector<int>> q; // -деньги -время ид
         priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<>> q;
         q.push({ nums[0], 0, 0});
-        cost[0][0] = nums[0];
+        cost[0] = nums[0];
+        time[0] = 0;
         int ans = 1000000000;
         while (q.size() > 0)
         {
@@ -20,13 +22,14 @@ public:
             int m = - q.top()[0];*/
             auto [m, t, i] = q.top();
             q.pop();
-            if (i == nums.size() - 1) return min(ans, m);
+            if (i == nums.size() - 1) return m;
             for (int j = 0; j<arr[i].size(); j++)
             {
-                if (t + arr[i][j].second <= maxTime && m + nums[arr[i][j].first] < cost[arr[i][j].first][t + arr[i][j].second])
+                if (t + arr[i][j].second <= maxTime && (m + nums[arr[i][j].first] < cost[arr[i][j].first] || t + arr[i][j].second < time[arr[i][j].first]))
                 {
-                    q.push({ + m + nums[arr[i][j].first], t + arr[i][j].second, arr[i][j].first});
-                    cost[arr[i][j].first][t + arr[i][j].second] = m + nums[arr[i][j].first];
+                    q.push({ m + nums[arr[i][j].first], t + arr[i][j].second, arr[i][j].first});
+                    cost[arr[i][j].first] = min(cost[arr[i][j].first], m + nums[arr[i][j].first]);
+                    time[arr[i][j].first] = min(time[arr[i][j].first], t + arr[i][j].second);
                 }
             }
         }
