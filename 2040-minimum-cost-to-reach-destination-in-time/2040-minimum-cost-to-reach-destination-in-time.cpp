@@ -20,7 +20,7 @@ public:
             int m = - q.top()[0];*/
             auto [m, t, i] = q.top();
             q.pop();
-            if (i == nums.size() - 1) ans = min(ans, m);
+            if (i == nums.size() - 1) return min(ans, m);
             for (int j = 0; j<arr[i].size(); j++)
             {
                 if (t + arr[i][j].second <= maxTime && m + nums[arr[i][j].first] < cost[arr[i][j].first][t + arr[i][j].second])
