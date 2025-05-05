@@ -629,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-slowest-key](https://github.com/Nikitiwe/Leetcode/tree/master/1751-slowest-key) |
 | [1753-path-with-minimum-effort](https://github.com/Nikitiwe/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Nikitiwe/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1758-distribute-repeating-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nikitiwe/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -2403,6 +2404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikitiwe/Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikitiwe/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1758-distribute-repeating-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1761-count-sorted-vowel-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikitiwe/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -4288,6 +4290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1758-distribute-repeating-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nikitiwe/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1839-decode-xored-array](https://github.com/Nikitiwe/Leetcode/tree/master/1839-decode-xored-array) |
@@ -4376,6 +4379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Nikitiwe/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nikitiwe/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1758-distribute-repeating-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1900-closest-dessert-cost](https://github.com/Nikitiwe/Leetcode/tree/master/1900-closest-dessert-cost) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Nikitiwe/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nikitiwe/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -5100,6 +5104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Nikitiwe/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1758-distribute-repeating-integers](https://github.com/Nikitiwe/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Iterator
 |  |
