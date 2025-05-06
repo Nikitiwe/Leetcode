@@ -1,12 +1,6 @@
 class Solution {
 public:
     int minimumSubstringsInPartition(string s) {
-        vector<vector<int>> arr(s.size()+1, vector<int>(26, 0));
-        for (int i=0; i!=s.size(); i++)
-        {
-            arr[i+1] = arr[i];
-            arr[i+1][s[i] - 'a']++;
-        }
         vector<int> ans(s.size()+1, 10000);
         ans[0] = 0;
         for (int i=0; i!=s.size(); i++)
