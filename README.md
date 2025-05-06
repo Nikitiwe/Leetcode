@@ -1890,6 +1890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1879-maximum-score-from-removing-stones](https://github.com/Nikitiwe/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikitiwe/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/Nikitiwe/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
+| [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [1955-seat-reservation-manager](https://github.com/Nikitiwe/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -4697,6 +4698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nikitiwe/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1814-jump-game-vi](https://github.com/Nikitiwe/Leetcode/tree/master/1814-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -5032,6 +5034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/Nikitiwe/Leetcode/tree/master/1708-design-parking-system) |
 | [1775-design-an-ordered-stream](https://github.com/Nikitiwe/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [1955-seat-reservation-manager](https://github.com/Nikitiwe/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -5077,6 +5080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nikitiwe/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
+| [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -5106,6 +5110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/Nikitiwe/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Nikitiwe/Leetcode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/Nikitiwe/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Segment Tree
