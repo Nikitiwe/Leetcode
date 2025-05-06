@@ -2481,6 +2481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -2975,6 +2976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nikitiwe/Leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3396-valid-word](https://github.com/Nikitiwe/Leetcode/tree/master/3396-valid-word) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nikitiwe/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -3530,6 +3532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nikitiwe/Leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Nikitiwe/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -3833,6 +3836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nikitiwe/Leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Nikitiwe/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
