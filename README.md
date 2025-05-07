@@ -1778,6 +1778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Nikitiwe/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
@@ -2176,6 +2177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Nikitiwe/Leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/Nikitiwe/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
