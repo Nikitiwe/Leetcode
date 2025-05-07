@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0864-image-overlap](https://github.com/Nikitiwe/Leetcode/tree/master/0864-image-overlap) |
 | [0869-similar-string-groups](https://github.com/Nikitiwe/Leetcode/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0873-guess-the-word](https://github.com/Nikitiwe/Leetcode/tree/master/0873-guess-the-word) |
 | [0875-longest-mountain-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/Nikitiwe/Leetcode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0878-shifting-letters) |
@@ -2029,6 +2030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0866-rectangle-overlap](https://github.com/Nikitiwe/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Nikitiwe/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Nikitiwe/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0873-guess-the-word](https://github.com/Nikitiwe/Leetcode/tree/master/0873-guess-the-word) |
 | [0888-mirror-reflection](https://github.com/Nikitiwe/Leetcode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/Nikitiwe/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Nikitiwe/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
@@ -2671,6 +2673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Nikitiwe/Leetcode/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/Nikitiwe/Leetcode/tree/master/0869-similar-string-groups) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Nikitiwe/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0873-guess-the-word](https://github.com/Nikitiwe/Leetcode/tree/master/0873-guess-the-word) |
 | [0874-backspace-string-compare](https://github.com/Nikitiwe/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Nikitiwe/Leetcode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0886-score-of-parentheses) |
@@ -4809,6 +4812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Nikitiwe/Leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
+| [0873-guess-the-word](https://github.com/Nikitiwe/Leetcode/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/Nikitiwe/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Nikitiwe/Leetcode/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/Nikitiwe/Leetcode/tree/master/1522-stone-game-iii) |
@@ -5061,6 +5065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0278-first-bad-version](https://github.com/Nikitiwe/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikitiwe/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0873-guess-the-word](https://github.com/Nikitiwe/Leetcode/tree/master/0873-guess-the-word) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nikitiwe/Leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Rejection Sampling
 |  |
