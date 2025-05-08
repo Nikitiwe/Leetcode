@@ -1576,6 +1576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-find-center-of-star-graph](https://github.com/Nikitiwe/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nikitiwe/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nikitiwe/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -2439,6 +2440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2086-count-number-of-special-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2086-count-number-of-special-subsequences) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nikitiwe/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -4980,6 +4982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nikitiwe/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Nikitiwe/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -5160,6 +5163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Nikitiwe/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1325-path-with-maximum-probability](https://github.com/Nikitiwe/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nikitiwe/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
