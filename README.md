@@ -1133,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-maximum-multiplication-score](https://github.com/Nikitiwe/Leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -1548,6 +1549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Nikitiwe/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1851,6 +1853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
