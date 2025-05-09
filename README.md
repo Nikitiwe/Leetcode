@@ -691,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1968-maximum-building-height](https://github.com/Nikitiwe/Leetcode/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/Nikitiwe/Leetcode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Nikitiwe/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -1423,6 +1424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1968-maximum-building-height](https://github.com/Nikitiwe/Leetcode/tree/master/1968-maximum-building-height) |
 | [1970-sorting-the-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2141,6 +2143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Nikitiwe/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [1968-maximum-building-height](https://github.com/Nikitiwe/Leetcode/tree/master/1968-maximum-building-height) |
 | [1971-incremental-memory-leak](https://github.com/Nikitiwe/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nikitiwe/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
