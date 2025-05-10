@@ -13,9 +13,11 @@ public:
                 {
                     if (j + nums[i] <= k)
                     {
-                        // arr[c-1][j] > 0
-                        arr[c][j + nums[i]] += arr[c-1][j];
-                        arr[c][j + nums[i]] %= mod;
+                        if (arr[c-1][j] > 0)
+                        {
+                            arr[c][j + nums[i]] += arr[c-1][j];
+                            arr[c][j + nums[i]] %= mod;
+                        }
                     }
                     else break;
                 }
