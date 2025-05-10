@@ -1007,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2889-number-of-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/Nikitiwe/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/Nikitiwe/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
@@ -2499,6 +2500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Nikitiwe/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/Nikitiwe/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2904-sorting-three-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
