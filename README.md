@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Nikitiwe/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Nikitiwe/Leetcode/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
@@ -2347,6 +2348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Nikitiwe/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -2648,6 +2650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Nikitiwe/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Nikitiwe/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Nikitiwe/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Nikitiwe/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
