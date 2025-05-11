@@ -2612,6 +2612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Nikitiwe/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nikitiwe/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Nikitiwe/Leetcode/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/Nikitiwe/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Nikitiwe/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Nikitiwe/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Nikitiwe/Leetcode/tree/master/0091-decode-ways) |
@@ -4250,6 +4251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nikitiwe/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Nikitiwe/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Nikitiwe/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
