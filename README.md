@@ -819,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2329-maximum-product-after-k-increments](https://github.com/Nikitiwe/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/Nikitiwe/Leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Nikitiwe/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -1468,6 +1469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/Nikitiwe/Leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
@@ -3154,6 +3156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikitiwe/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Nikitiwe/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Nikitiwe/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/Nikitiwe/Leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -3466,6 +3469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/Nikitiwe/Leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Nikitiwe/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2340-total-appeal-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2340-total-appeal-of-a-string) |
@@ -5068,6 +5072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Nikitiwe/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Nikitiwe/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/Nikitiwe/Leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Bucket Sort
 |  |
