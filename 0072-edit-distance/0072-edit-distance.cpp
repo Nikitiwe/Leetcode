@@ -8,10 +8,8 @@ public:
         {
             for (int j=1; j<=s.size(); j++)
             {
-                arr[i][j] = arr[i-1][j-1] + 1;
+                arr[i][j] = min({arr[i-1][j-1] + 1, arr[i-1][j] + 1, arr[i][j-1] + 1});
                 if (w[i-1] == s[j-1]) arr[i][j] = min(arr[i][j], arr[i-1][j-1]);
-                arr[i][j] = min(arr[i][j], arr[i][j-1] + 1);
-                arr[i][j] = min(arr[i][j], arr[i-1][j] + 1);
             }
         }
         return arr[w.size()][s.size()];
