@@ -738,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2102-find-the-middle-index-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Nikitiwe/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nikitiwe/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Nikitiwe/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -2474,6 +2475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2086-count-number-of-special-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nikitiwe/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Nikitiwe/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2176-parallel-courses-iii](https://github.com/Nikitiwe/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -4013,6 +4015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2080-check-if-move-is-legal](https://github.com/Nikitiwe/Leetcode/tree/master/2080-check-if-move-is-legal) |
 | [2089-maximum-matrix-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Nikitiwe/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nikitiwe/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Nikitiwe/Leetcode/tree/master/2145-grid-game) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Nikitiwe/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
