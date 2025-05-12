@@ -2455,6 +2455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Nikitiwe/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1685-stone-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nikitiwe/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -5036,6 +5037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Nikitiwe/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1376-selling-pieces-of-wood](https://github.com/Nikitiwe/Leetcode/tree/master/1376-selling-pieces-of-wood) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Nikitiwe/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Nikitiwe/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
