@@ -1110,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nikitiwe/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3388-right-triangles](https://github.com/Nikitiwe/Leetcode/tree/master/3388-right-triangles) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -1614,6 +1615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3189-find-champion-ii) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nikitiwe/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1972,6 +1974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -5243,6 +5246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nikitiwe/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Nikitiwe/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Nikitiwe/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nikitiwe/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
