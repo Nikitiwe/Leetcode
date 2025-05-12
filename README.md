@@ -1134,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1868,6 +1869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
@@ -1969,6 +1971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nikitiwe/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -2282,6 +2285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nikitiwe/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -3196,6 +3200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3427-special-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
