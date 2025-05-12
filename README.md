@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nikitiwe/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
+| [1219-longest-well-performing-interval](https://github.com/Nikitiwe/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Nikitiwe/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/Nikitiwe/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -3354,6 +3355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Nikitiwe/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Nikitiwe/Leetcode/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1219-longest-well-performing-interval](https://github.com/Nikitiwe/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikitiwe/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -4100,6 +4102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Nikitiwe/Leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Nikitiwe/Leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1219-longest-well-performing-interval](https://github.com/Nikitiwe/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1311-largest-magic-square](https://github.com/Nikitiwe/Leetcode/tree/master/1311-largest-magic-square) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -4296,6 +4299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1219-longest-well-performing-interval](https://github.com/Nikitiwe/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikitiwe/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Nikitiwe/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -5006,6 +5010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/Nikitiwe/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nikitiwe/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1219-longest-well-performing-interval](https://github.com/Nikitiwe/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Nikitiwe/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
