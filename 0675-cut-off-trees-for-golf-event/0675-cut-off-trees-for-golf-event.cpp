@@ -2,10 +2,11 @@ class Solution {
 public:
     int cutOffTree(vector<vector<int>>& g) {
         int ans = 0;
+        int n = g.size(), m = g[0].size();
         vector<tuple<int, int, int>> arr; // высота, х, у
-        for (int i=0; i!=g.size(); i++)
+        for (int i=0; i!=n; i++)
         {
-            for (int j=0; j!=g[0].size(); j++)
+            for (int j=0; j!=m; j++)
             {
                 if (g[i][j] > 1) arr.push_back({g[i][j], i, j});
             }
@@ -16,7 +17,7 @@ public:
         {
             auto[end, x2, y2] = arr[k+1];
             auto[start, x1, y1] = arr[k];
-            vector<vector<bool>> isit(g.size(), vector<bool>(g[0].size(), 1));
+            vector<vector<bool>> isit(n, vector<bool>(m, 1));
             queue<tuple<int, int, int>> q;
             q.push({x1, y1, 0});
             isit[x1][y1] = 0;
@@ -40,12 +41,12 @@ public:
                     q.push({a, b-1, t+1});
                     isit[a][b-1] = 0;
                 }
-                if (a+1 < g.size() && g[a+1][b] > 0 && isit[a+1][b] == 1)
+                if (a+1 < n && g[a+1][b] > 0 && isit[a+1][b] == 1)
                 {
                     q.push({a+1, b, t+1});
                     isit[a+1][b] = 0;
                 }
-                if (b+1 < g[0].size() && g[a][b+1] > 0 && isit[a][b+1] == 1)
+                if (b+1 < m && g[a][b+1] > 0 && isit[a][b+1] == 1)
                 {
                     q.push({a, b+1, t+1});
                     isit[a][b+1] = 0;
