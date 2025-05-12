@@ -17,17 +17,13 @@ public:
             auto[end, x2, y2] = arr[k+1];
             auto[start, x1, y1] = arr[k];
             vector<vector<bool>> isit(g.size(), vector<bool>(g[0].size(), 1));
-            queue<int> x, y, l;
-            x.push(x1);
-            y.push(y1);
-            l.push(0);
+            queue<tuple<int, int, int>> q;
+            q.push({x1, y1, 0});
             isit[x1][y1] = 0;
             bool next = 0;
-            while (x.size() > 0)
+            while (q.size() > 0)
             {
-                int a = x.front(); x.pop();
-                int b = y.front(); y.pop();
-                int t = l.front(); l.pop();
+                auto[a, b, t] = q.front(); q.pop();
                 if (g[a][b] == end)
                 {
                     ans += t;
@@ -36,30 +32,22 @@ public:
                 }
                 if (a > 0 && g[a-1][b] > 0 && isit[a-1][b] == 1)
                 {
-                    x.push(a-1);
-                    y.push(b);
-                    l.push(t+1);
+                    q.push({a-1, b, t+1});
                     isit[a-1][b] = 0;
                 }
                 if (b > 0 && g[a][b-1] > 0 && isit[a][b-1] == 1)
                 {
-                    x.push(a);
-                    y.push(b-1);
-                    l.push(t+1);
+                    q.push({a, b-1, t+1});
                     isit[a][b-1] = 0;
                 }
                 if (a+1 < g.size() && g[a+1][b] > 0 && isit[a+1][b] == 1)
                 {
-                    x.push(a+1);
-                    y.push(b);
-                    l.push(t+1);
+                    q.push({a+1, b, t+1});
                     isit[a+1][b] = 0;
                 }
                 if (b+1 < g[0].size() && g[a][b+1] > 0 && isit[a][b+1] == 1)
                 {
-                    x.push(a);
-                    y.push(b+1);
-                    l.push(t+1);
+                    q.push({a, b+1, t+1});
                     isit[a][b+1] = 0;
                 }
             }
