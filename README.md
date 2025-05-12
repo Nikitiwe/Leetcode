@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0667-beautiful-arrangement-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Nikitiwe/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0682-baseball-game](https://github.com/Nikitiwe/Leetcode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/Nikitiwe/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Nikitiwe/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -1896,6 +1897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Nikitiwe/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Nikitiwe/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Nikitiwe/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Nikitiwe/Leetcode/tree/master/0778-reorganize-string) |
@@ -3952,6 +3954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Nikitiwe/Leetcode/tree/master/0661-image-smoother) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Nikitiwe/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Nikitiwe/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikitiwe/Leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0772-construct-quad-tree) |
@@ -4701,6 +4704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Nikitiwe/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0690-employee-importance](https://github.com/Nikitiwe/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Nikitiwe/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nikitiwe/Leetcode/tree/master/0733-flood-fill) |
