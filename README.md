@@ -605,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nikitiwe/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1638-best-position-for-a-service-centre](https://github.com/Nikitiwe/Leetcode/tree/master/1638-best-position-for-a-service-centre) |
 | [1646-kth-missing-positive-number](https://github.com/Nikitiwe/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Nikitiwe/Leetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1651-shuffle-string](https://github.com/Nikitiwe/Leetcode/tree/master/1651-shuffle-string) |
@@ -2154,6 +2155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nikitiwe/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1638-best-position-for-a-service-centre](https://github.com/Nikitiwe/Leetcode/tree/master/1638-best-position-for-a-service-centre) |
 | [1642-water-bottles](https://github.com/Nikitiwe/Leetcode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Nikitiwe/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1685-stone-game-v](https://github.com/Nikitiwe/Leetcode/tree/master/1685-stone-game-v) |
@@ -3670,6 +3672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nikitiwe/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Nikitiwe/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Nikitiwe/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1638-best-position-for-a-service-centre](https://github.com/Nikitiwe/Leetcode/tree/master/1638-best-position-for-a-service-centre) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nikitiwe/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -5185,6 +5188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0913-random-flip-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+| [1638-best-position-for-a-service-centre](https://github.com/Nikitiwe/Leetcode/tree/master/1638-best-position-for-a-service-centre) |
 ## Ordered Set
 |  |
 | ------- |
