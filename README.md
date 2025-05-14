@@ -1040,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3104-happy-students](https://github.com/Nikitiwe/Leetcode/tree/master/3104-happy-students) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3113-beautiful-towers-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
@@ -4364,6 +4365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Nikitiwe/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3113-beautiful-towers-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
@@ -5057,6 +5059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Nikitiwe/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3113-beautiful-towers-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Memoization
