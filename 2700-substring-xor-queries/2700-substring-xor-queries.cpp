@@ -11,7 +11,7 @@ public:
                 t *= 2;
                 t += s[j] - '0';
                 if (t >= mi) break;
-                if (j - i >= 33) break;
+                if (j - i >= 31) break;
                 if (m.count(t) == 0) m[t] = {i, j};
                 else
                 {
