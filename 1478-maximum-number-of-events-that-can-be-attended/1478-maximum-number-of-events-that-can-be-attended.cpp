@@ -22,6 +22,7 @@ public:
                     ans++;
                 }
             }
+            if (id == nums.size() && s.size() == 0) break;
         }
         return ans;
     }
