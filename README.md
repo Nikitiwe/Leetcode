@@ -1182,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nikitiwe/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikitiwe/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-paint-house-iv](https://github.com/Nikitiwe/Leetcode/tree/master/3737-paint-house-iv) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -2566,6 +2567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikitiwe/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-paint-house-iv](https://github.com/Nikitiwe/Leetcode/tree/master/3737-paint-house-iv) |
 ## Combinatorics
 |  |
@@ -4097,6 +4099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikitiwe/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nikitiwe/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikitiwe/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -5079,6 +5082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikitiwe/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Nikitiwe/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikitiwe/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Queue
 |  |
 | ------- |
