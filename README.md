@@ -994,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2810-collecting-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2834-relocate-marbles](https://github.com/Nikitiwe/Leetcode/tree/master/2834-relocate-marbles) |
@@ -4271,6 +4272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nikitiwe/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2810-collecting-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
