@@ -931,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1836,6 +1837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Nikitiwe/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/Nikitiwe/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2650-split-with-minimum-sum) |
@@ -3217,6 +3219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Nikitiwe/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nikitiwe/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -4220,6 +4223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2571-find-the-pivot-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2574-count-subarrays-with-median-k](https://github.com/Nikitiwe/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Nikitiwe/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nikitiwe/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -4845,6 +4849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Nikitiwe/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikitiwe/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Nikitiwe/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -4911,6 +4916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikitiwe/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nikitiwe/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2673-maximize-win-from-two-segments](https://github.com/Nikitiwe/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2751-sliding-subarray-beauty](https://github.com/Nikitiwe/Leetcode/tree/master/2751-sliding-subarray-beauty) |
