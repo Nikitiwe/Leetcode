@@ -1126,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nikitiwe/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -1316,6 +1317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Nikitiwe/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -1576,6 +1578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nikitiwe/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Nikitiwe/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3419-maximum-points-inside-the-square](https://github.com/Nikitiwe/Leetcode/tree/master/3419-maximum-points-inside-the-square) |
 | [3430-count-days-without-meetings](https://github.com/Nikitiwe/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -4313,6 +4316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
