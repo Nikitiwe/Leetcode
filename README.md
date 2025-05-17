@@ -693,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Nikitiwe/Leetcode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/Nikitiwe/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
+| [1946-minimum-absolute-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nikitiwe/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1952-minimum-sideway-jumps](https://github.com/Nikitiwe/Leetcode/tree/master/1952-minimum-sideway-jumps) |
@@ -1455,6 +1456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/Nikitiwe/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Nikitiwe/Leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikitiwe/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1946-minimum-absolute-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikitiwe/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Nikitiwe/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Nikitiwe/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -3193,6 +3195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nikitiwe/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Nikitiwe/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1946-minimum-absolute-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nikitiwe/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Nikitiwe/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -5254,6 +5257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nikitiwe/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
+| [1946-minimum-absolute-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
