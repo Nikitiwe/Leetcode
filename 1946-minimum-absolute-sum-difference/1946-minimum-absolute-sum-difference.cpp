@@ -12,12 +12,16 @@ public:
             while (l <= r)
             {
                 m = (l+r)/2;
-                t = min(t, abs(arr[m] - nums2[i]));
                 if (arr[m] > nums2[i])
                 {
+                    t = min(t, arr[m] - nums2[i]);
                     r = m-1;
                 }
-                else l = m+1;
+                else
+                {
+                    l = m+1;
+                    t = min(t, nums2[i] - arr[m]);
+                }
             }
             add = max(add, d - t);
         }
