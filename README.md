@@ -1191,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikitiwe/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-paint-house-iv](https://github.com/Nikitiwe/Leetcode/tree/master/3737-paint-house-iv) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -1902,6 +1903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -4950,6 +4952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Game Theory
 |  |
 | ------- |
