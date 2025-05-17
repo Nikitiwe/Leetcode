@@ -1191,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikitiwe/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-paint-house-iv](https://github.com/Nikitiwe/Leetcode/tree/master/3737-paint-house-iv) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1903,6 +1904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
@@ -4322,6 +4324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Stack
 |  |
 | ------- |
