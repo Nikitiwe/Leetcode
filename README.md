@@ -2513,6 +2513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Nikitiwe/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Nikitiwe/Leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Nikitiwe/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2086-count-number-of-special-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nikitiwe/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
