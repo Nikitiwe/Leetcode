@@ -2267,6 +2267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Nikitiwe/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2630-alternating-digit-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2635-check-if-point-is-reachable](https://github.com/Nikitiwe/Leetcode/tree/master/2635-check-if-point-is-reachable) |
 | [2645-pass-the-pillow](https://github.com/Nikitiwe/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -2637,6 +2638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nikitiwe/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nikitiwe/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2635-check-if-point-is-reachable](https://github.com/Nikitiwe/Leetcode/tree/master/2635-check-if-point-is-reachable) |
 | [2670-make-k-subarray-sums-equal](https://github.com/Nikitiwe/Leetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2716-prime-subtraction-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -3232,6 +3234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Nikitiwe/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nikitiwe/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nikitiwe/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nikitiwe/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
