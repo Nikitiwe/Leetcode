@@ -1048,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3107-maximum-spending-after-buying-items](https://github.com/Nikitiwe/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3113-beautiful-towers-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Nikitiwe/Leetcode/tree/master/3114-beautiful-towers-i) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/Nikitiwe/Leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/Nikitiwe/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -3634,6 +3635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/Nikitiwe/Leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikitiwe/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Nikitiwe/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3202-high-access-employees](https://github.com/Nikitiwe/Leetcode/tree/master/3202-high-access-employees) |
@@ -4250,6 +4252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3031-construct-product-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/Nikitiwe/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/Nikitiwe/Leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Nikitiwe/Leetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3311-ant-on-the-boundary](https://github.com/Nikitiwe/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -4945,6 +4948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nikitiwe/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/Nikitiwe/Leetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikitiwe/Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Nikitiwe/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3223-count-complete-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3223-count-complete-substrings) |
