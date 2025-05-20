@@ -1195,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -2338,6 +2339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Nikitiwe/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -4523,6 +4525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
 |  |
 | ------- |
