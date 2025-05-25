@@ -6,43 +6,26 @@ public:
         {
             arr[words[i]]++;
         }
-        char a='a', b='a';
-        string temp1, temp2;
-        int ans=0, ans1=0, ans2=0;
+        char a = 'a', b;
+        int ans = 0, ans1 = 0, ans2 = 0;
         for (int i=0; i!=26; i++)
         {
+            a = 'a' + i;
             for (int j=i+1; j<26; j++)
             {
-                a='a';
-                b='a';
-                temp1="";
-                temp2="";
-                if (i!=j)
-                {
-                    a+=i;
-                    b+=j;
-                    temp1+=a; temp1+=b;
-                    temp2+=b; temp2+=a;
-                    ans+=min(arr[temp1], arr[temp2]);
-                }
+                
+                b = 'a' + j;
+                string temp{a, b}, temp1{b, a};
+                ans += min(arr[temp], arr[temp1]);
             }
         }
         for (int i=0; i!=26; i++)
         {
-            a='a';
-            a+=i;
-            temp1="";
-            temp1+=a; temp1+=a;
-            ans1+=arr[temp1]/2;
+            a = 'a' + i;
+            string temp{a, a};
+            ans1 += arr[temp]/2;
+            if (ans2 == 0 && arr[temp]%2 == 1) {ans2 = 1;}
         }
-        for (int i=0; i!=26; i++)
-        {
-            a='a';
-            a+=i;
-            temp1="";
-            temp1+=a; temp1+=a;
-            if (arr[temp1]%2==1) {ans2++; break;}
-        }
-        return 4*ans+4*ans1+2*ans2;
+        return 4*ans + 4*ans1 + 2*ans2;
     }
 };
