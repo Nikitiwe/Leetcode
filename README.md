@@ -2345,6 +2345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Nikitiwe/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -3118,6 +3119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3709-find-special-substring-of-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -3707,6 +3709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3750-closest-equal-element-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
@@ -3996,6 +3999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
