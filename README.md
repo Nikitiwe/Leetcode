@@ -1030,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Nikitiwe/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikitiwe/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Nikitiwe/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/Nikitiwe/Leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Nikitiwe/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -3634,6 +3635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2889-number-of-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/Nikitiwe/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/Nikitiwe/Leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Nikitiwe/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -4515,6 +4517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/Nikitiwe/Leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
