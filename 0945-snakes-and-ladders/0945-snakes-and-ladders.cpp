@@ -16,24 +16,64 @@ public:
                 t++;
             }
         }
-        int c = 1;
-        for (int i=0; i!=arr.size(); i++) if (arr[i]<i && arr[i]>=0) c++;
         vector<int> ans(arr.size(), 10000);
         ans[0] = 0;
-        for (int k = 0; k < c; k++)
+        for (int i=0; i!=arr.size(); i++)
         {
-            for (int i=0; i!=arr.size(); i++)
+            t = ans[i] + 1;
+            for (int j=1; j<=6; j++)
             {
-                t = ans[i] + 1;
-                for (int j=1; j<=6; j++)
+                if (i+j<arr.size())
                 {
-                    if (i+j<arr.size())
+                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
+                    else
                     {
-                        if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
-                        else
-                        {
-                            ans[arr[i+j]] = min(ans[arr[i+j]], t);
-                        }
+                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
+                    }
+                }
+            }
+        }
+        for (int i=0; i!=arr.size(); i++)
+        {
+            t = ans[i] + 1;
+            for (int j=1; j<=6; j++)
+            {
+                if (i+j<arr.size())
+                {
+                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
+                    else
+                    {
+                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
+                    }
+                }
+            }
+        }
+        for (int i=0; i!=arr.size(); i++)
+        {
+            t = ans[i] + 1;
+            for (int j=1; j<=6; j++)
+            {
+                if (i+j<arr.size())
+                {
+                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
+                    else
+                    {
+                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
+                    }
+                }
+            }
+        }
+        for (int i=0; i!=arr.size(); i++)
+        {
+            t = ans[i] + 1;
+            for (int j=1; j<=6; j++)
+            {
+                if (i+j<arr.size())
+                {
+                    if (arr[i+j] == -2) ans[i+j] = min(ans[i+j], t);
+                    else
+                    {
+                        ans[arr[i+j]] = min(ans[arr[i+j]], t);
                     }
                 }
             }
