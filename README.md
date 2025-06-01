@@ -3127,6 +3127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nikitiwe/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search
@@ -4357,6 +4358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
