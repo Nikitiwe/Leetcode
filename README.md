@@ -1209,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
 |  |
@@ -2354,6 +2355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Nikitiwe/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -4362,6 +4364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -4553,6 +4556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
 | ------- |
