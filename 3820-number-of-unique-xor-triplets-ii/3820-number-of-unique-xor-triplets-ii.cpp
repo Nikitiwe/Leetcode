@@ -6,7 +6,7 @@ public:
         {
             for (int j=i; j<nums.size(); j++) s.insert(nums[i] ^ nums[j]);
         }
-        vector<bool> arr(3000, 0);
+        vector<bool> arr(2048, 0);
         for (int i=0; i!=nums.size(); i++)
         {
             for (int j=0; j!=arr.size(); j++)
