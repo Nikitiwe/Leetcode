@@ -1147,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -2599,6 +2600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/Nikitiwe/Leetcode/tree/master/3518-maximum-multiplication-score) |
