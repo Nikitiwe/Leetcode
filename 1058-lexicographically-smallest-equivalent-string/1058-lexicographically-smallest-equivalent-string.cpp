@@ -7,7 +7,7 @@ public:
         {
             arr[s1[i] - 'a'] += s2[i];
         }
-        for (int k=0; k<7; k++)
+        for (int k=0; k<2; k++)
         {
             for (int c=0; c<26; c++)
             {
