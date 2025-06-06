@@ -857,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-maximum-xor-after-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2411-spiral-matrix-iv](https://github.com/Nikitiwe/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nikitiwe/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Nikitiwe/Leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Nikitiwe/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -1304,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2241-recover-the-original-array](https://github.com/Nikitiwe/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Nikitiwe/Leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nikitiwe/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nikitiwe/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1516,6 +1518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nikitiwe/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Nikitiwe/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Nikitiwe/Leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Nikitiwe/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -3253,6 +3256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Nikitiwe/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikitiwe/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nikitiwe/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/Nikitiwe/Leetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Nikitiwe/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
