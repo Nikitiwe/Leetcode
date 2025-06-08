@@ -4692,6 +4692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Nikitiwe/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nikitiwe/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0437-path-sum-iii) |
@@ -5215,6 +5216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Nikitiwe/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikitiwe/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0386-lexicographical-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Nikitiwe/Leetcode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Nikitiwe/Leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Nikitiwe/Leetcode/tree/master/0676-implement-magic-dictionary) |
