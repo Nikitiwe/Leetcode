@@ -1215,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1931,6 +1932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
