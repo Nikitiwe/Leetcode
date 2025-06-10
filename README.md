@@ -3162,6 +3162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3811-reverse-degree-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nikitiwe/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Binary Search
 |  |
 | ------- |
@@ -3923,6 +3924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Counting
 |  |
 | ------- |
@@ -4485,6 +4487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3738-make-array-non-decreasing](https://github.com/Nikitiwe/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
