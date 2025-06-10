@@ -1216,6 +1216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1615,6 +1616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Nikitiwe/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Graph
 |  |
 | ------- |
@@ -1933,6 +1935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -2042,6 +2045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Math
 |  |
 | ------- |
@@ -3749,6 +3753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Geometry
 |  |
 | ------- |
