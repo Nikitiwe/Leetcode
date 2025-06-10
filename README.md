@@ -1215,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -3338,6 +3339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Nikitiwe/Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -4400,6 +4402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -4595,6 +4598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nikitiwe/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Backtracking
 |  |
 | ------- |
