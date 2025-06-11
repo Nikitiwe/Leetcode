@@ -3159,6 +3159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -4338,6 +4339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -4405,6 +4407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nikitiwe/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -5052,6 +5055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-minimum-positive-sum-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Nikitiwe/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Game Theory
 |  |
 | ------- |
