@@ -1217,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -4214,6 +4215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Brainteaser
 |  |
@@ -4348,6 +4350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Nikitiwe/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -4419,6 +4422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3805-maximize-active-section-with-trade-i](https://github.com/Nikitiwe/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
