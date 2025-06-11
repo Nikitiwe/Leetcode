@@ -31,8 +31,7 @@ public:
                             if (anbc.size() > 0)
                             {
                                 auto [z, x, y] = anbc.top();
-                                x *=-1; y *= -1;
-                                if (ca - x > 0 && cb - y > 0) ans = max(ans, ca - x - cb + y);
+                                if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                         else if (ca % 2 == 0 && cb % 2 == 1)
@@ -40,8 +39,7 @@ public:
                             if (anbn.size() > 0)
                             {
                                 auto [z, x, y] = anbn.top();
-                                x *=-1; y *= -1;
-                                if (ca - x > 0 && cb - y > 0) ans = max(ans, ca - x - cb + y);
+                                if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                         else if (ca % 2 == 1 && cb % 2 == 0)
@@ -49,8 +47,7 @@ public:
                             if (acbc.size() > 0)
                             {
                                 auto [z, x, y] = acbc.top();
-                                x *=-1; y *= -1;
-                                if (ca - x > 0 && cb - y > 0) ans = max(ans, ca - x - cb + y);
+                                if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                         else
@@ -58,8 +55,7 @@ public:
                             if (acbn.size() > 0)
                             {
                                 auto [z, x, y] = acbn.top();
-                                x *=-1; y *= -1;
-                                if (ca - x > 0 && cb - y > 0) ans = max(ans, ca - x - cb + y);
+                                if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                     }
