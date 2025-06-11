@@ -8,7 +8,7 @@ public:
             {
                 if (a != b)
                 {
-                    priority_queue<tuple<int,int,int>> acbc, acbn, anbc, anbn;
+                    tuple<int,int,int> acbc{-1,-1,-1}, acbn{-1,-1,-1}, anbc{-1,-1,-1}, anbn{-1,-1,-1};
                     int ca = 0, cb = 0;
                     vector<pair<int, int>> arr {{0,0}};
                     for (int i=0; i!=s.size(); i++)
@@ -20,41 +20,54 @@ public:
                         if (i >= k-1)
                         {
                             auto [x, y] = arr[i-k+1];
-                            if (x % 2 == 0 && y % 2 == 0) acbc.push({-x+y, -x, -y});
-                            else if (x % 2 == 0 && y % 2 == 1) acbn.push({-x+y, -x, -y});
-                            else if (x % 2 == 1 && y % 2 == 0) anbc.push({-x+y, -x, -y});
-                            else anbn.push({-x+y, -x, -y});
+                            tuple<int,int,int> t{-x+y, -x, -y};
+                            if (x % 2 == 0 && y % 2 == 0)
+                            {
+                                acbc = max(acbc, t);
+                            }
+                            else if (x % 2 == 0 && y % 2 == 1)
+                            {
+                                acbn = max(acbn, t);
+                            }
+                            else if (x % 2 == 1 && y % 2 == 0)
+                            {
+                                anbc = max(anbc, t);
+                            }
+                            else
+                            {
+                                anbn = max(anbn, t);
+                            }
                         }
 
                         if (ca % 2 == 0 && cb % 2 == 0)
                         {
-                            if (anbc.size() > 0)
+                            if (anbc != tuple<int, int, int>{-1, -1, -1})
                             {
-                                auto [z, x, y] = anbc.top();
+                                auto [z, x, y] = anbc;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                         else if (ca % 2 == 0 && cb % 2 == 1)
                         {
-                            if (anbn.size() > 0)
+                            if (anbn != tuple<int, int, int>{-1, -1, -1})
                             {
-                                auto [z, x, y] = anbn.top();
+                                auto [z, x, y] = anbn;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                         else if (ca % 2 == 1 && cb % 2 == 0)
                         {
-                            if (acbc.size() > 0)
+                            if (acbc != tuple<int, int, int>{-1, -1, -1})
                             {
-                                auto [z, x, y] = acbc.top();
+                                auto [z, x, y] = acbc;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
                         else
                         {
-                            if (acbn.size() > 0)
+                            if (acbn != tuple<int, int, int>{-1, -1, -1})
                             {
-                                auto [z, x, y] = acbn.top();
+                                auto [z, x, y] = acbn;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
                             }
                         }
