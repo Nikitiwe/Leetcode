@@ -8,7 +8,7 @@ public:
             {
                 if (a != b)
                 {
-                    tuple<int,int,int> acbc{-1,-1,-1}, acbn{-1,-1,-1}, anbc{-1,-1,-1}, anbn{-1,-1,-1};
+                    tuple<int,int,int> acbc{-1,-1,-1}, acbn{-1,-1,-1}, anbc{-1,-1,-1}, anbn{-1,-1,-1}, zero{-1,-1,-1};
                     int ca = 0, cb = 0;
                     vector<pair<int, int>> arr {{0,0}};
                     for (int i=0; i!=s.size(); i++)
@@ -41,7 +41,7 @@ public:
 
                         if (ca % 2 == 0 && cb % 2 == 0)
                         {
-                            if (anbc != tuple<int, int, int>{-1, -1, -1})
+                            if (anbc != zero)
                             {
                                 auto [z, x, y] = anbc;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
@@ -49,7 +49,7 @@ public:
                         }
                         else if (ca % 2 == 0 && cb % 2 == 1)
                         {
-                            if (anbn != tuple<int, int, int>{-1, -1, -1})
+                            if (anbn != zero)
                             {
                                 auto [z, x, y] = anbn;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
@@ -57,7 +57,7 @@ public:
                         }
                         else if (ca % 2 == 1 && cb % 2 == 0)
                         {
-                            if (acbc != tuple<int, int, int>{-1, -1, -1})
+                            if (acbc != zero)
                             {
                                 auto [z, x, y] = acbc;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
@@ -65,7 +65,7 @@ public:
                         }
                         else
                         {
-                            if (acbn != tuple<int, int, int>{-1, -1, -1})
+                            if (acbn != zero)
                             {
                                 auto [z, x, y] = acbn;
                                 if (ca + x > 0 && cb + y > 0) ans = max(ans, ca + x - cb - y);
