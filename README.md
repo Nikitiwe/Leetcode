@@ -1215,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -3766,6 +3767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
+| [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Geometry
@@ -4211,6 +4213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikitiwe/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Brainteaser
 |  |
@@ -4940,6 +4943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 ## Queue
 |  |
 | ------- |
