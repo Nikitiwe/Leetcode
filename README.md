@@ -1213,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3822-fill-a-special-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3822-fill-a-special-grid) |
@@ -1678,6 +1679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nikitiwe/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Greedy
@@ -3780,6 +3782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
@@ -4855,6 +4858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikitiwe/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Breadth-First Search
@@ -4967,6 +4971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nikitiwe/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 ## Queue
 |  |
@@ -5206,6 +5211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
