@@ -2388,6 +2388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Nikitiwe/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3830-find-closest-person](https://github.com/Nikitiwe/Leetcode/tree/master/3830-find-closest-person) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikitiwe/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
