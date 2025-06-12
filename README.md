@@ -1220,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -2390,6 +2391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3830-find-closest-person](https://github.com/Nikitiwe/Leetcode/tree/master/3830-find-closest-person) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikitiwe/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nikitiwe/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
