@@ -3177,6 +3177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikitiwe/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -3775,6 +3776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikitiwe/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Geometry
 |  |
@@ -4067,6 +4069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikitiwe/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
