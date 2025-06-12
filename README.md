@@ -1218,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3822-fill-a-special-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Nikitiwe/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -1676,6 +1677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nikitiwe/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Greedy
 |  |
@@ -3334,6 +3336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Recursion
 |  |
 | ------- |
@@ -3777,6 +3780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikitiwe/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -5199,6 +5203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nikitiwe/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
