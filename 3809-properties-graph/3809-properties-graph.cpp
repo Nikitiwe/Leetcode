@@ -2,16 +2,16 @@ class Solution {
 public:
     int numberOfComponents(vector<vector<int>>& p, int k) {
         vector<vector<int>> arr(p.size(), vector<int>());
-        for (int i=0; i+1<p.size(); i++)
+        vector<unordered_set<int>> s(p.size(), unordered_set<int>());
+        for (int i=0; i<p.size(); i++)
         {
-            unordered_set<int> s(p[i].begin(), p[i].end());
-            for (int j=i+1; j<p.size(); j++)
+            for (int b=0; b<p[i].size(); b++) s[i].insert(p[i][b]);
+            for (int j=0; j<i; j++)
             {
-                unordered_set<int> q(p[j].begin(), p[j].end());
                 int com = 0;
-                for (auto a = q.begin(); a!=q.end(); a++)
+                for (auto a = s[j].begin(); a!=s[j].end(); a++)
                 {
-                    if (s.count(*a) > 0) com++;
+                    if (s[i].count(*a) > 0) com++;
                 }
                 if (com >= k)
                 {
