@@ -1624,6 +1624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3859-maximum-product-of-two-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -2386,6 +2387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3817-maximum-containers-on-a-ship](https://github.com/Nikitiwe/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Nikitiwe/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Nikitiwe/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikitiwe/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
