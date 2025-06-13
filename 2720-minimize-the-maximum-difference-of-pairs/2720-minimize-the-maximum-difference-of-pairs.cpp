@@ -11,18 +11,16 @@ public:
         while (l <= r)
         {
             m = (l+r)/2;
-            int c = 0, t = 0;
+            int c = 0;
             for (int i=0; i<d.size(); i++)
             {
-                if (d[i] <= m) t++;
-                else
+                if (d[i] <= m)
                 {
-                    c += (t+1)/2;
+                    c++;
                     if (c >= p) break;
-                    t = 0;
+                    i++;
                 }
             }
-            c += (t+1)/2;
             if (c >= p)
             {
                 ans = min(ans, m);
