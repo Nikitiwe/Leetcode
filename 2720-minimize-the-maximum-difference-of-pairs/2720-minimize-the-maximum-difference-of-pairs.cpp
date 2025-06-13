@@ -18,7 +18,6 @@ public:
                 else
                 {
                     c += (t+1)/2;
-                    if (c >= p) break;
                     t = 0;
                 }
             }
