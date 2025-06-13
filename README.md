@@ -1980,6 +1980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/Nikitiwe/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Nikitiwe/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0885-exam-room](https://github.com/Nikitiwe/Leetcode/tree/master/0885-exam-room) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nikitiwe/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Nikitiwe/Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0948-sort-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/0948-sort-an-array) |
@@ -5346,6 +5347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/Nikitiwe/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Nikitiwe/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nikitiwe/Leetcode/tree/master/0860-design-circular-queue) |
+| [0885-exam-room](https://github.com/Nikitiwe/Leetcode/tree/master/0885-exam-room) |
 | [0936-rle-iterator](https://github.com/Nikitiwe/Leetcode/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/Nikitiwe/Leetcode/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/Nikitiwe/Leetcode/tree/master/0947-online-election) |
@@ -5403,6 +5405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Nikitiwe/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nikitiwe/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0885-exam-room](https://github.com/Nikitiwe/Leetcode/tree/master/0885-exam-room) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Nikitiwe/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1794-minimize-deviation-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/1794-minimize-deviation-in-array) |
