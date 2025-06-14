@@ -4,7 +4,7 @@ public:
         double k = 0;
         for (int i=0; i!=s.size(); i++) k += (double)s[i][2]*s[i][2];
         k /=2;
-        double l = 0, r = 2e9, m, ans = 0, eps = 0.000001;
+        double l = 0, r = 2e9, m, ans = 0, eps = 0.00001;
         while (l <= r - eps)
         {
             m = (l+r)/2;
