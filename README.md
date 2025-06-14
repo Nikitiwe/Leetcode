@@ -1169,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Nikitiwe/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikitiwe/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3591-shift-distance-between-two-strings](https://github.com/Nikitiwe/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Nikitiwe/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -4447,6 +4448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nikitiwe/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -4648,6 +4650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Nikitiwe/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Nikitiwe/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nikitiwe/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Nikitiwe/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
