@@ -1,7 +1,7 @@
 class Solution {
 public:
     int calculateMinimumHP(vector<vector<int>>& d) {
-        int l = 1, r = 5e7, ans = r, m, f = -r;
+        int l = 1, r = 5e6, ans = r, m, f = -r;
         while (l <= r)
         {
             m = (l+r)/2;
