@@ -2472,6 +2472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/Nikitiwe/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nikitiwe/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/Nikitiwe/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nikitiwe/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Nikitiwe/Leetcode/tree/master/0542-01-matrix) |
@@ -2792,6 +2793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/Nikitiwe/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Nikitiwe/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Nikitiwe/Leetcode/tree/master/0500-keyboard-row) |
+| [0514-freedom-trail](https://github.com/Nikitiwe/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Nikitiwe/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -4789,6 +4791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nikitiwe/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Nikitiwe/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Nikitiwe/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikitiwe/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/Nikitiwe/Leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -4913,6 +4916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/Nikitiwe/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nikitiwe/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Nikitiwe/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikitiwe/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/Nikitiwe/Leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nikitiwe/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
