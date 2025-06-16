@@ -2,16 +2,17 @@ class Solution {
 public:
     long long maximumProduct(vector<int>& nums, int m) {
         long long ans = - 1e12;
-        set<long long> s;
+        long long ma = nums[0], mi = nums[0];
         m--;
         for (int i=0; i!=nums.size(); i++)
         {
-            if (i >= m) s.insert(nums[i-m]);
-            if (s.size() > 0)
+            if (i >= m)
             {
-                ans = max(ans, nums[i]*(*s.begin()));
-                auto it = --s.end();
-                ans = max(ans, nums[i]*(*it));
+                ma = max(ma, (long long)nums[i-m]);
+                mi = min(mi, (long long)nums[i-m]);
+
+                ans = max(ans, nums[i]*ma);
+                ans = max(ans, nums[i]*mi);
             }
         }
         return ans;
