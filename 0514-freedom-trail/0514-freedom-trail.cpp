@@ -14,14 +14,17 @@ public:
         {
             for (int j=0; j<n; j++)
             {
+                vector<pair<int,int>> prev;
+                for (int p = 0; p<n; p++)
+                {
+                    if (arr[i-1][p] < 1e8) prev.push_back({p, arr[i-1][p]});
+                }
                 if (s[j] == k[i])
                 {
-                    for (int p = 0; p<n; p++)
+                    for (int p = 0; p<prev.size(); p++)
                     {
-                        if (arr[i-1][p] < 1e8)
-                        {
-                            arr[i][j] = min(arr[i][j], arr[i-1][p] + 1 + min(abs(p-j), n - abs(p-j)));
-                        }
+                        auto [id, val] = prev[p];
+                        arr[i][j] = min(arr[i][j], val + 1 + min(abs(id-j), n - abs(id-j)));
                     }
                 }
             }
