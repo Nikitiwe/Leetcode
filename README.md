@@ -765,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikitiwe/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Nikitiwe/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2139-detect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/2139-detect-squares) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Nikitiwe/Leetcode/tree/master/2145-grid-game) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Nikitiwe/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
@@ -3622,6 +3623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2122-count-special-quadruplets](https://github.com/Nikitiwe/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2139-detect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/2139-detect-squares) |
 | [2159-two-out-of-three](https://github.com/Nikitiwe/Leetcode/tree/master/2159-two-out-of-three) |
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -4049,6 +4051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikitiwe/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nikitiwe/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Nikitiwe/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2139-detect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Nikitiwe/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nikitiwe/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -5398,6 +5401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1953-finding-mk-average](https://github.com/Nikitiwe/Leetcode/tree/master/1953-finding-mk-average) |
 | [1955-seat-reservation-manager](https://github.com/Nikitiwe/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nikitiwe/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2139-detect-squares](https://github.com/Nikitiwe/Leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Nikitiwe/Leetcode/tree/master/2169-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/Nikitiwe/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
