@@ -946,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Nikitiwe/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nikitiwe/Leetcode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2634-minimum-common-value](https://github.com/Nikitiwe/Leetcode/tree/master/2634-minimum-common-value) |
 | [2636-maximum-subsequence-score](https://github.com/Nikitiwe/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -1567,6 +1568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Nikitiwe/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2603-reward-top-k-students](https://github.com/Nikitiwe/Leetcode/tree/master/2603-reward-top-k-students) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Nikitiwe/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2636-maximum-subsequence-score](https://github.com/Nikitiwe/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nikitiwe/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nikitiwe/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -4238,6 +4240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nikitiwe/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Nikitiwe/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/Nikitiwe/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Nikitiwe/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2662-check-knight-tour-configuration](https://github.com/Nikitiwe/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nikitiwe/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
