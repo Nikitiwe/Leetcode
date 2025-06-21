@@ -3202,6 +3202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/Nikitiwe/Leetcode/tree/master/3636-check-balanced-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nikitiwe/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3684-substring-matching-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/3684-substring-matching-pattern) |
 | [3709-find-special-substring-of-length-k](https://github.com/Nikitiwe/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -5190,6 +5191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nikitiwe/Leetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/Nikitiwe/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## Hash Function
 |  |
 | ------- |
