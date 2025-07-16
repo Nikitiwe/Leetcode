@@ -1166,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nikitiwe/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Nikitiwe/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nikitiwe/Leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -2673,6 +2674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/Nikitiwe/Leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
