@@ -1225,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Nikitiwe/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikitiwe/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
@@ -1970,6 +1971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nikitiwe/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikitiwe/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Nikitiwe/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -3829,6 +3831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nikitiwe/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nikitiwe/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikitiwe/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
