@@ -2,11 +2,11 @@ class Solution {
 public:
     bool reorderedPowerOf2(int n) {
         vector<string> pow;
-        int a=1;
+        int a = 1;
         string temp;
         for (int i=1; i<=30; i++)
         {
-            temp=to_string(a);
+            temp = to_string(a);
             sort(temp.begin(), temp.end());
             pow.push_back(temp);
             a*=2;
