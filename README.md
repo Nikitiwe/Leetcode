@@ -1162,6 +1162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nikitiwe/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nikitiwe/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -4285,6 +4286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3398-make-a-square-with-the-same-color](https://github.com/Nikitiwe/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Nikitiwe/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikitiwe/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nikitiwe/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
