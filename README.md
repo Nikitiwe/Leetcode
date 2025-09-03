@@ -1110,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nikitiwe/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/Nikitiwe/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3272-find-the-grid-of-region-average](https://github.com/Nikitiwe/Leetcode/tree/master/3272-find-the-grid-of-region-average) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -1621,6 +1622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Nikitiwe/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nikitiwe/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nikitiwe/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Nikitiwe/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -2391,6 +2393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Nikitiwe/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nikitiwe/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikitiwe/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nikitiwe/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Nikitiwe/Leetcode/tree/master/3321-type-of-triangle) |
@@ -3874,6 +3877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2332-count-lattice-points-inside-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Nikitiwe/Leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Nikitiwe/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nikitiwe/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Simulation
@@ -4495,6 +4499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nikitiwe/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/Nikitiwe/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nikitiwe/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Nikitiwe/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nikitiwe/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
