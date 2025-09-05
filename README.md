@@ -4320,6 +4320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/Nikitiwe/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikitiwe/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nikitiwe/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2850-construct-the-longest-new-string](https://github.com/Nikitiwe/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Prefix Sum
 |  |
@@ -4483,6 +4484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/Nikitiwe/Leetcode/tree/master/2810-collecting-chocolates) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nikitiwe/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/Nikitiwe/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -4696,6 +4698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2754-maximum-strength-of-a-group](https://github.com/Nikitiwe/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nikitiwe/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nikitiwe/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikitiwe/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2953-count-pairs-of-points-with-distance-k](https://github.com/Nikitiwe/Leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Nikitiwe/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
