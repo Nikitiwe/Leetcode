@@ -873,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Nikitiwe/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
@@ -2058,6 +2059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Nikitiwe/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Nikitiwe/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nikitiwe/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Nikitiwe/Leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nikitiwe/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -3109,6 +3111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Nikitiwe/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/Nikitiwe/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nikitiwe/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nikitiwe/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -3693,6 +3696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Nikitiwe/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nikitiwe/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2430-number-of-excellent-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2433-best-poker-hand](https://github.com/Nikitiwe/Leetcode/tree/master/2433-best-poker-hand) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Nikitiwe/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -5455,6 +5459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-design-an-atm-machine](https://github.com/Nikitiwe/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2389-design-a-text-editor](https://github.com/Nikitiwe/Leetcode/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -5499,6 +5504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-stock-price-fluctuation](https://github.com/Nikitiwe/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Nikitiwe/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Nikitiwe/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
