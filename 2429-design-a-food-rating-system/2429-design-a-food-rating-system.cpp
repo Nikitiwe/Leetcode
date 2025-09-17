@@ -35,7 +35,7 @@ public:
             foo = rev(foo);
             if (r[foo] == rat) return foo;
             t[cuisine].pop();
-            t[cuisine].push({r[foo], rev(foo)});
+            //t[cuisine].push({r[foo], rev(foo)});
         }
         return "";
     }
