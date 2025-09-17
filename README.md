@@ -1247,6 +1247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1371,6 +1372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikitiwe/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nikitiwe/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -4314,6 +4316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Nikitiwe/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nikitiwe/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Brainteaser
 |  |
 | ------- |
