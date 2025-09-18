@@ -2098,6 +2098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nikitiwe/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nikitiwe/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/Nikitiwe/Leetcode/tree/master/3678-design-task-manager) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -3843,6 +3844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-find-mirror-score-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3646-sum-of-good-subsequences](https://github.com/Nikitiwe/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nikitiwe/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Nikitiwe/Leetcode/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Nikitiwe/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Nikitiwe/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3750-closest-equal-element-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3750-closest-equal-element-queries) |
@@ -5465,6 +5467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Nikitiwe/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Nikitiwe/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3678-design-task-manager](https://github.com/Nikitiwe/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Interactive
 |  |
@@ -5511,6 +5514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-merge-similar-items](https://github.com/Nikitiwe/Leetcode/tree/master/2447-merge-similar-items) |
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/Nikitiwe/Leetcode/tree/master/3363-most-frequent-ids) |
+| [3678-design-task-manager](https://github.com/Nikitiwe/Leetcode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
