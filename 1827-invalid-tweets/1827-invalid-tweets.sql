@@ -1,3 +1,3 @@
 SELECT tweet_id
 FROM Tweets
-WHERE content like '________________%'
+WHERE CHAR_LENGTH(content) > 15
