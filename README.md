@@ -5827,4 +5827,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nikitiwe/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nikitiwe/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nikitiwe/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
