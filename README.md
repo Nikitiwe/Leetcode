@@ -5835,6 +5835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0608-tree-node](https://github.com/Nikitiwe/Leetcode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Nikitiwe/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Nikitiwe/Leetcode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Nikitiwe/Leetcode/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/Nikitiwe/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Nikitiwe/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Nikitiwe/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
