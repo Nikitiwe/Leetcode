@@ -5847,6 +5847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1837-daily-leads-and-partners](https://github.com/Nikitiwe/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Nikitiwe/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nikitiwe/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/Nikitiwe/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/Nikitiwe/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/Nikitiwe/Leetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/Nikitiwe/Leetcode/tree/master/2110-employees-with-missing-information) |
