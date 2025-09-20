@@ -1237,6 +1237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3822-fill-a-special-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3827-implement-router](https://github.com/Nikitiwe/Leetcode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Nikitiwe/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -3403,6 +3404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3750-closest-equal-element-queries](https://github.com/Nikitiwe/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Nikitiwe/Leetcode/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Nikitiwe/Leetcode/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Recursion
 |  |
@@ -3856,6 +3858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3809-properties-graph](https://github.com/Nikitiwe/Leetcode/tree/master/3809-properties-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/Nikitiwe/Leetcode/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/Nikitiwe/Leetcode/tree/master/3827-implement-router) |
 | [3837-grid-teleportation-traversal](https://github.com/Nikitiwe/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Nikitiwe/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nikitiwe/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -5095,6 +5098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/Nikitiwe/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Nikitiwe/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nikitiwe/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Nikitiwe/Leetcode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -5469,6 +5473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3516-design-neighbor-sum-service](https://github.com/Nikitiwe/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3678-design-task-manager](https://github.com/Nikitiwe/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Nikitiwe/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Nikitiwe/Leetcode/tree/master/3827-implement-router) |
 ## Interactive
 |  |
 | ------- |
@@ -5517,6 +5522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/Nikitiwe/Leetcode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Nikitiwe/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Nikitiwe/Leetcode/tree/master/3827-implement-router) |
 ## Counting Sort
 |  |
 | ------- |
