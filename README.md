@@ -5876,5 +5876,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3530-odd-and-even-transactions](https://github.com/Nikitiwe/Leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3816-dna-pattern-recognition](https://github.com/Nikitiwe/Leetcode/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/Nikitiwe/Leetcode/tree/master/3848-analyze-subscription-conversion) |
+| [3865-find-product-recommendation-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3865-find-product-recommendation-pairs) |
 | [3891-find-category-recommendation-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3891-find-category-recommendation-pairs) |
 <!---LeetCode Topics End-->
