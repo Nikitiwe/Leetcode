@@ -6,5 +6,5 @@ WHERE salary = (
     SELECT MAX(salary)
     FROM Employee AS t2
     WHERE t1.departmentId = t2.departmentId
-    GROUP BY t2.departmentId
+    #GROUP BY t2.departmentId
 ) #AS t
