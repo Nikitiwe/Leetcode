@@ -5857,6 +5857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1153-product-sales-analysis-i](https://github.com/Nikitiwe/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Nikitiwe/Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Nikitiwe/Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1268-market-analysis-i](https://github.com/Nikitiwe/Leetcode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Nikitiwe/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/Nikitiwe/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/Nikitiwe/Leetcode/tree/master/1415-students-and-examinations) |
