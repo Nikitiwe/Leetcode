@@ -5837,6 +5837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nikitiwe/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Nikitiwe/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Nikitiwe/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Nikitiwe/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nikitiwe/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
