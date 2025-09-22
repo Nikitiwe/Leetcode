@@ -5898,4 +5898,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3891-find-category-recommendation-pairs](https://github.com/Nikitiwe/Leetcode/tree/master/3891-find-category-recommendation-pairs) |
 | [3898-seasonal-sales-analysis](https://github.com/Nikitiwe/Leetcode/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/Nikitiwe/Leetcode/tree/master/3910-find-books-with-no-available-copies) |
+| [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/Nikitiwe/Leetcode/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
 <!---LeetCode Topics End-->
