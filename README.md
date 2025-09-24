@@ -5870,6 +5870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1182-game-play-analysis-iv](https://github.com/Nikitiwe/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1268-market-analysis-i](https://github.com/Nikitiwe/Leetcode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Nikitiwe/Leetcode/tree/master/1278-product-price-at-a-given-date) |
+| [1292-immediate-food-delivery-ii](https://github.com/Nikitiwe/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Nikitiwe/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Nikitiwe/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Nikitiwe/Leetcode/tree/master/1390-average-selling-price) |
