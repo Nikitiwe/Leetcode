@@ -1251,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikitiwe/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1993,6 +1994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-transform-array-to-all-equal-elements](https://github.com/Nikitiwe/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikitiwe/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
