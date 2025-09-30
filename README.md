@@ -1251,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nikitiwe/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nikitiwe/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Nikitiwe/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Nikitiwe/Leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
@@ -4043,6 +4044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-fruits-into-baskets-ii](https://github.com/Nikitiwe/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nikitiwe/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Nikitiwe/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
@@ -5288,6 +5290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1873-longest-nice-substring](https://github.com/Nikitiwe/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Nikitiwe/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3822-fill-a-special-grid](https://github.com/Nikitiwe/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Nikitiwe/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
